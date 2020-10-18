@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hexdevs</title>
-    <link>https://hexdevs.github.io/</link>
+    <link>https://www.hexdevs.com/</link>
     <description>Recent content on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hexdevs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About the hexdevs podcast</title>
-      <link>https://hexdevs.github.io/about/</link>
+      <link>https://www.hexdevs.com/about/</link>
       <pubDate>Mon, 12 Oct 2020 17:07:44 -0700</pubDate>
       
-      <guid>https://hexdevs.github.io/about/</guid>
+      <guid>https://www.hexdevs.com/about/</guid>
       <description>about the hexdevs podcast</description>
     </item>
     
