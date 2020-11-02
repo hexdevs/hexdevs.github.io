@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>financial-independence on hexdevs</title>
-    <link>https://www.hexdevs.com/tags/financial-independence/</link>
-    <description>Recent content in financial-independence on hexdevs</description>
+    <title>projects on hexdevs</title>
+    <link>https://www.hexdevs.com/tags/projects/</link>
+    <description>Recent content in projects on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2020 14:21:59 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/financial-independence/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Nov 2020 19:46:20 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>12xstartup</title>
+      <link>https://www.hexdevs.com/12xstartup/</link>
+      <pubDate>Sun, 01 Nov 2020 19:46:20 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/12xstartup/</guid>
+      <description>Hey, Stefanni here! 👋
+I am happy to share that I&amp;rsquo;ve joined the 12xstartup.com challenge! Starting November 1st, and I wanted to share a few things with you:
+Goal My main goal is to work consistently, get feedback, and learn how to solve problems.
+I may not get to do 12 projects, but I will try my best. Maybe focusing on one project for 2 months or so, I don&amp;rsquo;t know yet.</description>
+    </item>
+    
     <item>
       <title>Financial Independence Course</title>
       <link>https://www.hexdevs.com/posts/writing-financial-independence-course/</link>
