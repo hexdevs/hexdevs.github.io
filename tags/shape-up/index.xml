@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shape up on hexdevs</title>
+    <link>https://www.hexdevs.com/tags/shape-up/</link>
+    <description>Recent content in shape up on hexdevs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Nov 2020 07:31:51 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/shape-up/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shape Up: Stop Running in Circles and Ship Work that Matters</title>
+      <link>https://www.hexdevs.com/posts/shape-up/</link>
+      <pubDate>Fri, 06 Nov 2020 07:31:51 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/shape-up/</guid>
+      <description>About Shape Up Shape Up is an agile product development approach used internally by Basecamp. It has three distinct phases:
+ Shaping  The product strategy team writes a pitch that describes the problem that needs to be solved, giving as much detail as needed, and proposes a solution. The level of detail should be specific enough so that the team working on the project knows what to do. It should also leave enough room so the team can figure out the best way to build a solution that fits scope and budget constraints.</description>
+    </item>
+    
+  </channel>
+</rss>
