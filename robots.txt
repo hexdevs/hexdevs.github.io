@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://www.hexdevs.com/sitemap.xml
