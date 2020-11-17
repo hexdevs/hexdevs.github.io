@@ -6,25 +6,7 @@
     <description>Recent content in Tags on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2020 19:46:20 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>12xstartup</title>
-      <link>https://www.hexdevs.com/tags/12xstartup/</link>
-      <pubDate>Mon, 09 Nov 2020 19:46:20 -0800</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/12xstartup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>https://www.hexdevs.com/tags/projects/</link>
-      <pubDate>Mon, 09 Nov 2020 19:46:20 -0800</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/projects/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 06 Nov 2020 07:31:51 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>podcast</title>
       <link>https://www.hexdevs.com/tags/podcast/</link>
@@ -44,9 +26,27 @@
     </item>
     
     <item>
+      <title>12xstartup</title>
+      <link>https://www.hexdevs.com/tags/12xstartup/</link>
+      <pubDate>Sun, 01 Nov 2020 19:46:20 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/12xstartup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://www.hexdevs.com/tags/projects/</link>
+      <pubDate>Sun, 01 Nov 2020 19:46:20 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>course</title>
       <link>https://www.hexdevs.com/tags/course/</link>
-      <pubDate>Mon, 02 Nov 2020 14:21:59 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.hexdevs.com/tags/course/</guid>
       <description></description>
@@ -55,7 +55,7 @@
     <item>
       <title>finance</title>
       <link>https://www.hexdevs.com/tags/finance/</link>
-      <pubDate>Mon, 02 Nov 2020 14:21:59 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.hexdevs.com/tags/finance/</guid>
       <description></description>
@@ -64,7 +64,7 @@
     <item>
       <title>financial-independence</title>
       <link>https://www.hexdevs.com/tags/financial-independence/</link>
-      <pubDate>Mon, 02 Nov 2020 14:21:59 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.hexdevs.com/tags/financial-independence/</guid>
       <description></description>
