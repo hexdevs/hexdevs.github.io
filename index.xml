@@ -6,11 +6,11 @@
     <description>Recent content on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2021 22:20:59 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Dec 2020 12:14:14 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>12x Startup</title>
       <link>https://www.hexdevs.com/12xstartup/</link>
-      <pubDate>Sun, 03 Jan 2021 22:20:59 -0700</pubDate>
+      <pubDate>Tue, 17 Nov 2020 15:00:20 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/12xstartup/</guid>
       <description>Hey, Stefanni here! 👋
@@ -20,30 +20,9 @@ I may not get to do 12 projects, but I will try my best. I will also continue wr
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://www.hexdevs.com/about/</link>
-      <pubDate>Sun, 03 Jan 2021 22:20:59 -0700</pubDate>
-      
-      <guid>https://www.hexdevs.com/about/</guid>
-      <description>About the hexdevs podcast/blog and the team.</description>
-    </item>
-    
-    <item>
-      <title>Financial Independence Course</title>
-      <link>https://www.hexdevs.com/posts/writing-financial-independence-course/</link>
-      <pubDate>Sun, 03 Jan 2021 22:20:59 -0700</pubDate>
-      
-      <guid>https://www.hexdevs.com/posts/writing-financial-independence-course/</guid>
-      <description>If you’ve been following us for a while, you know we are super passionate about FIRE/financial independence.
-Five years ago, we didn&amp;rsquo;t even know where our money was going. Our dream of moving abroad felt so far away: we didn&amp;rsquo;t have any money. But we knew we had to do something about it!
-We made a promise: that we would never have problems with money anymore.
-We started budgeting, investing, and growing our net worth.</description>
-    </item>
-    
-    <item>
       <title>Immigration to Canada via Express Entry</title>
       <link>https://www.hexdevs.com/posts/immigration-to-canada-via-express-entry/</link>
-      <pubDate>Sun, 03 Jan 2021 22:20:59 -0700</pubDate>
+      <pubDate>Tue, 29 Dec 2020 12:14:14 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/immigration-to-canada-via-express-entry/</guid>
       <description>How to immigrate to Canada via Express Entry If you ever wanted to move to Canada, this is the time. Canada is planning on bringing more than 1 million immigrants in the next 3 years!
@@ -54,11 +33,32 @@ We recorded a podcast episode and Dimitrii asked us questions about moving to Ca
     <item>
       <title>Shape Up: Stop Running in Circles and Ship Work that Matters</title>
       <link>https://www.hexdevs.com/posts/shape-up/</link>
-      <pubDate>Sun, 03 Jan 2021 22:20:59 -0700</pubDate>
+      <pubDate>Fri, 06 Nov 2020 07:31:51 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/shape-up/</guid>
       <description>About Shape Up Shape Up is an agile product development approach used internally by Basecamp. It has three distinct phases:
  Shaping  The product strategy team writes a pitch that describes the problem that needs to be solved, giving as much detail as needed, and proposes a solution. The level of detail should be specific enough so that the team working on the project knows what to do. It should also leave enough room so the team can figure out the best way to build a solution that fits scope and budget constraints.</description>
+    </item>
+    
+    <item>
+      <title>Financial Independence Course</title>
+      <link>https://www.hexdevs.com/posts/writing-financial-independence-course/</link>
+      <pubDate>Mon, 02 Nov 2020 14:21:59 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/writing-financial-independence-course/</guid>
+      <description>If you’ve been following us for a while, you know we are super passionate about FIRE/financial independence.
+Five years ago, we didn&amp;rsquo;t even know where our money was going. Our dream of moving abroad felt so far away: we didn&amp;rsquo;t have any money. But we knew we had to do something about it!
+We made a promise: that we would never have problems with money anymore.
+We started budgeting, investing, and growing our net worth.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.hexdevs.com/about/</link>
+      <pubDate>Mon, 12 Oct 2020 17:07:44 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/about/</guid>
+      <description>About the hexdevs podcast/blog and the team.</description>
     </item>
     
   </channel>
