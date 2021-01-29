@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.hexdevs.com/12xstartup/</loc>
-    <lastmod>2021-01-03T22:20:59-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/12xstartup/</loc>
-    <lastmod>2021-01-20T14:59:04-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/tags/dev-to-founder/</loc>
     <lastmod>2021-01-20T14:59:04-08:00</lastmod>
   </url>
@@ -68,16 +58,6 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/tags/indie-hackers/</loc>
-    <lastmod>2021-01-03T22:20:59-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/projects/</loc>
-    <lastmod>2021-01-03T22:20:59-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/tags/shape-up/</loc>
     <lastmod>2021-01-03T22:20:59-07:00</lastmod>
   </url>
@@ -104,6 +84,11 @@
   
   <url>
     <loc>https://www.hexdevs.com/tags/financial-independence/</loc>
+    <lastmod>2021-01-03T22:20:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/projects/</loc>
     <lastmod>2021-01-03T22:20:59-07:00</lastmod>
   </url>
   
