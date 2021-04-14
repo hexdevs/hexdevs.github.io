@@ -6,7 +6,21 @@
     <description>Recent content in Posts on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Mar 2021 18:31:55 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Apr 2021 13:32:34 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>There are so many ways to change Rails production data, which one should I pick?</title>
+      <link>https://www.hexdevs.com/posts/rails-data-migrations/</link>
+      <pubDate>Tue, 13 Apr 2021 13:32:34 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/rails-data-migrations/</guid>
+      <description>What is the proper way to change data in a Rails application running in production?
+You might be spending a lot of time asking yourself how to change data in production.
+Should you run data and schema modifications in one database migration?
+Should you run rake scripts in production to modify data?
+Should you pick one of the many specialized data migration gems? And if so, which one?
+Some people will tell you that changing data with a database migration is an anti-pattern and migrations should only contain DDL statements such as create/alter/drop tables, columns, or indexes.</description>
+    </item>
+    
     <item>
       <title>My Dev to Founder Journey: Plan. Execute. Finish</title>
       <link>https://www.hexdevs.com/posts/dev-to-founder-06-plan-execute-finish/</link>
