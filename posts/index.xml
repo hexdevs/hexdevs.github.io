@@ -6,7 +6,17 @@
     <description>Recent content in Posts on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Apr 2021 13:32:34 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Apr 2021 12:50:17 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taking the Leap Into Entrepreneurship With Monica Lent</title>
+      <link>https://www.hexdevs.com/posts/taking-the-leap-into-entrepreneurship-with-monica-lent/</link>
+      <pubDate>Mon, 26 Apr 2021 12:50:17 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/taking-the-leap-into-entrepreneurship-with-monica-lent/</guid>
+      <description>Monica Lent is a software engineer and entrepreneur. She decided to quit her job and bootstrap Affilimate full-time. She also created Blogging for Devs, a paid community to help developers grow their technical blogs with SEO.
+Show Notes  Monica Lent&amp;rsquo;s website Affilimate Blogging for Devs Monica&amp;rsquo;s Income Report Amy Hoy&amp;rsquo;s post about content marketing Sign up for our email list  Transcript Hexdevs Episode with Monica Lent [00:00:00] Stefanni Brasil: [00:00:10] Our guest today is Monica Lent.</description>
+    </item>
+    
     <item>
       <title>How should I change production data on a new Rails application?</title>
       <link>https://www.hexdevs.com/posts/rails-data-migrations/</link>

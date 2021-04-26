@@ -3,23 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.hexdevs.com/tags/hexdevs/</loc>
+    <lastmod>2021-04-26T13:03:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/</loc>
+    <lastmod>2021-04-26T13:03:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/podcast/</loc>
+    <lastmod>2021-04-26T13:03:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/</loc>
+    <lastmod>2021-04-26T13:03:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/</loc>
+    <lastmod>2021-04-26T13:03:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/taking-the-leap-into-entrepreneurship-with-monica-lent/</loc>
+    <lastmod>2021-04-26T13:03:53-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.hexdevs.com/tags/data-migration/</loc>
     <lastmod>2021-04-26T10:51:44-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/</loc>
-    <lastmod>2021-04-26T12:05:28-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/posts/rails-data-migrations/</loc>
     <lastmod>2021-04-26T10:51:44-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/</loc>
-    <lastmod>2021-04-26T12:05:28-07:00</lastmod>
   </url>
   
   <url>
@@ -35,21 +55,6 @@
   <url>
     <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
     <lastmod>2021-04-26T10:51:44-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/</loc>
-    <lastmod>2021-04-26T12:05:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/hexdevs/</loc>
-    <lastmod>2021-04-26T12:05:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/podcast/</loc>
-    <lastmod>2021-04-26T12:05:28-07:00</lastmod>
   </url>
   
   <url>
