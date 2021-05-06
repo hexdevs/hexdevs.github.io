@@ -19,16 +19,6 @@ Show Notes  Monica Lent&amp;rsquo;s website Affilimate Blogging for Devs Monica&
     </item>
     
     <item>
-      <title>How should I change production data on a new Rails application?</title>
-      <link>https://www.hexdevs.com/posts/rails-data-migrations/</link>
-      <pubDate>Tue, 13 Apr 2021 13:32:34 -0700</pubDate>
-      
-      <guid>https://www.hexdevs.com/posts/rails-data-migrations/</guid>
-      <description>You might be spending a lot of time asking yourself these questions:
- What is the proper way to change data in production? Should I run data and schema modifications in one database migration? Should I run rake scripts in production to modify data? Should I use a specialized data migration gem?  Some people will tell you that changing data with a database migration is an anti-pattern and migrations should only contain schema changes.</description>
-    </item>
-    
-    <item>
       <title>My Dev to Founder Journey: Plan. Execute. Finish</title>
       <link>https://www.hexdevs.com/posts/dev-to-founder-06-plan-execute-finish/</link>
       <pubDate>Mon, 22 Mar 2021 18:31:55 -0700</pubDate>
