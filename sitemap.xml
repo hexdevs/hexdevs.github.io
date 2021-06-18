@@ -3,18 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.hexdevs.com/open-source-thursdays/</loc>
-    <lastmod>2021-05-08T12:59:12-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/tags/hexdevs/</loc>
-    <lastmod>2021-04-28T17:12:52-07:00</lastmod>
+    <lastmod>2021-06-17T20:48:34-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/</loc>
-    <lastmod>2021-05-02T12:41:51-07:00</lastmod>
+    <lastmod>2021-06-17T20:48:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/watch-party/</loc>
+    <lastmod>2021-06-17T20:48:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/</loc>
+    <lastmod>2021-06-17T20:48:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/open-source-thursdays/</loc>
+    <lastmod>2021-06-17T20:48:17-07:00</lastmod>
   </url>
   
   <url>
@@ -24,12 +34,7 @@
   
   <url>
     <loc>https://www.hexdevs.com/posts/</loc>
-    <lastmod>2021-05-02T12:41:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/</loc>
-    <lastmod>2021-05-02T12:41:51-07:00</lastmod>
+    <lastmod>2021-04-28T17:12:52-07:00</lastmod>
   </url>
   
   <url>
@@ -38,28 +43,8 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/tags/dev-to-founder/</loc>
-    <lastmod>2021-05-02T12:41:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/dev-to-founder-06-plan-execute-finish/</loc>
-    <lastmod>2021-05-02T12:41:51-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/posts/unusual-tech-jobs/</loc>
     <lastmod>2021-04-26T12:05:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/dev-to-founder-05-spark-your-runway-with-fire/</loc>
-    <lastmod>2021-05-02T12:41:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/dev-to-founder-04-painstorming-results/</loc>
-    <lastmod>2021-05-02T12:41:51-07:00</lastmod>
   </url>
   
   <url>
@@ -68,83 +53,13 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/posts/dev-to-founder-03-starting-again/</loc>
-    <lastmod>2021-05-02T12:41:51-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/posts/grow-micro-saas-to-30k-per-month-delightchat-episode/</loc>
     <lastmod>2021-02-18T09:21:07-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/posts/sales-safari-on-shopify/</loc>
-    <lastmod>2021-05-02T12:41:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/my-dev-to-founder-journey/</loc>
-    <lastmod>2021-05-02T12:41:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/canada/</loc>
-    <lastmod>2021-02-18T09:21:07-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/express-entry/</loc>
-    <lastmod>2021-02-18T09:21:07-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/immigration/</loc>
-    <lastmod>2021-02-18T09:21:07-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/immigration-to-canada-via-express-entry/</loc>
-    <lastmod>2021-02-18T09:21:07-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/shape-up/</loc>
-    <lastmod>2021-02-18T09:21:07-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/shape-up/</loc>
-    <lastmod>2021-02-18T09:21:07-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/course/</loc>
-    <lastmod>2021-02-18T09:21:07-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/finance/</loc>
-    <lastmod>2021-02-18T09:21:07-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/writing-financial-independence-course/</loc>
-    <lastmod>2021-02-18T09:21:07-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/financial-independence/</loc>
-    <lastmod>2021-02-18T09:21:07-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/projects/</loc>
-    <lastmod>2021-02-18T09:21:07-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/about/</loc>
-    <lastmod>2021-05-02T12:41:51-07:00</lastmod>
+    <lastmod>2021-06-17T21:36:49-07:00</lastmod>
   </url>
   
   <url>
