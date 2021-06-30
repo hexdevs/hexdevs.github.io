@@ -6,7 +6,18 @@
     <description>Recent content on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jun 2021 20:28:21 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jun 2021 19:22:48 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Pry Debug in 5 minutes</title>
+      <link>https://www.hexdevs.com/posts/pry-debug-in-5-minutes/</link>
+      <pubDate>Tue, 29 Jun 2021 19:22:48 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/pry-debug-in-5-minutes/</guid>
+      <description>When you&amp;rsquo;re banging your head against the wall trying to fix a bug, the last thing you want is having to stop and learn how to use the debugging tool.
+The last time this happened, you added require &#39;pry&#39; on a ruby file but quickly realized you didn&amp;rsquo;t know the available commands. What&amp;rsquo;s that noise? Oh, it&amp;rsquo;s the sound of more frustration being added to your day!
+If only there was a way for you to quickly learn how to use Pry&amp;hellip; Well, there is now!</description>
+    </item>
+    
     <item>
       <title>hexdevs Watch Party</title>
       <link>https://www.hexdevs.com/watch-party/</link>
