@@ -6,17 +6,16 @@
     <description>Recent content in Expert Sessions on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jul 2021 12:56:00 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/expert-sessions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jul 2021 12:56:00 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/expert-sessions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expert Session with Rafael França from Shopify</title>
       <link>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-rafael-franca-aug-5th/</link>
-      <pubDate>Wed, 21 Jul 2021 12:56:00 -0700</pubDate>
+      <pubDate>Sun, 25 Jul 2021 12:56:00 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-rafael-franca-aug-5th/</guid>
-      <description>For this session, we will have Rafael as our expert guest. Rafael is a self-appointed Rails policeman, Rails Core Team Member, Principal Engineer. He works to define to future of Ruby and Rails at Shopify.
-  * Shopify’s Privacy Policy
-See you in your inbox! 👋
-What is Open Source Thursdays? Did you always want to contribute to Rails but can&amp;rsquo;t get past getting overwhelmed and scared when looking at a big project by yourself?</description>
+      <description>Open Source Thursdays is a project from hexdevs. We&amp;rsquo;ve been making Open Source contributions more inclusive.
+On August 5th at 5 PM EST, Rafael França will join us as our expert guest. Rafael França is a Rails Core team member and Principal Engineer at Shopify. He is working to define the future of Ruby and Rails at Shopify.
+He will teach you all you need to know to get started with contributing to Ruby on Rails.</description>
     </item>
     
   </channel>

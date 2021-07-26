@@ -6,7 +6,18 @@
     <description>Recent content on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jul 2021 18:37:16 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jul 2021 12:56:00 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expert Session with Rafael França from Shopify</title>
+      <link>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-rafael-franca-aug-5th/</link>
+      <pubDate>Sun, 25 Jul 2021 12:56:00 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-rafael-franca-aug-5th/</guid>
+      <description>Open Source Thursdays is a project from hexdevs. We&amp;rsquo;ve been making Open Source contributions more inclusive.
+On August 5th at 5 PM EST, Rafael França will join us as our expert guest. Rafael França is a Rails Core team member and Principal Engineer at Shopify. He is working to define the future of Ruby and Rails at Shopify.
+He will teach you all you need to know to get started with contributing to Ruby on Rails.</description>
+    </item>
+    
     <item>
       <title>Thank You!</title>
       <link>https://www.hexdevs.com/thank-you/</link>
@@ -57,10 +68,10 @@ We host online interactive workshops with guided questions to help you effective
     
     <item>
       <title>Open Source Thursdays</title>
-      <link>https://www.hexdevs.com/open-source-thursdays/</link>
+      <link>https://www.hexdevs.com/open-source-thursdays-project/</link>
       <pubDate>Sat, 08 May 2021 12:56:00 -0700</pubDate>
       
-      <guid>https://www.hexdevs.com/open-source-thursdays/</guid>
+      <guid>https://www.hexdevs.com/open-source-thursdays-project/</guid>
       <description>What is Open Source Thursdays? Did you always want to contribute to Rails but can&amp;rsquo;t get past getting overwhelmed and scared when looking at a big project by yourself?
 That&amp;rsquo;s how we felt! We thought, why not do it live so other people can join us?
 Neither of us has done this before. The plan is to get there and do everything live, no preparing in advance. Just the real work.</description>
