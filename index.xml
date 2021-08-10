@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Aug 2021 17:40:46 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Check your email</title>
+      <link>https://www.hexdevs.com/confirm-your-subscription/</link>
+      <pubDate>Tue, 10 Aug 2021 16:03:34 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/confirm-your-subscription/</guid>
+      <description>Welcome! Please check your inbox to confirm your subscription: The email is coming from &amp;ldquo;hexdevs&amp;rdquo;. If you can&amp;rsquo;t find it in your inbox, check your other tabs or the spam folder.
+Still can&amp;rsquo;t find it? Send a message to team@hexdevs.com and we&amp;rsquo;ll fix it for you.
+See you in your inbox!</description>
+    </item>
+    
+    <item>
       <title>Newsletter</title>
       <link>https://www.hexdevs.com/newsletter/</link>
       <pubDate>Mon, 09 Aug 2021 17:40:46 -0700</pubDate>
@@ -45,14 +56,15 @@ Open Source Thursdays is a project from hexdevs to make Open Source contribution
     </item>
     
     <item>
-      <title>Thank You!</title>
+      <title>You&#39;re in!</title>
       <link>https://www.hexdevs.com/thank-you/</link>
       <pubDate>Sun, 25 Jul 2021 10:17:12 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/thank-you/</guid>
       <description>Thank you for signing up. It&amp;rsquo;s great to have you here! 🎉
-Talk soon!
--Stefanni and Thiago (hexdevs team)</description>
+The Joy of Missing Out 😊 Here are some cool things we&amp;rsquo;ve created to help you become an expert developer.
+📺 Want to become an expert Open Source Contributor? Watch How to Contribute to Ruby on Rails with Rafael França.
+🐞 Want to improve your debugging skills in 5 minutes? Read Getting Started with Pry Debug in 5 minutes and grab your Pry Cheat Sheet.</description>
     </item>
     
     <item>
