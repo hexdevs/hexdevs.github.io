@@ -28,5 +28,17 @@ Open Source Thursdays is a project from hexdevs to make Open Source contribution
 Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing.</description>
     </item>
     
+    <item>
+      <title>Just Enough Hotwire for Rails Developers with Chris Oliver (Oct 14th @ 2 PM PT)</title>
+      <link>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-chris-oliver-oct-14th/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-chris-oliver-oct-14th/</guid>
+      <description>Just Enough Hotwire for Rails Developers On October 14th at 2 PM PT, Chris Oliver (GoRails) will join our livestream as an expert guest. RSVP here.
+Agenda Want to add some JavaScript sprinkles to your Rails app but don&amp;rsquo;t have the time to learn how to use Hotwire?
+Let&amp;rsquo;s learn just enough Hotwire for Rails developers.
+We are still working on the finalized agenda and the requirements for this session, stay tuned!</description>
+    </item>
+    
   </channel>
 </rss>
