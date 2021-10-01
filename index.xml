@@ -194,16 +194,6 @@ The great thing about their story is that they&amp;rsquo;re not just building a 
     </item>
     
     <item>
-      <title>A JIT compiler for Ruby with Aaron Patterson (Sept 30th @ 2 PM PT)</title>
-      <link>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-aaron-patterson-sep-30th/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-aaron-patterson-sep-30th/</guid>
-      <description>TenderJIT: A Pure Ruby JIT Compiler for Ruby On September 30th at 2 PM PT, Aaron Patterson (@tenderlove) will join our livestream as an expert guest. RSVP here.
-Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing.</description>
-    </item>
-    
-    <item>
       <title>Just Enough Hotwire for Rails Developers with Chris Oliver (Oct 14th @ 2 PM PT)</title>
       <link>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-chris-oliver-oct-14th/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -213,6 +203,17 @@ Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusi
 Agenda Want to add some JavaScript sprinkles to your Rails app but don&amp;rsquo;t have the time to learn how to use Hotwire?
 Let&amp;rsquo;s learn just enough Hotwire for Rails developers.
 We are still working on the finalized agenda and the requirements for this session, stay tuned!</description>
+    </item>
+    
+    <item>
+      <title>TenderJIT: A JIT compiler for Ruby with Aaron Patterson (tenderlove)</title>
+      <link>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-aaron-patterson-sep-30th/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-aaron-patterson-sep-30th/</guid>
+      <description>TenderJIT: A Pure Ruby JIT Compiler for Ruby Aaron Patterson (@tenderlove) joined our livestream as an expert guest on September 30th, 2021.
+Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing.
+Make sure to follow his Twitter account to keep up on all of his thoughtful insights and pearls of wisdom such as &amp;ldquo;It&amp;rsquo;s Always Friday Somewhere!</description>
     </item>
     
   </channel>
