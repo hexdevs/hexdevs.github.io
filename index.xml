@@ -6,7 +6,20 @@
     <description>Recent content on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Aug 2021 17:04:18 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 11:50:02 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perceptual Learning == More Ruby Experts?</title>
+      <link>https://www.hexdevs.com/rubyconf2021/</link>
+      <pubDate>Wed, 20 Oct 2021 11:50:02 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/rubyconf2021/</guid>
+      <description>Hi, nice seeing you here!
+Thanks for checking out Perceptual Learning == More Ruby experts?. This talk was first presented at RubyConf2021.
+You can find the slides and the resources mentioned in this talk below:
+ Slides 🖼️ Resources mentioned in this talk 📖  Introduction I am Stefanni. Here at hexdevs, I research, design and develop programs to help you become an expert developer.
+Ever since I found out about Perceptual Learning in the book &amp;ldquo;Badass - Making users awesome&amp;rdquo;, from Kathy Sierra, I got really curious to learn more about the science behind Perceptual Learning.</description>
+    </item>
+    
     <item>
       <title>One last thing: Confirm your Subscription</title>
       <link>https://www.hexdevs.com/confirm-subscription-expert-session/</link>
@@ -135,9 +148,9 @@ We host online interactive workshops with guided questions to help you effective
       <pubDate>Sat, 08 May 2021 12:56:00 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/open-source-thursdays-project/</guid>
-      <description>What is Open Source Thursdays? Did you always want to contribute to Rails but can&amp;rsquo;t get past getting overwhelmed and scared when looking at a big project by yourself?
-That&amp;rsquo;s how we felt! We thought, why not do it live so other people can join us?
-Neither of us has done this before. The plan is to get there and do everything live, no preparing in advance. Just the real work.</description>
+      <description>Did you always want to contribute to Open Source projects but can&amp;rsquo;t get past getting overwhelmed and scared when looking at a big project just by yourself?
+Open Source Thursdays is one of our projects where we aim to contribute to Open Source projects by doing live stream sessions.
+The initial plan was to contribute to Ruby on Rails and to do everything live, with little or no preparation in advance.</description>
     </item>
     
     <item>
