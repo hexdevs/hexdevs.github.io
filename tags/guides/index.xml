@@ -14,7 +14,7 @@
       
       <guid>https://www.hexdevs.com/posts/pry-debug-in-5-minutes/</guid>
       <description>When you&amp;rsquo;re banging your head against the wall trying to fix a bug, the last thing you want is having to stop and learn how to use the debugging tool.
-The last time this happened, you added require &#39;pry&#39; on a ruby file but quickly realized you didn&amp;rsquo;t know the available commands. What&amp;rsquo;s that noise? Oh, it&amp;rsquo;s the sound of more frustration being added to your day!
+The last time this happened, you added require &#39;pry&#39; on a ruby file but quickly realized you didn&amp;rsquo;t know the available commands.
 If only there was a way for you to quickly learn how to use Pry&amp;hellip; Well, there is now!</description>
     </item>
     

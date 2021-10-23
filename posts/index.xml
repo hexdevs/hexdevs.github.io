@@ -6,7 +6,93 @@
     <description>Recent content in Posts on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Aug 2021 17:04:18 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Oct 2021 13:34:50 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Learn the Syntax of a Programming Language When You Know How to Code</title>
+      <link>https://www.hexdevs.com/posts/how-to-learn-programming-language-syntax/</link>
+      <pubDate>Sat, 23 Oct 2021 13:34:50 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/how-to-learn-programming-language-syntax/</guid>
+      <description>Are you having a hard time picking up the syntax of a new programming language, even though you know how to code?
+You&amp;rsquo;re new to Ruby, and people say it&amp;rsquo;s an easy language, but you find the syntax difficult to understand.
+You know a bit of Javascript, Python, Java, or any other language. But Ruby seems like alien technology to you.
+By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your knowledge of [INSERT PROGRAMMING LANGUAGE HERE] to Ruby.</description>
+    </item>
+    
+    <item>
+      <title>Learn Ruby on Rails Best Practices With One Exercise</title>
+      <link>https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/</link>
+      <pubDate>Sat, 23 Oct 2021 13:29:30 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/</guid>
+      <description>You want to write smooth professional-looking code.
+You&amp;rsquo;re craving some squeaky-clean code. But all you have for lunch every day is a big bowl of legacy spaghetti code.
+You consider yourself a decent developer, but you&amp;rsquo;re never sure how to organize a project. How to name things. Where some piece of business logic should live.
+How can you become a Ruby on Rails expert if the code you read every day stinks?</description>
+    </item>
+    
+    <item>
+      <title>New job, new codebase. How do you even get started?</title>
+      <link>https://www.hexdevs.com/posts/new-job-new-codebase-how-to-get-started/</link>
+      <pubDate>Sat, 23 Oct 2021 13:25:26 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/new-job-new-codebase-how-to-get-started/</guid>
+      <description>One of my readers asked:
+ How do you get started when you join a new company? How do you add features to a codebase that is massive, scary, and completely new to you?
+ The first day at your new developer job is just like the first day at a new school. 🚸
+A sea of stranger&amp;rsquo;s faces watching your every move. Unfamiliar smells in the hallway.
+Every chair is uncomfortable and makes weird noises when you sit.</description>
+    </item>
+    
+    <item>
+      <title>Examples of Successful Self-Taught Developers</title>
+      <link>https://www.hexdevs.com/posts/examples-successful-self-taught-developers/</link>
+      <pubDate>Sat, 23 Oct 2021 13:19:08 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/examples-successful-self-taught-developers/</guid>
+      <description>Let&amp;rsquo;s say you&amp;rsquo;re learning how to paint. When you look at the famous paintings at the museum, you might start asking yourself:
+&amp;ldquo;Will I ever be this good? Is this for me? Will I ever understand all of this?&amp;rdquo;
+If these questions sound familiar, it&amp;rsquo;s because you&amp;rsquo;re not alone. It&amp;rsquo;s not just you.
+Believe it or not, the same questions can be applied to coding. Some things, like painting and learning how to code, are hard.</description>
+    </item>
+    
+    <item>
+      <title>How to write Badass READMES for your Github projects</title>
+      <link>https://www.hexdevs.com/posts/github-readme-examples-and-template/</link>
+      <pubDate>Sat, 23 Oct 2021 13:16:47 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/github-readme-examples-and-template/</guid>
+      <description>You show your GitHub project to people but they don&amp;rsquo;t understand what the code is about. Why should you take time to write a good README if they can simply &amp;ldquo;read the code&amp;rdquo;?
+They won&amp;rsquo;t even look at your code if you don&amp;rsquo;t explain what&amp;rsquo;s in it for them. Why should anyone care about it?
+What about making them curious about your project? It saves them time, it shows you care about good communication and that by writing good docs you probably write good code as well.</description>
+    </item>
+    
+    <item>
+      <title>The Unstuck Guide for Developers</title>
+      <link>https://www.hexdevs.com/posts/unstuck-guide-for-developers/</link>
+      <pubDate>Sat, 23 Oct 2021 13:03:56 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/unstuck-guide-for-developers/</guid>
+      <description>When you get stuck, it’s really easy to block yourself from creatively solving your problem.
+You start asking &amp;ldquo;why am I so dumb?&amp;rdquo;, or thinking that you don’t have a programmer&amp;rsquo;s brain, or feeling that you’ll never understand anything.
+How is that helpful? It isn’t.
+The way we talk to each other (even to ourselves) impacts our performance. It’s not self-help BS. It’s how our brain works.</description>
+    </item>
+    
+    <item>
+      <title>Dev With No Experience? Here&#39;s one way to get experience today.</title>
+      <link>https://www.hexdevs.com/posts/first-ruby-dev-job-no-experience/</link>
+      <pubDate>Sat, 23 Oct 2021 12:57:15 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/first-ruby-dev-job-no-experience/</guid>
+      <description>You&amp;rsquo;re focusing on finding that first Ruby job. You&amp;rsquo;ve been practicing for months or years. You&amp;rsquo;ve been applying to entry-level jobs, even internships.
+You polish your resume. Tweak your portfolio. Attach your CV. Press Submit.
+Chirp, chirp, chirp 🦗
+Nothing happens.
+Worse: you do an amazing interview, people loved you. But then they say they are moving forward with someone else that has more experience.
+Welp, next time is going to be different.</description>
+    </item>
+    
     <item>
       <title>How to Contribute to Ruby on Rails</title>
       <link>https://www.hexdevs.com/posts/ruby-on-rails-open-source-contribution/</link>
@@ -41,7 +127,7 @@ Here it goes:
       
       <guid>https://www.hexdevs.com/posts/pry-debug-in-5-minutes/</guid>
       <description>When you&amp;rsquo;re banging your head against the wall trying to fix a bug, the last thing you want is having to stop and learn how to use the debugging tool.
-The last time this happened, you added require &#39;pry&#39; on a ruby file but quickly realized you didn&amp;rsquo;t know the available commands. What&amp;rsquo;s that noise? Oh, it&amp;rsquo;s the sound of more frustration being added to your day!
+The last time this happened, you added require &#39;pry&#39; on a ruby file but quickly realized you didn&amp;rsquo;t know the available commands.
 If only there was a way for you to quickly learn how to use Pry&amp;hellip; Well, there is now!</description>
     </item>
     

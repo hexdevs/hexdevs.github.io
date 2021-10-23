@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>problem-solving on hexdevs</title>
+    <link>https://www.hexdevs.com/tags/problem-solving/</link>
+    <description>Recent content in problem-solving on hexdevs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Oct 2021 13:03:56 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/problem-solving/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Unstuck Guide for Developers</title>
+      <link>https://www.hexdevs.com/posts/unstuck-guide-for-developers/</link>
+      <pubDate>Sat, 23 Oct 2021 13:03:56 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/unstuck-guide-for-developers/</guid>
+      <description>When you get stuck, it’s really easy to block yourself from creatively solving your problem.
+You start asking &amp;ldquo;why am I so dumb?&amp;rdquo;, or thinking that you don’t have a programmer&amp;rsquo;s brain, or feeling that you’ll never understand anything.
+How is that helpful? It isn’t.
+The way we talk to each other (even to ourselves) impacts our performance. It’s not self-help BS. It’s how our brain works.</description>
+    </item>
+    
+  </channel>
+</rss>

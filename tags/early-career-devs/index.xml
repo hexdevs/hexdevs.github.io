@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>early career devs on hexdevs</title>
+    <link>https://www.hexdevs.com/tags/early-career-devs/</link>
+    <description>Recent content in early career devs on hexdevs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Oct 2021 13:19:08 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/early-career-devs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Examples of Successful Self-Taught Developers</title>
+      <link>https://www.hexdevs.com/posts/examples-successful-self-taught-developers/</link>
+      <pubDate>Sat, 23 Oct 2021 13:19:08 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/examples-successful-self-taught-developers/</guid>
+      <description>Let&amp;rsquo;s say you&amp;rsquo;re learning how to paint. When you look at the famous paintings at the museum, you might start asking yourself:
+&amp;ldquo;Will I ever be this good? Is this for me? Will I ever understand all of this?&amp;rdquo;
+If these questions sound familiar, it&amp;rsquo;s because you&amp;rsquo;re not alone. It&amp;rsquo;s not just you.
+Believe it or not, the same questions can be applied to coding. Some things, like painting and learning how to code, are hard.</description>
+    </item>
+    
+    <item>
+      <title>How to write Badass READMES for your Github projects</title>
+      <link>https://www.hexdevs.com/posts/github-readme-examples-and-template/</link>
+      <pubDate>Sat, 23 Oct 2021 13:16:47 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/github-readme-examples-and-template/</guid>
+      <description>You show your GitHub project to people but they don&amp;rsquo;t understand what the code is about. Why should you take time to write a good README if they can simply &amp;ldquo;read the code&amp;rdquo;?
+They won&amp;rsquo;t even look at your code if you don&amp;rsquo;t explain what&amp;rsquo;s in it for them. Why should anyone care about it?
+What about making them curious about your project? It saves them time, it shows you care about good communication and that by writing good docs you probably write good code as well.</description>
+    </item>
+    
+    <item>
+      <title>The Unstuck Guide for Developers</title>
+      <link>https://www.hexdevs.com/posts/unstuck-guide-for-developers/</link>
+      <pubDate>Sat, 23 Oct 2021 13:03:56 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/unstuck-guide-for-developers/</guid>
+      <description>When you get stuck, it’s really easy to block yourself from creatively solving your problem.
+You start asking &amp;ldquo;why am I so dumb?&amp;rdquo;, or thinking that you don’t have a programmer&amp;rsquo;s brain, or feeling that you’ll never understand anything.
+How is that helpful? It isn’t.
+The way we talk to each other (even to ourselves) impacts our performance. It’s not self-help BS. It’s how our brain works.</description>
+    </item>
+    
+    <item>
+      <title>Dev With No Experience? Here&#39;s one way to get experience today.</title>
+      <link>https://www.hexdevs.com/posts/first-ruby-dev-job-no-experience/</link>
+      <pubDate>Sat, 23 Oct 2021 12:57:15 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/first-ruby-dev-job-no-experience/</guid>
+      <description>You&amp;rsquo;re focusing on finding that first Ruby job. You&amp;rsquo;ve been practicing for months or years. You&amp;rsquo;ve been applying to entry-level jobs, even internships.
+You polish your resume. Tweak your portfolio. Attach your CV. Press Submit.
+Chirp, chirp, chirp 🦗
+Nothing happens.
+Worse: you do an amazing interview, people loved you. But then they say they are moving forward with someone else that has more experience.
+Welp, next time is going to be different.</description>
+    </item>
+    
+  </channel>
+</rss>

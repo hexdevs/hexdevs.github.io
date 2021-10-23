@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ruby on hexdevs</title>
+    <link>https://www.hexdevs.com/tags/ruby/</link>
+    <description>Recent content in ruby on hexdevs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Oct 2021 13:34:50 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Learn the Syntax of a Programming Language When You Know How to Code</title>
+      <link>https://www.hexdevs.com/posts/how-to-learn-programming-language-syntax/</link>
+      <pubDate>Sat, 23 Oct 2021 13:34:50 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/how-to-learn-programming-language-syntax/</guid>
+      <description>Are you having a hard time picking up the syntax of a new programming language, even though you know how to code?
+You&amp;rsquo;re new to Ruby, and people say it&amp;rsquo;s an easy language, but you find the syntax difficult to understand.
+You know a bit of Javascript, Python, Java, or any other language. But Ruby seems like alien technology to you.
+By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your knowledge of [INSERT PROGRAMMING LANGUAGE HERE] to Ruby.</description>
+    </item>
+    
+    <item>
+      <title>Learn Ruby on Rails Best Practices With One Exercise</title>
+      <link>https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/</link>
+      <pubDate>Sat, 23 Oct 2021 13:29:30 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/</guid>
+      <description>You want to write smooth professional-looking code.
+You&amp;rsquo;re craving some squeaky-clean code. But all you have for lunch every day is a big bowl of legacy spaghetti code.
+You consider yourself a decent developer, but you&amp;rsquo;re never sure how to organize a project. How to name things. Where some piece of business logic should live.
+How can you become a Ruby on Rails expert if the code you read every day stinks?</description>
+    </item>
+    
+    <item>
+      <title>New job, new codebase. How do you even get started?</title>
+      <link>https://www.hexdevs.com/posts/new-job-new-codebase-how-to-get-started/</link>
+      <pubDate>Sat, 23 Oct 2021 13:25:26 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/new-job-new-codebase-how-to-get-started/</guid>
+      <description>One of my readers asked:
+ How do you get started when you join a new company? How do you add features to a codebase that is massive, scary, and completely new to you?
+ The first day at your new developer job is just like the first day at a new school. 🚸
+A sea of stranger&amp;rsquo;s faces watching your every move. Unfamiliar smells in the hallway.
+Every chair is uncomfortable and makes weird noises when you sit.</description>
+    </item>
+    
+  </channel>
+</rss>
