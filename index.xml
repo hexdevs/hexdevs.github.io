@@ -6,7 +6,18 @@
     <description>Recent content on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Oct 2021 13:34:50 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Oct 2021 17:40:34 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> International Pricing for Ruby and Rails Books and Courses</title>
+      <link>https://www.hexdevs.com/posts/ruby-on-rails-courses-purchasing-power-parity/</link>
+      <pubDate>Fri, 29 Oct 2021 17:40:34 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/ruby-on-rails-courses-purchasing-power-parity/</guid>
+      <description>Are you looking for courses, training, and resources to improve your Ruby and Ruby on Rails skills, but you are not being paid in US dollars?
+Most Ruby and Ruby on Rails books and courses are priced in US dollars. When you can&amp;rsquo;t afford them just because the country you live in has an undervalued currency compared to the dollar, it makes it difficult to invest in your education.
+There are many free options you probably already know about, and you&amp;rsquo;re already using them.</description>
+    </item>
+    
     <item>
       <title>How to Learn the Syntax of a Programming Language When You Know How to Code</title>
       <link>https://www.hexdevs.com/posts/how-to-learn-programming-language-syntax/</link>
