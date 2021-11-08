@@ -6,7 +6,18 @@
     <description>Recent content in best practices on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Oct 2021 13:34:50 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 14:45:57 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Improve Code Quality on a Ruby on Rails Application</title>
+      <link>https://www.hexdevs.com/posts/technical-debt-ruby-on-rails/</link>
+      <pubDate>Tue, 02 Nov 2021 14:45:57 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/technical-debt-ruby-on-rails/</guid>
+      <description>Does it take forever to ship even small features on the codebase you&amp;rsquo;re working on? Is the code hard to understand and maintain? Are projects always running over budget? Are you constantly sacrificing code quality and not paying down technical debt?
+When you change one feature, does another completely unrelated part of your app stop working? New bugs appear, even though tests never break? 🥵
+Those are signs that you are suffering from working on a codebase with low code quality.</description>
+    </item>
+    
     <item>
       <title>How to Learn the Syntax of a Programming Language When You Know How to Code</title>
       <link>https://www.hexdevs.com/posts/how-to-learn-programming-language-syntax/</link>
