@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 02 Nov 2021 14:45:57 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Improve Code Quality on a Ruby on Rails Application</title>
-      <link>https://www.hexdevs.com/posts/technical-debt-ruby-on-rails/</link>
+      <link>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</link>
       <pubDate>Tue, 02 Nov 2021 14:45:57 -0700</pubDate>
       
-      <guid>https://www.hexdevs.com/posts/technical-debt-ruby-on-rails/</guid>
+      <guid>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</guid>
       <description>Does it take forever to ship even small features on the codebase you&amp;rsquo;re working on? Is the code hard to understand and maintain? Are projects always running over budget? Are you constantly sacrificing code quality and not paying down technical debt?
 When you change one feature, does another completely unrelated part of your app stop working? New bugs appear, even though tests never break? 🥵
 Those are signs that you are suffering from working on a codebase with low code quality.</description>
