@@ -3,22 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.hexdevs.com/tags/deliberate-practice/</loc>
+    <lastmod>2021-11-17T13:14:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/</loc>
+    <lastmod>2021-11-17T13:14:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/perceptual-learning/</loc>
+    <lastmod>2021-11-17T13:14:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/</loc>
+    <lastmod>2021-11-17T13:14:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/science-of-expertise/</loc>
+    <lastmod>2021-11-17T13:14:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/</loc>
+    <lastmod>2021-11-17T13:14:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/perceptual-learning-programming-deliberate-practice/</loc>
+    <lastmod>2021-11-17T13:14:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/perceptual-learning-introduction/</loc>
+    <lastmod>2021-11-17T13:14:20-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.hexdevs.com/tags/best-practices/</loc>
     <lastmod>2021-11-11T13:11:19-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/</loc>
-    <lastmod>2021-11-16T17:38:54-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</loc>
-    <lastmod>2021-11-11T13:11:19-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/</loc>
     <lastmod>2021-11-11T13:11:19-08:00</lastmod>
   </url>
   
@@ -35,11 +65,6 @@
   <url>
     <loc>https://www.hexdevs.com/tags/software-design/</loc>
     <lastmod>2021-11-11T13:11:19-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/</loc>
-    <lastmod>2021-11-16T17:38:54-08:00</lastmod>
   </url>
   
   <url>
@@ -103,23 +128,13 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/tags/perceptual-learning/</loc>
-    <lastmod>2021-11-16T17:38:54-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/rubyconf2021/</loc>
-    <lastmod>2021-11-16T17:38:54-08:00</lastmod>
+    <lastmod>2021-11-17T13:02:40-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/tags/rubyconf-2021/</loc>
-    <lastmod>2021-11-16T17:38:54-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/science-of-expertise/</loc>
-    <lastmod>2021-11-16T17:38:54-08:00</lastmod>
+    <lastmod>2021-11-17T13:02:40-08:00</lastmod>
   </url>
   
   <url>

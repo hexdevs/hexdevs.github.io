@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Perceptual Learning on hexdevs</title>
-    <link>https://www.hexdevs.com/tags/perceptual-learning/</link>
-    <description>Recent content in Perceptual Learning on hexdevs</description>
+    <title>deliberate practice on hexdevs</title>
+    <link>https://www.hexdevs.com/tags/deliberate-practice/</link>
+    <description>Recent content in deliberate practice on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Nov 2021 16:35:31 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/perceptual-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 16:35:31 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/deliberate-practice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Science of Expertise: A Better Way to Practice Ruby with Deliberate Practice</title>
       <link>https://www.hexdevs.com/posts/perceptual-learning-programming-deliberate-practice/</link>
@@ -28,20 +28,6 @@ Unfortunately, no research has been made for programming yet. In this article, y
 To discuss these questions, we&amp;rsquo;ll explore Perceptual Learning (PL) research.
 PL is a natural learning process that complements traditional Education. It accelerates expertise by speeding pattern recognition, intuition and fluency on a given subject.
 Ever since I found out about Perceptual Learning in the book &amp;ldquo;Badass - Making users awesome&amp;rdquo;, from Kathy Sierra, I got really curious to learn more about the science behind Perceptual Learning.</description>
-    </item>
-    
-    <item>
-      <title>Perceptual Learning == More Ruby Experts?</title>
-      <link>https://www.hexdevs.com/rubyconf2021/</link>
-      <pubDate>Wed, 20 Oct 2021 11:50:02 -0700</pubDate>
-      
-      <guid>https://www.hexdevs.com/rubyconf2021/</guid>
-      <description>Hi, nice seeing you here!
-Thanks for checking out Perceptual Learning == More Ruby experts? presented at RubyConf 2021.
-  
-You can find the slides and the resources mentioned in this talk below:
- Slides 🖼️ Resources mentioned in this talk 📖 The Science of Expertise series ✍🏼   I want to express my gratitude for:
- Thiago Araujo, my partner in my crime. I couldn&amp;rsquo;t have made it without your support!</description>
     </item>
     
   </channel>

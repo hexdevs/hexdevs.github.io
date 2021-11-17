@@ -6,7 +6,30 @@
     <description>Recent content in Science of Expertise on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Oct 2021 11:50:02 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/science-of-expertise/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 16:35:31 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/science-of-expertise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Science of Expertise: A Better Way to Practice Ruby with Deliberate Practice</title>
+      <link>https://www.hexdevs.com/posts/perceptual-learning-programming-deliberate-practice/</link>
+      <pubDate>Tue, 16 Nov 2021 16:35:31 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/perceptual-learning-programming-deliberate-practice/</guid>
+      <description>This article is the second part of the Science of Expertise series. Before reading along, read The Science of Expertise: introduction to Perceptual Learning. the resources mentioned in this series is also found at the end.
+A Better Way to Practice Ruby: Deliberate Practice Perceptual Learning results are promising.
+Unfortunately, no research has been made for programming yet. In this article, you&amp;rsquo;ll learn what we apply from what&amp;rsquo;s been published regarding Perceptual Learning in several domains.</description>
+    </item>
+    
+    <item>
+      <title>The Science of Expertise: Introduction to Perceptual Learning</title>
+      <link>https://www.hexdevs.com/posts/perceptual-learning-introduction/</link>
+      <pubDate>Tue, 16 Nov 2021 16:21:38 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/perceptual-learning-introduction/</guid>
+      <description>How do you become an expert? Why some Ruby developers can&amp;rsquo;t explain what they know? Why some developers don&amp;rsquo;t develop expert skills? What does it mean to be a Ruby expert?
+To discuss these questions, we&amp;rsquo;ll explore Perceptual Learning (PL) research.
+PL is a natural learning process that complements traditional Education. It accelerates expertise by speeding pattern recognition, intuition and fluency on a given subject.
+Ever since I found out about Perceptual Learning in the book &amp;ldquo;Badass - Making users awesome&amp;rdquo;, from Kathy Sierra, I got really curious to learn more about the science behind Perceptual Learning.</description>
+    </item>
+    
     <item>
       <title>Perceptual Learning == More Ruby Experts?</title>
       <link>https://www.hexdevs.com/rubyconf2021/</link>
@@ -15,8 +38,9 @@
       <guid>https://www.hexdevs.com/rubyconf2021/</guid>
       <description>Hi, nice seeing you here!
 Thanks for checking out Perceptual Learning == More Ruby experts? presented at RubyConf 2021.
-You can find the slides, the video recording, and the resources mentioned in this talk below:
- Video recording 📺 Slides 🖼️ Resources mentioned in this talk 📖 The Science of Expertise series ✍🏼   I want to express my gratitude for:
+  
+You can find the slides and the resources mentioned in this talk below:
+ Slides 🖼️ Resources mentioned in this talk 📖 The Science of Expertise series ✍🏼   I want to express my gratitude for:
  Thiago Araujo, my partner in my crime. I couldn&amp;rsquo;t have made it without your support!</description>
     </item>
     
