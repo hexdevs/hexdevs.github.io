@@ -20,6 +20,18 @@ Is Hotwire going to become popular? Chris says is going to take a while.</descri
     </item>
     
     <item>
+      <title>A Tender Introduction to Ruby Internals with TenderJIT</title>
+      <link>https://www.hexdevs.com/posts/ruby-just-in-time-compiler-tenderjit/</link>
+      <pubDate>Thu, 18 Nov 2021 16:25:27 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/ruby-just-in-time-compiler-tenderjit/</guid>
+      <description>Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development.
+He joined us on this Open Source Thursdays session to work on a Just-in-time (JIT) compiler for Ruby that’s written in Ruby. With the additional tenderlove we all love 💎
+Get the slides for this session here 🖼️
+In this post summary, you&amp;rsquo;ll learn how Ruby’s virtual machine works, CPUs, Execution code, and more.</description>
+    </item>
+    
+    <item>
       <title>The Science of Expertise (Part II): A Better Way to Practice Ruby with Deliberate Practice</title>
       <link>https://www.hexdevs.com/posts/perceptual-learning-programming-deliberate-practice/</link>
       <pubDate>Tue, 16 Nov 2021 16:35:31 -0800</pubDate>

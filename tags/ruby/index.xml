@@ -6,7 +6,19 @@
     <description>Recent content in ruby on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Nov 2021 14:45:57 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 16:25:27 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Tender Introduction to Ruby Internals with TenderJIT</title>
+      <link>https://www.hexdevs.com/posts/ruby-just-in-time-compiler-tenderjit/</link>
+      <pubDate>Thu, 18 Nov 2021 16:25:27 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/ruby-just-in-time-compiler-tenderjit/</guid>
+      <description>Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development.
+He joined us on this Open Source Thursdays session to work on a Just-in-time (JIT) compiler for Ruby that’s written in Ruby. With the additional tenderlove we all love 💎
+Get the slides for this session here 🖼️
+In this post summary, you&amp;rsquo;ll learn how Ruby’s virtual machine works, CPUs, Execution code, and more.</description>
+    </item>
+    
     <item>
       <title>How to Improve Code Quality on a Ruby on Rails Application</title>
       <link>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</link>
