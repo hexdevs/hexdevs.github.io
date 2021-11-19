@@ -6,7 +6,25 @@
     <description>Recent content in Tags on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Nov 2021 16:35:31 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 21:55:55 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hotwire</title>
+      <link>https://www.hexdevs.com/tags/hotwire/</link>
+      <pubDate>Thu, 18 Nov 2021 21:55:55 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/hotwire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby on rails</title>
+      <link>https://www.hexdevs.com/tags/ruby-on-rails/</link>
+      <pubDate>Thu, 18 Nov 2021 21:55:55 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/ruby-on-rails/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>deliberate practice</title>
       <link>https://www.hexdevs.com/tags/deliberate-practice/</link>
@@ -58,15 +76,6 @@
       <pubDate>Tue, 02 Nov 2021 14:45:57 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/tags/ruby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ruby on rails</title>
-      <link>https://www.hexdevs.com/tags/ruby-on-rails/</link>
-      <pubDate>Tue, 02 Nov 2021 14:45:57 -0700</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/ruby-on-rails/</guid>
       <description></description>
     </item>
     

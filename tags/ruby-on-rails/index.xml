@@ -6,7 +6,19 @@
     <description>Recent content in ruby on rails on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Nov 2021 14:45:57 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 21:55:55 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just Enough Hotwire with Chris Oliver</title>
+      <link>https://www.hexdevs.com/posts/hotwire-rails-chris-oliver/</link>
+      <pubDate>Thu, 18 Nov 2021 21:55:55 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/hotwire-rails-chris-oliver/</guid>
+      <description>Chris Oliver is the founder of GoRails, JumpStart Rails, Hatchbox and RailsBytes. He is also one of the hosts of the Remote Ruby podcast.
+Chris showed us how to get started with Hotwire, how to inspect turbo streams. He also answered some questions from the audience, including how to migrate from Webpacker to jsbundling-rails, Websockets performance, and security.
+   
+Is Hotwire going to become popular? Chris says is going to take a while.</description>
+    </item>
+    
     <item>
       <title>How to Improve Code Quality on a Ruby on Rails Application</title>
       <link>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</link>

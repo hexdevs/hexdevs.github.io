@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.hexdevs.com/tags/deliberate-practice/</loc>
-    <lastmod>2021-11-17T13:47:19-08:00</lastmod>
+    <loc>https://www.hexdevs.com/</loc>
+    <lastmod>2021-11-18T22:38:46-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/</loc>
+    <loc>https://www.hexdevs.com/tags/hotwire/</loc>
+    <lastmod>2021-11-18T22:38:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/hotwire-rails-chris-oliver/</loc>
+    <lastmod>2021-11-18T22:38:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/</loc>
+    <lastmod>2021-11-18T22:38:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
+    <lastmod>2021-11-18T22:38:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/</loc>
+    <lastmod>2021-11-18T22:38:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/deliberate-practice/</loc>
     <lastmod>2021-11-17T13:47:19-08:00</lastmod>
   </url>
   
@@ -18,17 +43,7 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/posts/</loc>
-    <lastmod>2021-11-17T13:47:19-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/tags/science-of-expertise/</loc>
-    <lastmod>2021-11-17T13:47:19-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/</loc>
     <lastmod>2021-11-17T13:47:19-08:00</lastmod>
   </url>
   
@@ -64,11 +79,6 @@
   
   <url>
     <loc>https://www.hexdevs.com/tags/ruby/</loc>
-    <lastmod>2021-11-11T13:11:19-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
     <lastmod>2021-11-11T13:11:19-08:00</lastmod>
   </url>
   
@@ -159,7 +169,7 @@
   
   <url>
     <loc>https://www.hexdevs.com/tags/open-source-thursdays/</loc>
-    <lastmod>2021-11-09T07:04:40-08:00</lastmod>
+    <lastmod>2021-11-18T22:37:49-08:00</lastmod>
   </url>
   
   <url>
@@ -189,17 +199,17 @@
   
   <url>
     <loc>https://www.hexdevs.com/tags/expert-sessions/</loc>
-    <lastmod>2021-10-14T16:00:57-07:00</lastmod>
+    <lastmod>2021-11-18T22:37:49-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-rafael-franca-aug-5th/</loc>
-    <lastmod>2021-08-10T16:01:46-07:00</lastmod>
+    <lastmod>2021-11-18T22:37:49-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/open-source-thursdays/</loc>
-    <lastmod>2021-10-14T16:00:57-07:00</lastmod>
+    <lastmod>2021-11-18T22:37:49-08:00</lastmod>
   </url>
   
   <url>
@@ -249,7 +259,7 @@
   
   <url>
     <loc>https://www.hexdevs.com/open-source-thursdays-project/</loc>
-    <lastmod>2021-10-20T13:16:07-07:00</lastmod>
+    <lastmod>2021-11-18T22:37:49-08:00</lastmod>
   </url>
   
   <url>
@@ -293,12 +303,12 @@
   
   <url>
     <loc>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-chris-oliver-oct-14th/</loc>
-    <lastmod>2021-10-14T16:00:57-07:00</lastmod>
+    <lastmod>2021-11-18T22:37:49-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-aaron-patterson-sep-30th/</loc>
-    <lastmod>2021-10-01T11:55:41-07:00</lastmod>
+    <lastmod>2021-11-18T22:37:49-08:00</lastmod>
   </url>
   
 </urlset>
