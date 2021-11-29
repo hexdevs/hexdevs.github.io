@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.hexdevs.com/tags/best-practices/</loc>
+    <lastmod>2021-11-29T12:02:29-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.hexdevs.com/</loc>
-    <lastmod>2021-11-23T08:30:28-08:00</lastmod>
+    <lastmod>2021-11-29T12:02:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/</loc>
+    <lastmod>2021-11-29T12:02:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/ruby/</loc>
+    <lastmod>2021-11-29T12:02:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/</loc>
+    <lastmod>2021-11-29T12:02:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
+    <lastmod>2021-11-29T12:02:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/software-design/</loc>
+    <lastmod>2021-11-29T12:02:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/</loc>
+    <lastmod>2021-11-29T12:02:29-08:00</lastmod>
   </url>
   
   <url>
@@ -18,32 +53,12 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/posts/</loc>
-    <lastmod>2021-11-23T08:30:28-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
-    <lastmod>2021-11-18T22:38:46-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/</loc>
-    <lastmod>2021-11-23T08:30:28-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/posts/ruby-just-in-time-compiler-tenderjit/</loc>
     <lastmod>2021-11-19T20:27:33-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/tags/open-source-thursdays/</loc>
-    <lastmod>2021-11-19T20:27:33-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/ruby/</loc>
     <lastmod>2021-11-19T20:27:33-08:00</lastmod>
   </url>
   
@@ -83,18 +98,8 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/tags/best-practices/</loc>
-    <lastmod>2021-11-11T13:11:19-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</loc>
-    <lastmod>2021-11-11T13:11:19-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/software-design/</loc>
-    <lastmod>2021-11-11T13:11:19-08:00</lastmod>
+    <lastmod>2021-11-29T12:02:29-08:00</lastmod>
   </url>
   
   <url>
@@ -249,17 +254,17 @@
   
   <url>
     <loc>https://www.hexdevs.com/watch-party/</loc>
-    <lastmod>2021-11-23T08:30:28-08:00</lastmod>
+    <lastmod>2021-11-29T12:02:29-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/tags/tech-talks/</loc>
-    <lastmod>2021-11-23T08:30:28-08:00</lastmod>
+    <lastmod>2021-11-29T12:02:29-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/tags/watch-party/</loc>
-    <lastmod>2021-11-23T08:30:28-08:00</lastmod>
+    <lastmod>2021-11-29T12:02:29-08:00</lastmod>
   </url>
   
   <url>

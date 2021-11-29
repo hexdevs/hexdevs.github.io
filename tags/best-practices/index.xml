@@ -6,7 +6,18 @@
     <description>Recent content in best practices on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Nov 2021 14:45:57 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Nov 2021 10:07:55 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ruby Code Quality with Ernesto Tagwerker</title>
+      <link>https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/</link>
+      <pubDate>Mon, 29 Nov 2021 10:07:55 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/</guid>
+      <description>Are you working on Ruby on Rails Applications that are constantly on fire, overwhelmed by technical debt? Instead of being a firefighter, what if you could be a happy programmer again?
+Listen and learn exactly how to measure tech debt and take the right steps to immediately improve code quality!
+About our guest Ernesto Tagwerker is the founder &amp;amp; CTO at FastRuby.io &amp;amp; OmbuLabs. He is the maintainer of database_cleaner, bundler_leak, next_rails.</description>
+    </item>
+    
     <item>
       <title>How to Improve Code Quality on a Ruby on Rails Application</title>
       <link>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</link>
