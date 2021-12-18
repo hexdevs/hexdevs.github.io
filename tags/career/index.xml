@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>career on hexdevs</title>
+    <link>https://www.hexdevs.com/tags/career/</link>
+    <description>Recent content in career on hexdevs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Dec 2021 16:25:06 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unhappy as a Developer? How Not To Be Miserable with Dr. Randy Paterson</title>
+      <link>https://www.hexdevs.com/posts/unhappy-software-developers-randy-paterson/</link>
+      <pubDate>Sat, 11 Dec 2021 16:25:06 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/unhappy-software-developers-randy-paterson/</guid>
+      <description>Do you suffer from Slack notification anxiety? On-call schedules and deadlines giving you nightmares? Are your teammates nitpicking your code during code review?
+Instead of quitting your job out of frustration and having to go through another round of technical interviews, what if you knew how to have a great relationship with your work?
+Learn how to deal with imposter syndrome, unrealistic deadlines, and stop communicating passive-aggressively today! Communicate effectively with your team and finish the day feeling good about what you&amp;rsquo;ve accomplished.</description>
+    </item>
+    
+    <item>
+      <title>New job, new codebase. How do you even get started?</title>
+      <link>https://www.hexdevs.com/posts/new-job-new-codebase-how-to-get-started/</link>
+      <pubDate>Sat, 23 Oct 2021 13:25:26 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/new-job-new-codebase-how-to-get-started/</guid>
+      <description>One of my readers asked:
+ How do you get started when you join a new company? How do you add features to a codebase that is massive, scary, and completely new to you?
+ The first day at your new developer job is just like the first day at a new school. 🚸
+A sea of stranger&amp;rsquo;s faces watching your every move. Unfamiliar smells in the hallway.
+Every chair is uncomfortable and makes weird noises when you sit.</description>
+    </item>
+    
+  </channel>
+</rss>
