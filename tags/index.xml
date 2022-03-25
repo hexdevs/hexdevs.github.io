@@ -6,13 +6,31 @@
     <description>Recent content in Tags on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Mar 2022 12:57:35 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Mar 2022 16:40:42 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>career</title>
       <link>https://www.hexdevs.com/tags/career/</link>
-      <pubDate>Thu, 03 Mar 2022 12:57:35 -0800</pubDate>
+      <pubDate>Tue, 22 Mar 2022 16:40:42 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public speaking</title>
+      <link>https://www.hexdevs.com/tags/public-speaking/</link>
+      <pubDate>Tue, 22 Mar 2022 16:40:42 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/public-speaking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software development</title>
+      <link>https://www.hexdevs.com/tags/software-development/</link>
+      <pubDate>Tue, 22 Mar 2022 16:40:42 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/software-development/</guid>
       <description></description>
     </item>
     
@@ -26,29 +44,11 @@
     </item>
     
     <item>
-      <title>public speaking</title>
-      <link>https://www.hexdevs.com/tags/public-speaking/</link>
-      <pubDate>Thu, 03 Mar 2022 12:57:35 -0800</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/public-speaking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>technical talks</title>
       <link>https://www.hexdevs.com/tags/technical-talks/</link>
       <pubDate>Thu, 03 Mar 2022 12:57:35 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/tags/technical-talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>software development</title>
-      <link>https://www.hexdevs.com/tags/software-development/</link>
-      <pubDate>Fri, 18 Feb 2022 10:59:13 -0800</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/software-development/</guid>
       <description></description>
     </item>
     

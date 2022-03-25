@@ -6,15 +6,26 @@
     <description>Recent content in public speaking on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Mar 2022 12:57:35 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/public-speaking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Mar 2022 16:40:42 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/public-speaking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to find your Ruby Software Career Path with Mina Slater</title>
+      <link>https://www.hexdevs.com/posts/ruby-software-engineer-career-path-mina/</link>
+      <pubDate>Tue, 22 Mar 2022 16:40:42 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/ruby-software-engineer-career-path-mina/</guid>
+      <description>Often as developers, we believe we are supposed to know everything. Just figure everything by ourselves. As long as we get faster and better at coding, our careers will progress smoothly.
+But if you ask around, you’ll notice that most people are feeling technically stuck, despite years of experience. If you ask for career advice, people will throw you an endless list of complex technical skills to master.
+That’s not what you’ll find here.</description>
+    </item>
+    
     <item>
       <title>How to Create and Deliver a Technical Talk as a Software Developer</title>
       <link>https://www.hexdevs.com/posts/public-speaking-tips-for-software-developers/</link>
       <pubDate>Thu, 03 Mar 2022 12:57:35 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/public-speaking-tips-for-software-developers/</guid>
-      <description>Everyone says delivering a technical talk is a great opportunity to connect with people, build your reputation, create opportunities to grow your career. Here at hexdevs, we even recommend people to not simply don&amp;rsquo;t go to meetups&amp;hellip; but to talk at meetups!
-But, when you finally decide to do it, the fear of tackling public speaking pops up. Is public speaking even a required skill for a Software Engineer? What are you even going to talk about it?</description>
+      <description>Everyone says delivering a technical talk is a great opportunity to connect with people, build your reputation, create opportunities to grow your career. In one of the lessons of Get to Senior, we even recommend people to not simply don&amp;rsquo;t go to meetups&amp;hellip; but to talk at meetups!
+But, when you finally decide to do it, the fear of tackling public speaking pops up. Is public speaking even a required skill for a Software Engineer?</description>
     </item>
     
   </channel>
