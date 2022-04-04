@@ -6,13 +6,31 @@
     <description>Recent content in Tags on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2022 16:40:42 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 12:08:09 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>career</title>
       <link>https://www.hexdevs.com/tags/career/</link>
-      <pubDate>Tue, 22 Mar 2022 16:40:42 -0700</pubDate>
+      <pubDate>Mon, 04 Apr 2022 12:08:09 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>career development</title>
+      <link>https://www.hexdevs.com/tags/career-development/</link>
+      <pubDate>Mon, 04 Apr 2022 12:08:09 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/career-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expert Sessions</title>
+      <link>https://www.hexdevs.com/tags/expert-sessions/</link>
+      <pubDate>Mon, 04 Apr 2022 12:08:09 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/expert-sessions/</guid>
       <description></description>
     </item>
     
@@ -143,15 +161,6 @@
     </item>
     
     <item>
-      <title>career development</title>
-      <link>https://www.hexdevs.com/tags/career-development/</link>
-      <pubDate>Fri, 29 Oct 2021 17:40:34 -0700</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/career-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>education</title>
       <link>https://www.hexdevs.com/tags/education/</link>
       <pubDate>Fri, 29 Oct 2021 17:40:34 -0700</pubDate>
@@ -211,15 +220,6 @@
       <pubDate>Thu, 29 Jul 2021 10:57:00 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/tags/code-of-conduct/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Expert Sessions</title>
-      <link>https://www.hexdevs.com/tags/expert-sessions/</link>
-      <pubDate>Sun, 25 Jul 2021 12:56:00 -0700</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/expert-sessions/</guid>
       <description></description>
     </item>
     
