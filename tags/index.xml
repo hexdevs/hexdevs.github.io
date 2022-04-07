@@ -6,7 +6,43 @@
     <description>Recent content in Tags on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 12:08:09 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 13:11:25 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>best practices</title>
+      <link>https://www.hexdevs.com/tags/best-practices/</link>
+      <pubDate>Wed, 06 Apr 2022 13:11:25 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>https://www.hexdevs.com/tags/ruby/</link>
+      <pubDate>Wed, 06 Apr 2022 13:11:25 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby on rails</title>
+      <link>https://www.hexdevs.com/tags/ruby-on-rails/</link>
+      <pubDate>Wed, 06 Apr 2022 13:11:25 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/ruby-on-rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software design</title>
+      <link>https://www.hexdevs.com/tags/software-design/</link>
+      <pubDate>Wed, 06 Apr 2022 13:11:25 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/software-design/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>career</title>
       <link>https://www.hexdevs.com/tags/career/</link>
@@ -76,42 +112,6 @@
       <pubDate>Sat, 11 Dec 2021 16:25:06 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/tags/early-career-devs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>best practices</title>
-      <link>https://www.hexdevs.com/tags/best-practices/</link>
-      <pubDate>Mon, 29 Nov 2021 10:07:55 -0800</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/best-practices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ruby</title>
-      <link>https://www.hexdevs.com/tags/ruby/</link>
-      <pubDate>Mon, 29 Nov 2021 10:07:55 -0800</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/ruby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ruby on rails</title>
-      <link>https://www.hexdevs.com/tags/ruby-on-rails/</link>
-      <pubDate>Mon, 29 Nov 2021 10:07:55 -0800</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/ruby-on-rails/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>software design</title>
-      <link>https://www.hexdevs.com/tags/software-design/</link>
-      <pubDate>Mon, 29 Nov 2021 10:07:55 -0800</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/software-design/</guid>
       <description></description>
     </item>
     

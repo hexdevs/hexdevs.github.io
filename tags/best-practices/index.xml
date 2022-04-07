@@ -6,7 +6,18 @@
     <description>Recent content in best practices on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Nov 2021 10:07:55 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 13:11:25 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>216&#43; Ruby on Rails Open Source Applications You Can Use as a Reference</title>
+      <link>https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/</link>
+      <pubDate>Wed, 06 Apr 2022 13:11:25 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/</guid>
+      <description>Not sure how to implement a new Ruby on Rails feature? A proper model, controller, migration? Or how to write a test for the code you&amp;rsquo;re writing?
+What if you could easily access a massive library of full-blown Ruby on Rails Applications used in the wild and have them as a reference?
+real-world-rails gives you a list of (173 apps + 43 engines) = 216 Rails Applications you can learn from 💣</description>
+    </item>
+    
     <item>
       <title>Ruby Code Quality with Ernesto Tagwerker</title>
       <link>https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/</link>
