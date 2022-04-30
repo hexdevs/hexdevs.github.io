@@ -6,20 +6,29 @@
     <description>Recent content in Tags on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Apr 2022 12:48:27 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Apr 2022 16:21:30 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>career</title>
-      <link>https://www.hexdevs.com/tags/career/</link>
-      <pubDate>Wed, 13 Apr 2022 12:48:27 -0700</pubDate>
+      <title>guides</title>
+      <link>https://www.hexdevs.com/tags/guides/</link>
+      <pubDate>Tue, 26 Apr 2022 16:21:30 -0700</pubDate>
       
-      <guid>https://www.hexdevs.com/tags/career/</guid>
+      <guid>https://www.hexdevs.com/tags/guides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://www.hexdevs.com/tags/open-source/</link>
+      <pubDate>Tue, 26 Apr 2022 16:21:30 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ruby</title>
       <link>https://www.hexdevs.com/tags/ruby/</link>
-      <pubDate>Wed, 13 Apr 2022 12:48:27 -0700</pubDate>
+      <pubDate>Tue, 26 Apr 2022 16:21:30 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/tags/ruby/</guid>
       <description></description>
@@ -28,9 +37,18 @@
     <item>
       <title>ruby on rails</title>
       <link>https://www.hexdevs.com/tags/ruby-on-rails/</link>
-      <pubDate>Wed, 13 Apr 2022 12:48:27 -0700</pubDate>
+      <pubDate>Tue, 26 Apr 2022 16:21:30 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/tags/ruby-on-rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>career</title>
+      <link>https://www.hexdevs.com/tags/career/</link>
+      <pubDate>Wed, 13 Apr 2022 12:48:27 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/career/</guid>
       <description></description>
     </item>
     
@@ -197,15 +215,6 @@
     </item>
     
     <item>
-      <title>Open Source</title>
-      <link>https://www.hexdevs.com/tags/open-source/</link>
-      <pubDate>Mon, 16 Aug 2021 17:04:18 -0700</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>newsletter</title>
       <link>https://www.hexdevs.com/tags/newsletter/</link>
       <pubDate>Mon, 09 Aug 2021 17:40:46 -0700</pubDate>
@@ -238,15 +247,6 @@
       <pubDate>Tue, 29 Jun 2021 19:22:48 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/tags/cheat-sheets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>guides</title>
-      <link>https://www.hexdevs.com/tags/guides/</link>
-      <pubDate>Tue, 29 Jun 2021 19:22:48 -0700</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/guides/</guid>
       <description></description>
     </item>
     

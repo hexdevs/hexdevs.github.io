@@ -6,7 +6,18 @@
     <description>Recent content in ruby on rails on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Apr 2022 12:48:27 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Apr 2022 16:21:30 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Guide to Quickly Debug a Ruby Gem with Pry and Git Bisect</title>
+      <link>https://www.hexdevs.com/posts/debug-third-party-ruby-gem-with-pry/</link>
+      <pubDate>Tue, 26 Apr 2022 16:21:30 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/debug-third-party-ruby-gem-with-pry/</guid>
+      <description>Are you trying to debug an issue on a Ruby gem but not sure how? Here&amp;rsquo;s a quick way to debug Ruby code using Pry and Git Bisect.
+When doing triage of open issues on Faker, an open-source Ruby gem, I came across Issue #2482. I was able to reproduce the problem. Turns out the bug was already fixed by this PR, but version 2.20.0 was released before that.
+I thought this would be a great opportunity to show you how I debugged this issue so you can improve your debugging skills.</description>
+    </item>
+    
     <item>
       <title>Smart Ruby Developers Don’t Ask for Advice. They Do This And Build A Reputation As a Result</title>
       <link>https://www.hexdevs.com/posts/smart-ruby-developers-dont-ask-for-advice/</link>
