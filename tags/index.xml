@@ -6,7 +6,25 @@
     <description>Recent content in Tags on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Apr 2022 16:21:30 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 15:48:22 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ruby on rails</title>
+      <link>https://www.hexdevs.com/tags/ruby-on-rails/</link>
+      <pubDate>Mon, 09 May 2022 15:48:22 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/ruby-on-rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://www.hexdevs.com/tags/sql/</link>
+      <pubDate>Mon, 09 May 2022 15:48:22 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/sql/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>guides</title>
       <link>https://www.hexdevs.com/tags/guides/</link>
@@ -31,15 +49,6 @@
       <pubDate>Tue, 26 Apr 2022 16:21:30 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/tags/ruby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ruby on rails</title>
-      <link>https://www.hexdevs.com/tags/ruby-on-rails/</link>
-      <pubDate>Tue, 26 Apr 2022 16:21:30 -0700</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/ruby-on-rails/</guid>
       <description></description>
     </item>
     

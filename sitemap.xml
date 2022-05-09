@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.hexdevs.com/</loc>
+    <lastmod>2022-05-09T15:56:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/how-to-write-order-by-case-query-with-arel/</loc>
+    <lastmod>2022-05-09T15:56:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/</loc>
+    <lastmod>2022-05-09T15:56:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
+    <lastmod>2022-05-09T15:56:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/sql/</loc>
+    <lastmod>2022-05-09T15:56:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/</loc>
+    <lastmod>2022-05-09T15:56:25-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.hexdevs.com/posts/debug-third-party-ruby-gem-with-pry/</loc>
     <lastmod>2022-05-04T13:21:58-07:00</lastmod>
   </url>
@@ -13,32 +43,12 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/</loc>
-    <lastmod>2022-05-04T13:21:58-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/tags/open-source/</loc>
     <lastmod>2022-05-04T13:21:58-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/posts/</loc>
-    <lastmod>2022-05-04T13:21:58-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/tags/ruby/</loc>
-    <lastmod>2022-05-04T13:21:58-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
-    <lastmod>2022-05-04T13:21:58-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/</loc>
     <lastmod>2022-05-04T13:21:58-07:00</lastmod>
   </url>
   
