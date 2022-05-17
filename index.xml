@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 09 May 2022 15:48:22 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Why I need to join Get to Senior</title>
+      <link>https://www.hexdevs.com/boss/</link>
+      <pubDate>Fri, 13 May 2022 11:24:15 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/boss/</guid>
+      <description>Send this letter to your boss! Dear Boss,
+I&amp;rsquo;m deeply interested in investing in my career growth and becoming a master of solving impactful business problems as a Ruby developer.
+As a professional, I want to be as effective as possible and provide more and more value to our business. I want to lead important projects, deliver high-quality features and do highly impactful work. Own a codebase and build a great reputation.</description>
+    </item>
+    
+    <item>
       <title>How to Write a Clean Order By Case Query with Arel on Rails</title>
       <link>https://www.hexdevs.com/posts/how-to-write-order-by-case-query-with-arel/</link>
       <pubDate>Mon, 09 May 2022 15:48:22 -0700</pubDate>
