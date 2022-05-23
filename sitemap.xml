@@ -9,7 +9,7 @@
   
   <url>
     <loc>https://www.hexdevs.com/</loc>
-    <lastmod>2022-05-09T15:56:25-07:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -19,12 +19,12 @@
   
   <url>
     <loc>https://www.hexdevs.com/posts/</loc>
-    <lastmod>2022-05-09T15:56:25-07:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
-    <lastmod>2022-05-09T15:56:25-07:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://www.hexdevs.com/tags/</loc>
-    <lastmod>2022-05-09T15:56:25-07:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -54,12 +54,12 @@
   
   <url>
     <loc>https://www.hexdevs.com/tags/ruby/</loc>
-    <lastmod>2022-05-04T13:21:58-07:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/tags/career/</loc>
-    <lastmod>2022-04-28T16:58:19-07:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -69,7 +69,7 @@
   
   <url>
     <loc>https://www.hexdevs.com/tags/software-development/</loc>
-    <lastmod>2022-04-13T18:51:01-07:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -79,12 +79,12 @@
   
   <url>
     <loc>https://www.hexdevs.com/tags/best-practices/</loc>
-    <lastmod>2022-04-12T10:35:24-07:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/tags/software-design/</loc>
-    <lastmod>2022-04-12T10:35:24-07:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -109,12 +109,17 @@
   
   <url>
     <loc>https://www.hexdevs.com/posts/ruby-software-engineer-career-path-mina/</loc>
-    <lastmod>2022-04-13T18:24:15-07:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/podcast/</loc>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/tags/public-speaking/</loc>
-    <lastmod>2022-04-13T18:24:15-07:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -143,18 +148,13 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/tags/early-career-devs/</loc>
-    <lastmod>2022-03-07T10:44:25-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/posts/unhappy-software-developers-randy-paterson/</loc>
-    <lastmod>2021-12-17T18:11:38-08:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/</loc>
-    <lastmod>2021-11-29T17:24:57-08:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -215,6 +215,11 @@
   <url>
     <loc>https://www.hexdevs.com/posts/perceptual-learning-introduction/</loc>
     <lastmod>2021-11-30T19:11:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/early-career-devs/</loc>
+    <lastmod>2022-03-07T10:44:25-08:00</lastmod>
   </url>
   
   <url>
@@ -344,12 +349,12 @@
   
   <url>
     <loc>https://www.hexdevs.com/tags/blogging/</loc>
-    <lastmod>2021-11-07T20:24:10-08:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.hexdevs.com/posts/why-no-one-reads-your-blog/</loc>
-    <lastmod>2021-11-07T20:24:10-08:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -384,12 +389,7 @@
   
   <url>
     <loc>https://www.hexdevs.com/tags/hexdevs/</loc>
-    <lastmod>2022-04-30T14:01:09-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/podcast/</loc>
-    <lastmod>2022-04-30T14:01:09-07:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -409,7 +409,7 @@
   
   <url>
     <loc>https://www.hexdevs.com/posts/grow-micro-saas-to-30k-per-month-delightchat-episode/</loc>
-    <lastmod>2021-11-07T19:38:19-08:00</lastmod>
+    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
