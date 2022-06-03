@@ -3,23 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.hexdevs.com/tags/career/</loc>
+    <lastmod>2022-06-02T19:30:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/get-to-senior/</loc>
+    <lastmod>2022-06-02T19:30:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/</loc>
+    <lastmod>2022-06-02T19:30:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/podcast/</loc>
+    <lastmod>2022-06-02T19:30:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/</loc>
+    <lastmod>2022-06-02T19:30:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/software-development/</loc>
+    <lastmod>2022-06-02T19:30:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/</loc>
+    <lastmod>2022-06-02T19:30:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/get-to-senior-developer-caroline-salib/</loc>
+    <lastmod>2022-06-02T19:30:38-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.hexdevs.com/boss/</loc>
     <lastmod>2022-05-16T18:35:56-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/</loc>
-    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/posts/how-to-write-order-by-case-query-with-arel/</loc>
     <lastmod>2022-05-09T15:56:25-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/</loc>
-    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -30,11 +60,6 @@
   <url>
     <loc>https://www.hexdevs.com/tags/sql/</loc>
     <lastmod>2022-05-09T15:56:25-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/</loc>
-    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -58,18 +83,8 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/tags/career/</loc>
-    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/posts/smart-ruby-developers-dont-ask-for-advice/</loc>
     <lastmod>2022-04-13T18:51:01-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/software-development/</loc>
-    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
   <url>
@@ -109,11 +124,6 @@
   
   <url>
     <loc>https://www.hexdevs.com/posts/ruby-software-engineer-career-path-mina/</loc>
-    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/podcast/</loc>
     <lastmod>2022-05-23T14:18:33-07:00</lastmod>
   </url>
   
