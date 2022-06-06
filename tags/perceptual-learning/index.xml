@@ -6,7 +6,17 @@
     <description>Recent content in Perceptual Learning on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Nov 2021 16:35:31 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/perceptual-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 16:03:10 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/perceptual-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What books on Ruby should I read when trying to move from Junior to Intermediate Developer?</title>
+      <link>https://www.hexdevs.com/posts/books-level-up-junior-to-intermediate/</link>
+      <pubDate>Tue, 31 May 2022 16:03:10 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/books-level-up-junior-to-intermediate/</guid>
+      <description>Some weeks ago, one of our community members asked us the following question:
+&amp;ldquo;What books on Ruby would you recommend when trying to move from Junior to Intermediate Developer? I can understand basic Ruby and intermediate Rails code well. I get lost when looking up code in the gems&amp;hellip; I feel like they are a bit more advanced. Instead of looking for scattered content across the internet, it&amp;rsquo;d be nice to go through a Ruby book to have a more solid understanding of things!</description>
+    </item>
+    
     <item>
       <title>The Science of Expertise (Part II): A Better Way to Practice Ruby with Deliberate Practice</title>
       <link>https://www.hexdevs.com/posts/perceptual-learning-programming-deliberate-practice/</link>
