@@ -3,32 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.hexdevs.com/tags/expert-sessions/</loc>
+    <lastmod>2022-09-08T17:57:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/</loc>
+    <lastmod>2022-09-08T17:57:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/faker-ruby-vitor-oliveira-open-source-thursdays/</loc>
+    <lastmod>2022-09-08T17:57:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/open-source-thursdays/</loc>
+    <lastmod>2022-09-08T17:57:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/</loc>
+    <lastmod>2022-09-08T17:57:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/ruby/</loc>
+    <lastmod>2022-09-08T17:57:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
+    <lastmod>2022-09-08T17:57:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/</loc>
+    <lastmod>2022-09-08T17:57:53-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.hexdevs.com/contribute-ruby-on-rails-guide/</loc>
     <lastmod>2022-06-22T15:14:26-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/</loc>
-    <lastmod>2022-06-22T15:14:26-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/tags/open-source/</loc>
-    <lastmod>2022-06-22T15:14:26-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/open-source-thursdays/</loc>
-    <lastmod>2022-06-22T15:14:26-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
-    <lastmod>2022-06-22T15:14:26-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/</loc>
     <lastmod>2022-06-22T15:14:26-07:00</lastmod>
   </url>
   
@@ -45,11 +65,6 @@
   <url>
     <loc>https://www.hexdevs.com/tags/podcast/</loc>
     <lastmod>2022-06-06T12:59:34-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/</loc>
-    <lastmod>2022-06-22T15:14:26-07:00</lastmod>
   </url>
   
   <url>
@@ -108,11 +123,6 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/tags/ruby/</loc>
-    <lastmod>2022-05-23T14:18:33-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/posts/smart-ruby-developers-dont-ask-for-advice/</loc>
     <lastmod>2022-04-13T18:51:01-07:00</lastmod>
   </url>
@@ -139,11 +149,6 @@
   
   <url>
     <loc>https://www.hexdevs.com/expert-guest-sessions/expert-sessions-with-fabiano-beselga-april-20/</loc>
-    <lastmod>2022-04-28T16:58:19-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/expert-sessions/</loc>
     <lastmod>2022-04-28T16:58:19-07:00</lastmod>
   </url>
   

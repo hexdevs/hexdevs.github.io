@@ -6,7 +6,19 @@
     <description>Recent content in Ruby on Rails on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jun 2022 10:08:23 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Sep 2022 16:58:54 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How does the Faker Ruby Gem Work?</title>
+      <link>https://www.hexdevs.com/posts/faker-ruby-vitor-oliveira-open-source-thursdays/</link>
+      <pubDate>Thu, 08 Sep 2022 16:58:54 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/faker-ruby-vitor-oliveira-open-source-thursdays/</guid>
+      <description>How and when a new version of a Ruby gem is published to RubyGems? Do you know how Faker Ruby generates fake emails, fake phones, fake dates, and fake URLs?
+Did you ever wonder how a new release of a Ruby gem is published on RubyGems? Or are you interested in contributing to Open Source?
+If you said yes to any of these questions, then you&amp;rsquo;re in luck!
+Watch the recording of Open Source Thursdays and you&amp;rsquo;ll learn all about it.</description>
+    </item>
+    
     <item>
       <title>[Guide] How to Contribute to Ruby on Rails</title>
       <link>https://www.hexdevs.com/contribute-ruby-on-rails-guide/</link>
