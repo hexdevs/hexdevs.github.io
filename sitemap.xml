@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.hexdevs.com/tags/expert-sessions/</loc>
-    <lastmod>2022-09-25T16:40:44-07:00</lastmod>
+    <loc>https://www.hexdevs.com/</loc>
+    <lastmod>2022-10-10T12:44:48-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/</loc>
+    <loc>https://www.hexdevs.com/posts/rails-jbuilder-json-api/</loc>
+    <lastmod>2022-10-10T12:44:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/jbuilder/</loc>
+    <lastmod>2022-10-10T12:44:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/</loc>
+    <lastmod>2022-10-10T12:44:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/rspec/</loc>
+    <lastmod>2022-10-10T12:44:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
+    <lastmod>2022-10-10T12:44:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/</loc>
+    <lastmod>2022-10-10T12:44:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/tests/</loc>
+    <lastmod>2022-10-10T12:44:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/expert-sessions/</loc>
     <lastmod>2022-09-25T16:40:44-07:00</lastmod>
   </url>
   
@@ -23,22 +58,7 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/posts/</loc>
-    <lastmod>2022-09-25T16:40:44-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/tags/ruby/</loc>
-    <lastmod>2022-09-25T16:40:44-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
-    <lastmod>2022-09-25T16:40:44-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/</loc>
     <lastmod>2022-09-25T16:40:44-07:00</lastmod>
   </url>
   
