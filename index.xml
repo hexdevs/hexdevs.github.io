@@ -13,7 +13,7 @@
       <pubDate>Wed, 19 Oct 2022 13:47:49 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/how-to-open-source-with-richard-schneeman-schneems/</guid>
-      <description>What do lurking and flossing only one tooth have to do with contributing to Open Source? It&amp;rsquo;s all about starting small and sustaining tiny habits.
+      <description>How to Open Source with Richard Schneeman What does lurking and flossing have to do with contributing to open source? It&amp;rsquo;s all about sustaining tiny habits.
  Be a lurker and start small. Read a PR, try to understand what’s going on. Leave a thumbs up 👍 if you like it. This is a very easy way to get started. And build a habit out of that. &amp;ndash; schneems
  How to Open Source: Learn the secrets of successful contributors</description>
     </item>
@@ -427,6 +427,17 @@ You can find the slides and the resources mentioned in this talk below:
     </item>
     
     <item>
+      <title>TenderJIT: A JIT compiler for Ruby with Aaron Patterson (tenderlove)</title>
+      <link>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-aaron-patterson-sep-30th/</link>
+      <pubDate>Tue, 21 Sep 2021 11:56:00 -0700</pubDate>
+      
+      <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-aaron-patterson-sep-30th/</guid>
+      <description>TenderJIT: A Pure Ruby JIT Compiler for Ruby Aaron Patterson (@tenderlove) joined our livestream as an expert guest on September 30th, 2021.
+Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing.
+Make sure to follow his Twitter account to keep up on all of his thoughtful insights and pearls of wisdom such as &amp;ldquo;It&amp;rsquo;s Always Friday Somewhere!</description>
+    </item>
+    
+    <item>
       <title>One last thing: Confirm your Subscription</title>
       <link>https://www.hexdevs.com/confirm-subscription-expert-session/</link>
       <pubDate>Wed, 15 Sep 2021 15:48:13 -0700</pubDate>
@@ -618,17 +629,6 @@ The great thing about their story is that they&amp;rsquo;re not just building a 
 Just Enough Hotwire with Chris Oliver Want to add some JavaScript sprinkles to your Rails app but don&amp;rsquo;t have the time to learn how to use Hotwire?
 Not finding Hotwire intuitive and it&amp;rsquo;s taking you time (that you don&amp;rsquo;t have) to understand it?
 How much of JS do you need to learn if you just want to write minimal code in JS?</description>
-    </item>
-    
-    <item>
-      <title>TenderJIT: A JIT compiler for Ruby with Aaron Patterson (tenderlove)</title>
-      <link>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-aaron-patterson-sep-30th/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-aaron-patterson-sep-30th/</guid>
-      <description>TenderJIT: A Pure Ruby JIT Compiler for Ruby Aaron Patterson (@tenderlove) joined our livestream as an expert guest on September 30th, 2021.
-Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing.
-Make sure to follow his Twitter account to keep up on all of his thoughtful insights and pearls of wisdom such as &amp;ldquo;It&amp;rsquo;s Always Friday Somewhere!</description>
     </item>
     
   </channel>
