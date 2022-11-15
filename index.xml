@@ -6,7 +6,18 @@
     <description>Recent content on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Oct 2022 13:47:49 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 13:21:46 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing Thor Ruby Required Options</title>
+      <link>https://www.hexdevs.com/posts/thor-ruby-options-testing/</link>
+      <pubDate>Sat, 12 Nov 2022 13:21:46 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/posts/thor-ruby-options-testing/</guid>
+      <description>Thor Ruby gem is a great tool to quickly build a CLI (Command-line interface) app.
+Although there are lots of tutorials for building a CLI with Thor from scratch, but there aren&amp;rsquo;t a lot of them on how to test Thor, especially covering scenarios such as required options.
+Thor makes it easy to specify options and arguments for Thor commands. However, I didn&amp;rsquo;t find it easy to test them in the documentation.</description>
+    </item>
+    
     <item>
       <title>How to Open Source with Richard Schneeman (@schneems)</title>
       <link>https://www.hexdevs.com/posts/how-to-open-source-with-richard-schneeman-schneems/</link>
