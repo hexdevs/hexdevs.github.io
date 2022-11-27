@@ -13,10 +13,9 @@
       <pubDate>Sat, 12 Nov 2022 13:21:46 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/thor-ruby-options-testing/</guid>
-      <description>Thor Ruby gem is a great tool to quickly build a CLI (Command-line Interface) app.
-There are lots of tutorials for building a CLI with Thor from scratch, but not as many about how to test Thor, especially covering scenarios such as required options.
-Thor makes it easy to specify options and arguments for Thor commands. However, I didn&amp;rsquo;t find it easy to test them in the documentation.
-If you&amp;rsquo;ve been searching for tutorials on how to test Thor with required options, this post is for you ⚡</description>
+      <description>Thor Ruby gem is a great tool to quickly build a CLI (Command-line interface) app.
+Although there are lots of tutorials for building a CLI with Thor from scratch, but there aren&amp;rsquo;t a lot of them on how to test Thor, especially covering scenarios such as required options.
+Thor makes it easy to specify options and arguments for Thor commands. However, I didn&amp;rsquo;t find it easy to test them in the documentation.</description>
     </item>
     
     <item>
