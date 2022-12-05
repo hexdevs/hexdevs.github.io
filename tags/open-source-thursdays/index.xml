@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Open Source Thursdays on hexdevs</title>
     <link>https://www.hexdevs.com/tags/open-source-thursdays/</link>
     <description>Recent content in Open Source Thursdays on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Sep 2022 16:58:54 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/open-source-thursdays/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +17,7 @@
       <pubDate>Thu, 08 Sep 2022 16:58:54 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/faker-ruby-vitor-oliveira-open-source-thursdays/</guid>
-      <description>How and when a new version of a Ruby gem is published to RubyGems? Do you know how Faker Ruby generates fake emails, fake phones, fake dates, and fake URLs?
-Did you ever wonder how a new release of a Ruby gem is published on RubyGems? Or are you interested in contributing to Open Source?
-If you said yes to any of these questions, then you&amp;rsquo;re in luck!
-Watch the recording of Open Source Thursdays and you&amp;rsquo;ll learn all about it.</description>
+      <description>How does the Faker Ruby gem work? How do you contribute to an Open Source Ruby project? Know exactly how by watching us do it live!</description>
     </item>
     
     <item>
@@ -25,11 +26,7 @@ Watch the recording of Open Source Thursdays and you&amp;rsquo;ll learn all abou
       <pubDate>Wed, 22 Jun 2022 10:08:23 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/contribute-ruby-on-rails-guide/</guid>
-      <description>Step 1: Decide to find one open-source project to contribute 😎
-Step 2: Keep looking 👀
-Step 3: They are all intimidating, is that normal? 😑
-Step 4: What if I contributed to a project I have lots of experience with, like Ruby on Rails? I’d love to understand more about this tool I use every day 🤔
-Step 5: OMG, the code is huge and scary, Will this even run on my machine?</description>
+      <description>Are you looking for an opportunity to get more experience as a Ruby on Rails developer? Make meaningful connections with the community? Learn the best practices on how to maintain a large codebase such as Ruby on Rails? What if you had a step by step guide on how to get started? Get your free guide and start contributing to Rails today.</description>
     </item>
     
     <item>
@@ -38,9 +35,7 @@ Step 5: OMG, the code is huge and scary, Will this even run on my machine?</desc
       <pubDate>Thu, 18 Nov 2021 21:55:55 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/hotwire-rails-chris-oliver/</guid>
-      <description>Chris Oliver is the founder of GoRails, JumpStart Rails, Hatchbox and RailsBytes. He is also one of the hosts of the Remote Ruby podcast.
-Chris showed us how to get started with Hotwire, how to inspect turbo streams. He also answered some questions from the audience, including how to migrate from Webpacker to jsbundling-rails, Websockets performance, and security.
-Do you want to know how Chris Oliver got so good at building products?</description>
+      <description>An introduction to Hotwire with Chris Oliver, from GoRails. Hotwire is the new way of making AJAX requests on Ruby on Rails. Learn how to build JavaScript-less Rails with turbo streams, Stimulus, and form_with.</description>
     </item>
     
     <item>
@@ -49,10 +44,7 @@ Do you want to know how Chris Oliver got so good at building products?</descript
       <pubDate>Thu, 18 Nov 2021 16:25:27 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-just-in-time-compiler-tenderjit/</guid>
-      <description>Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development.
-He joined us on this Open Source Thursdays session to work on a Just-in-time (JIT) compiler for Ruby that’s written in Ruby. With the additional tenderlove we all love 💎
-Get the slides for this session here 🖼️
-In this post summary, you&amp;rsquo;ll learn how Ruby’s virtual machine works, CPUs, Execution code, and more.</description>
+      <description>A class on Ruby Internals and TenderJIT. Aaron Patterson (tenderlove) joined us on an Open Source Thursdays Expert Guest session to teach you about compilers, interpreters, and how to contribute to TenderJIT.</description>
     </item>
     
     <item>
@@ -61,9 +53,7 @@ In this post summary, you&amp;rsquo;ll learn how Ruby’s virtual machine works,
       <pubDate>Tue, 21 Sep 2021 11:56:00 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-aaron-patterson-sep-30th/</guid>
-      <description>TenderJIT: A Pure Ruby JIT Compiler for Ruby Aaron Patterson (@tenderlove) joined our livestream as an expert guest on September 30th, 2021.
-Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing.
-Make sure to follow his Twitter account to keep up on all of his thoughtful insights and pearls of wisdom such as &amp;ldquo;It&amp;rsquo;s Always Friday Somewhere!</description>
+      <description>Let&amp;#39;s work on a JIT compiler for Ruby that’s written in Ruby! We’re going to start building a JIT for Ruby from the ground up. First, we’ll learn how Ruby’s virtual machine works, then talk about the CPU itself. Finally we’ll start building a JIT for Ruby in Ruby. This session happened on September 30th, 2021.</description>
     </item>
     
     <item>
@@ -72,10 +62,7 @@ Make sure to follow his Twitter account to keep up on all of his thoughtful insi
       <pubDate>Mon, 16 Aug 2021 17:04:18 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-on-rails-open-source-contribution/</guid>
-      <description>Are you looking for an opportunity to get more experience as a Ruby on Rails developer? Make meaningful connections with the community? Learn the best practices on how to maintain a large codebase?
-What if you could get that experience by contributing to an open source project like Ruby on Rails?
-If that sounds scary, don&amp;rsquo;t worry! We can help you!
-By the end of this post, you&amp;rsquo;ll learn 5 ways to become a new Rails contributor, even if you are a beginner in Ruby.</description>
+      <description>This post is a summary of the Open Source Thursdays - Expert Session with Rafael França. Learn how to get started, how to fix a bug, navigate the Ruby on Rails codebase and contribute to Open Source projects as a beginner.</description>
     </item>
     
     <item>
@@ -84,9 +71,7 @@ By the end of this post, you&amp;rsquo;ll learn 5 ways to become a new Rails con
       <pubDate>Sun, 25 Jul 2021 12:56:00 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-rafael-franca-aug-5th/</guid>
-      <description>Rafael França is a Rails Core team member and Principal Engineer at Shopify, and he is working to define the future of Ruby and Rails.
-Rafael explained how to get started with contributing to Ruby on Rails, fix a bug, navigate the Rails code base and contribute to open source projects as a beginner. He also answered questions from the community.
-Open Source Thursdays is a project from hexdevs to make Open Source contributions more inclusive.</description>
+      <description>Contribute to Ruby on Rails with Rafael França, Rails Core team member, on August 5th</description>
     </item>
     
     <item>
@@ -95,9 +80,7 @@ Open Source Thursdays is a project from hexdevs to make Open Source contribution
       <pubDate>Sat, 08 May 2021 12:56:00 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/open-source-thursdays-project/</guid>
-      <description>Did you always want to contribute to Open Source projects but can&amp;rsquo;t get past getting overwhelmed and feeling scared when looking at a big project just by yourself?
-Open Source Thursdays is one of our projects where we aim to contribute to Open Source projects by doing live stream sessions.
-The initial plan was to contribute to Ruby on Rails and to do everything live, with little or no preparation in advance.</description>
+      <description>Contributing to Ruby Open Source projects with hexdevs and Ruby Experts.</description>
     </item>
     
     <item>
@@ -106,10 +89,7 @@ The initial plan was to contribute to Ruby on Rails and to do everything live, w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-chris-oliver-oct-14th/</guid>
-      <description>Chris Oliver is the founder of GoRails, JumpStart Rails, Hatchbox and RailsBytes. He is also one of the hosts of the Remote Ruby podcast.
-Just Enough Hotwire with Chris Oliver Want to add some JavaScript sprinkles to your Rails app but don&amp;rsquo;t have the time to learn how to use Hotwire?
-Not finding Hotwire intuitive and it&amp;rsquo;s taking you time (that you don&amp;rsquo;t have) to understand it?
-How much of JS do you need to learn if you just want to write minimal code in JS?</description>
+      <description>Learn Just enough Hotwire for Rails Developers with Chris Oliver (GoRails)</description>
     </item>
     
   </channel>

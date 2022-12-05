@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>tech talks on hexdevs</title>
     <link>https://www.hexdevs.com/tags/tech-talks/</link>
     <description>Recent content in tech talks on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Jun 2021 20:28:21 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/tech-talks/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +17,7 @@
       <pubDate>Thu, 17 Jun 2021 20:28:21 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/watch-party/</guid>
-      <description>All those amazing tech talks sitting on your Watch Later list. Sounds more like a Never Watch list, right? ⌛🤭🤷‍♀️ So many great tech talks to learn from but you simply can&amp;rsquo;t find the time to watch them.
-Plus, you get distracted and have to rewind the video several times. A 30 minutes talk easily turns into a 45 minutes one!
-What if you had a time every month to sit down and watch a great tech talk with friends?</description>
+      <description>Remember all those amazing tech talks sitting on your Watch Later list? Sounds more like a **Never Watch list**, right? ⌛🤭🤷‍♀️ So many great tech talks to learn from but you simply can&amp;#39;t find the time to watch them. Now you do!</description>
     </item>
     
   </channel>

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>public speaking on hexdevs</title>
     <link>https://www.hexdevs.com/tags/public-speaking/</link>
     <description>Recent content in public speaking on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Mar 2022 16:40:42 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/public-speaking/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +17,7 @@
       <pubDate>Tue, 22 Mar 2022 16:40:42 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-software-engineer-career-path-mina/</guid>
-      <description>Often as developers, we believe we are supposed to know everything. Just figure everything by ourselves. As long as we get faster and better at coding, our careers will progress smoothly.
-But if you ask around, you’ll notice that most people are feeling technically stuck, despite years of experience. If you ask for career advice, people will throw you an endless list of complex technical skills to master.
-That’s not what you’ll find here.</description>
+      <description>Have you ever reflected on your career goals as a Software Developer? How often do you talk with someone who’s doing the kind of work you want to be doing? Find out how Mina Slater created her own role by taking advantage of her theater management background and expanding the impact of her work.</description>
     </item>
     
     <item>
@@ -24,8 +26,7 @@ That’s not what you’ll find here.</description>
       <pubDate>Thu, 03 Mar 2022 12:57:35 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/public-speaking-tips-for-software-developers/</guid>
-      <description>Everyone says delivering a technical talk is a great opportunity to connect with people, build your reputation, create opportunities to grow your career. In one of the lessons of Get to Senior, we even recommend people to not simply don&amp;rsquo;t go to meetups&amp;hellip; but to talk at meetups!
-But, when you finally decide to do it, the fear of tackling public speaking pops up. Is public speaking even a required skill for a Software Engineer?</description>
+      <description>Wanna deliver a technical talk but don&amp;#39;t know what to talk about, how to get started, and how to tackle public speaking as a software developer? Learn how to create a short tech talk following a step-by-step recipe that only takes 20 minutes. Plus, public speaking tips, how to reuse the content later, and keep practicing your public speaking skills!</description>
     </item>
     
   </channel>

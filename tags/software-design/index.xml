@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>software design on hexdevs</title>
     <link>https://www.hexdevs.com/tags/software-design/</link>
     <description>Recent content in software design on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Apr 2022 13:11:25 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/software-design/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +17,7 @@
       <pubDate>Wed, 06 Apr 2022 13:11:25 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/</guid>
-      <description>Not sure how to implement a new Ruby on Rails feature? A proper model, controller, migration? Or how to write a test for the code you&amp;rsquo;re writing?
-What if you could easily access a massive library of full-blown Ruby on Rails Applications used in the wild and have them as a reference?
-real-world-rails gives you a list of (173 apps + 43 engines) = 216 Rails Applications you can learn from 💣</description>
+      <description>Have no idea how to implement a new Ruby on Rails feature? Or a Rails model? A migration? How to write a test? Here&amp;#39;s how to effectively use 200&#43; Ruby on Rails Applications as a reference for implementing the most common things you need as a Ruby developer.</description>
     </item>
     
     <item>
@@ -24,12 +26,7 @@ real-world-rails gives you a list of (173 apps + 43 engines) = 216 Rails Applica
       <pubDate>Mon, 29 Nov 2021 10:07:55 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/</guid>
-      <description>Are you working on Ruby on Rails Applications that are constantly on fire, overwhelmed by technical debt?
-Instead of being a firefighter, what if you could be a happy programmer again and &amp;ldquo;Escape the tar pit&amp;rdquo;?
-Learn exactly how to measure tech debt and take the right steps to immediately improve code quality. Listen to our conversation with Ernesto Tagwerker (@etagwerker).
- 
- Apple Podcasts | Spotify
-About our guest Ernesto Tagwerker is the founder &amp;amp; CTO at FastRuby.</description>
+      <description>Are you working on Ruby on Rails Applications that are constantly on fire, overwhelmed by technical debt? Instead of being a firefighter, what if you could be a happy programmer again? Listen and learn exactly how to measure tech debt and take the right steps to immediately improve code quality!</description>
     </item>
     
     <item>
@@ -38,9 +35,7 @@ About our guest Ernesto Tagwerker is the founder &amp;amp; CTO at FastRuby.</des
       <pubDate>Tue, 02 Nov 2021 14:45:57 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</guid>
-      <description>Does it take forever to ship even small features on the codebase you&amp;rsquo;re working on? Is the code hard to understand and maintain? Are projects always running over budget? Are you constantly sacrificing code quality and not paying down technical debt?
-When you change one feature, does another completely unrelated part of your app stop working? New bugs appear, even though tests never break? 🥵
-Those are signs that you are suffering from working on a codebase with low code quality.</description>
+      <description>Taking ages to deliver small changes? Constantly sacrificing code quality? Is it possible to ever pay off tech debt? Yes, it is! Learn which Ruby code quality tools you can use to perform static code analysis and improve code quality. This post is a summary of Ernesto Tagwerker&amp;#39;s &amp;#39;Trapped in the Tar Pit?&amp;#39; talk.</description>
     </item>
     
     <item>
@@ -49,10 +44,7 @@ Those are signs that you are suffering from working on a codebase with low code 
       <pubDate>Sat, 23 Oct 2021 13:34:50 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/how-to-learn-programming-language-syntax/</guid>
-      <description>Are you having a hard time picking up the syntax of a new programming language, even though you know how to code?
-You&amp;rsquo;re new to Ruby, and people say it&amp;rsquo;s an easy language, but you find the syntax difficult to understand.
-You know a bit of Javascript, Python, Java, or any other language. But Ruby seems like alien technology to you.
-By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your knowledge of [INSERT PROGRAMMING LANGUAGE HERE] to Ruby.</description>
+      <description>Do you have a hard time learning the syntax of a new programming language, even though you know how to code? Here&amp;#39;s a quick knowledge transfer exercise to help you learn Ruby.</description>
     </item>
     
     <item>
@@ -61,10 +53,7 @@ By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your 
       <pubDate>Sat, 23 Oct 2021 13:29:30 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/</guid>
-      <description>You want to write smooth professional-looking code.
-You&amp;rsquo;re craving some squeaky-clean code. But all you have for lunch every day is a big bowl of legacy spaghetti code.
-You consider yourself a decent developer, but you&amp;rsquo;re never sure how to organize a project. How to name things. Where some piece of business logic should live.
-How can you become a Ruby on Rails expert if the code you read every day stinks?</description>
+      <description>You&amp;#39;re craving some squeaky-clean code, but all you have for lunch every day is a big bowl of legacy spaghetti code. Here&amp;#39;s one way to change that.</description>
     </item>
     
   </channel>

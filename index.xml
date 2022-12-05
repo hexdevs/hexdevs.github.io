@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>hexdevs</title>
     <link>https://www.hexdevs.com/</link>
     <description>Recent content on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Nov 2022 14:44:02 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
@@ -13,11 +17,7 @@
       <pubDate>Sun, 27 Nov 2022 14:44:02 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/building-technical-wealth-legacy-code-m-scott-ford/</guid>
-      <description>Listen to and watch our conversation with M. Scott Ford and learn how to build technical wealth, enjoy working with legacy code, tools, and strategies to remove dead code, and how thrive in a world of makers as a mender.
- 
- Apple Podcasts | Spotify
-   
-About our guest M. Scott Ford is the Co-Founder &amp;amp; Chief Code Whisperer of Corgibytes, where he has quietly led a software maintenance revolution for the past decade.</description>
+      <description>Are you working on Ruby on Rails Applications that are constantly on fire, overwhelmed by technical debt? What if you were building Technical Wealth instead? Learn which tools &amp;amp; strategies to work with legacy code effectively, remove dead code, and leave tech debt behind.</description>
     </item>
     
     <item>
@@ -26,9 +26,7 @@ About our guest M. Scott Ford is the Co-Founder &amp;amp; Chief Code Whisperer o
       <pubDate>Sat, 12 Nov 2022 13:21:46 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/thor-ruby-options-testing/</guid>
-      <description>Thor Ruby gem is a great tool to quickly build a CLI (Command-line interface) app.
-Although there are lots of tutorials for building a CLI with Thor from scratch, there aren&amp;rsquo;t a lot of them on how to test Thor, especially covering scenarios such as required options.
-Thor makes it easy to specify options and arguments for Thor commands. However, I didn&amp;rsquo;t find it easy to test them in the documentation.</description>
+      <description>There are lots of tutorials for building a CLI with Thor from scratch, but there aren&amp;#39;t a lot of them on how to test Thor, especially covering scenarios such as required options. Learn how to test Thor Ruby options.</description>
     </item>
     
     <item>
@@ -37,9 +35,7 @@ Thor makes it easy to specify options and arguments for Thor commands. However, 
       <pubDate>Wed, 19 Oct 2022 13:47:49 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/how-to-open-source-with-richard-schneeman-schneems/</guid>
-      <description>How to Open Source with Richard Schneeman What does lurking and flossing have to do with contributing to open source? It&amp;rsquo;s all about sustaining tiny habits.
- Be a lurker and start small. Read a PR, try to understand what’s going on. Leave a thumbs up 👍 if you like it. This is a very easy way to get started. And build a habit out of that. &amp;ndash; schneems
- How to Open Source: Learn the secrets of successful contributors</description>
+      <description>What does lurking and flossing have to do with contributing to open source? It&amp;#39;s all about sustaining tiny habits. Learn how to use tiny habits to go from coder to contributor.</description>
     </item>
     
     <item>
@@ -48,9 +44,7 @@ Thor makes it easy to specify options and arguments for Thor commands. However, 
       <pubDate>Thu, 06 Oct 2022 07:09:32 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/rails-jbuilder-json-api/</guid>
-      <description>For rspec-rails users, when testing a controller action that uses Jbuilder as a serializer, and you want to test that the response includes exactly what you expect from the Jbuilder serializer, you need to enable render_views in your specs.
-That&amp;rsquo;s because in RSpec, rendering the content of view templates is disabled by default.
-But when using Jbuilder, you do want to render views because that&amp;rsquo;s how Jbuilder serializes the response. And that&amp;rsquo;s what render_views does: it enables view rendering for controllers specs.</description>
+      <description>Want to write a Rails API controller test and make sure it includes exactly what your Jbuilder serializer returns? You need to enable `render_views`. Learn why in this post.</description>
     </item>
     
     <item>
@@ -59,10 +53,7 @@ But when using Jbuilder, you do want to render views because that&amp;rsquo;s ho
       <pubDate>Thu, 08 Sep 2022 16:58:54 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/faker-ruby-vitor-oliveira-open-source-thursdays/</guid>
-      <description>How and when a new version of a Ruby gem is published to RubyGems? Do you know how Faker Ruby generates fake emails, fake phones, fake dates, and fake URLs?
-Did you ever wonder how a new release of a Ruby gem is published on RubyGems? Or are you interested in contributing to Open Source?
-If you said yes to any of these questions, then you&amp;rsquo;re in luck!
-Watch the recording of Open Source Thursdays and you&amp;rsquo;ll learn all about it.</description>
+      <description>How does the Faker Ruby gem work? How do you contribute to an Open Source Ruby project? Know exactly how by watching us do it live!</description>
     </item>
     
     <item>
@@ -71,11 +62,7 @@ Watch the recording of Open Source Thursdays and you&amp;rsquo;ll learn all abou
       <pubDate>Wed, 22 Jun 2022 10:08:23 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/contribute-ruby-on-rails-guide/</guid>
-      <description>Step 1: Decide to find one open-source project to contribute 😎
-Step 2: Keep looking 👀
-Step 3: They are all intimidating, is that normal? 😑
-Step 4: What if I contributed to a project I have lots of experience with, like Ruby on Rails? I’d love to understand more about this tool I use every day 🤔
-Step 5: OMG, the code is huge and scary, Will this even run on my machine?</description>
+      <description>Are you looking for an opportunity to get more experience as a Ruby on Rails developer? Make meaningful connections with the community? Learn the best practices on how to maintain a large codebase such as Ruby on Rails? What if you had a step by step guide on how to get started? Get your free guide and start contributing to Rails today.</description>
     </item>
     
     <item>
@@ -84,7 +71,7 @@ Step 5: OMG, the code is huge and scary, Will this even run on my machine?</desc
       <pubDate>Thu, 02 Jun 2022 18:06:22 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/get-to-senior-developer-caroline-salib/</guid>
-      <description>&amp;ldquo;I had a huge list of the technical things I needed to learn for this new position and turns out none of them was missing for me to get to Senior. I need to do some leadership work, do more mentoring, and is a matter of time. But now I know what to do and I know what to focus on. And that was really surprising. I don&amp;rsquo;t need to spend hours studying programming&amp;rdquo; &amp;ndash; Caroline Salib.</description>
+      <description>What to do when you&amp;#39;ve been doing one technical course after the other, and still not making the jump to Senior? What are the non-obvious skills you need to be promoted to Senior? Listen to our conversation with Caroline Salib on how to identify the non-obvious skills to get promoted to Senior Software Developer -- and it&amp;#39;s not another technical course.</description>
     </item>
     
     <item>
@@ -93,8 +80,7 @@ Step 5: OMG, the code is huge and scary, Will this even run on my machine?</desc
       <pubDate>Tue, 31 May 2022 16:03:10 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/books-level-up-junior-to-intermediate/</guid>
-      <description>Some weeks ago, one of our community members asked us the following question:
-&amp;ldquo;What books on Ruby would you recommend when trying to move from Junior to Intermediate Developer? I can understand basic Ruby and intermediate Rails code well. I get lost when looking up code in the gems&amp;hellip; I feel like they are a bit more advanced. Instead of looking for scattered content across the internet, it&amp;rsquo;d be nice to go through a Ruby book to have a more solid understanding of things!</description>
+      <description>Want to avoid going through lots of frustration when self-learning Ruby or any other programming skills? In this post, I&amp;#39;m going to share a few tools for your self-learning technical practice toolkit and get the most out of your continuous technical practice.</description>
     </item>
     
     <item>
@@ -103,9 +89,7 @@ Step 5: OMG, the code is huge and scary, Will this even run on my machine?</desc
       <pubDate>Fri, 13 May 2022 11:24:15 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/boss/</guid>
-      <description>Send this letter to your boss! Dear Boss,
-I&amp;rsquo;m deeply interested in investing in my career growth and becoming a master of solving impactful business problems as a Ruby developer.
-As a professional, I want to be as effective as possible and provide more and more value to our business. I want to lead important projects, deliver high-quality features and do highly impactful work. Own a codebase and build a great reputation.</description>
+      <description>A letter you can copy/paste and send to your boss for buying Get to Senior Cohort for you.</description>
     </item>
     
     <item>
@@ -114,9 +98,7 @@ As a professional, I want to be as effective as possible and provide more and mo
       <pubDate>Mon, 09 May 2022 15:48:22 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/how-to-write-order-by-case-query-with-arel/</guid>
-      <description>You&amp;rsquo;re working on a feature and someone tells you that one of your models needs to be ordered based on some complicated rule. You realize you&amp;rsquo;ll need to write a complex order by query&amp;hellip;
-Here&amp;rsquo;s how it usually goes:
- You think to yourself: &amp;ldquo;Should I write an order by case when statement? Maybe I&amp;rsquo;ll just add a little bit of SQL&amp;hellip;&amp;quot; Two minutes later, you end up with a bunch of nested case when statements, subqueries, common table expressions, angry statements, shouting, and a whole lot of tears.</description>
+      <description>Do you need to write a complicated order by query on your Rails app? Here&amp;#39;s how you can write an Order By Case Statement using Arel and keep things clean and reusable.</description>
     </item>
     
     <item>
@@ -125,9 +107,7 @@ Here&amp;rsquo;s how it usually goes:
       <pubDate>Tue, 26 Apr 2022 16:21:30 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/debug-third-party-ruby-gem-with-pry/</guid>
-      <description>Are you trying to debug a Ruby gem but not sure how? Here&amp;rsquo;s a quick way to debug any Ruby Project using Pry and Git Bisect.
-When triaging some open issues on Faker, an open-source Ruby gem, I came across Issue #2482. I was able to reproduce the problem. Turns out the bug was already fixed by this PR, but version v2.20.0 was released before that.
-I thought this would be a great opportunity to show you how I debugged this issue so you can learn some new tricks.</description>
+      <description>A quick guide to help you debug a Third-Party Ruby Gem using `bundle open`, `pry`, and `git bisect`.</description>
     </item>
     
     <item>
@@ -136,9 +116,7 @@ I thought this would be a great opportunity to show you how I debugged this issu
       <pubDate>Wed, 13 Apr 2022 12:48:27 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/smart-ruby-developers-dont-ask-for-advice/</guid>
-      <description>If you could run a career quality tool to analyze your progress, would it say you’re moving in the right direction? What score would you get?
-Here’s the catch: how you think you’re doing and what your teammates think how you&amp;rsquo;re doing are not the same thing.
-Want to find out for sure whether you’re moving up the Engineering Ladder anytime soon or not? The only way is by asking for instructive feedback.</description>
+      <description>Want to find out for sure whether you’re moving up the Engineering Ladder anytime soon or not? Instead of asking for advice, ask for Instructive Feedback. Here&amp;#39;s how.</description>
     </item>
     
     <item>
@@ -147,9 +125,7 @@ Want to find out for sure whether you’re moving up the Engineering Ladder anyt
       <pubDate>Wed, 06 Apr 2022 13:11:25 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/</guid>
-      <description>Not sure how to implement a new Ruby on Rails feature? A proper model, controller, migration? Or how to write a test for the code you&amp;rsquo;re writing?
-What if you could easily access a massive library of full-blown Ruby on Rails Applications used in the wild and have them as a reference?
-real-world-rails gives you a list of (173 apps + 43 engines) = 216 Rails Applications you can learn from 💣</description>
+      <description>Have no idea how to implement a new Ruby on Rails feature? Or a Rails model? A migration? How to write a test? Here&amp;#39;s how to effectively use 200&#43; Ruby on Rails Applications as a reference for implementing the most common things you need as a Ruby developer.</description>
     </item>
     
     <item>
@@ -158,9 +134,7 @@ real-world-rails gives you a list of (173 apps + 43 engines) = 216 Rails Applica
       <pubDate>Mon, 04 Apr 2022 12:08:09 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/expert-guest-sessions/expert-sessions-with-fabiano-beselga-april-20/</guid>
-      <description>Climb your Way Up to Senior Ruby Dev with Fabiano Beselga Fabiano Beselga is a Staff Software Engineer with several years of experience in making a business successful through leadership and technology.
-Fabiano was the CTO and cofounder of Magnetis, one of the fastest growing Brazilian fintech startups. He was the CTO of Shore, and is currently designing the technical career track as a Staff Engineer at Kaia Health.
-In this session, we talked about how to Get to Senior as a mid-career Ruby Developer.</description>
+      <description>How do you get promoted to Senior level? How do Engineering paths work? Fabiano Beselga answered the most common questions about Ruby career promotions, climbing up the Engineering Ladder, and how to get to Senior level. Watch the conversation now!</description>
     </item>
     
     <item>
@@ -169,9 +143,7 @@ In this session, we talked about how to Get to Senior as a mid-career Ruby Devel
       <pubDate>Tue, 22 Mar 2022 16:40:42 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-software-engineer-career-path-mina/</guid>
-      <description>Often as developers, we believe we are supposed to know everything. Just figure everything by ourselves. As long as we get faster and better at coding, our careers will progress smoothly.
-But if you ask around, you’ll notice that most people are feeling technically stuck, despite years of experience. If you ask for career advice, people will throw you an endless list of complex technical skills to master.
-That’s not what you’ll find here.</description>
+      <description>Have you ever reflected on your career goals as a Software Developer? How often do you talk with someone who’s doing the kind of work you want to be doing? Find out how Mina Slater created her own role by taking advantage of her theater management background and expanding the impact of her work.</description>
     </item>
     
     <item>
@@ -180,8 +152,7 @@ That’s not what you’ll find here.</description>
       <pubDate>Thu, 03 Mar 2022 12:57:35 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/public-speaking-tips-for-software-developers/</guid>
-      <description>Everyone says delivering a technical talk is a great opportunity to connect with people, build your reputation, create opportunities to grow your career. In one of the lessons of Get to Senior, we even recommend people to not simply don&amp;rsquo;t go to meetups&amp;hellip; but to talk at meetups!
-But, when you finally decide to do it, the fear of tackling public speaking pops up. Is public speaking even a required skill for a Software Engineer?</description>
+      <description>Wanna deliver a technical talk but don&amp;#39;t know what to talk about, how to get started, and how to tackle public speaking as a software developer? Learn how to create a short tech talk following a step-by-step recipe that only takes 20 minutes. Plus, public speaking tips, how to reuse the content later, and keep practicing your public speaking skills!</description>
     </item>
     
     <item>
@@ -190,10 +161,7 @@ But, when you finally decide to do it, the fear of tackling public speaking pops
       <pubDate>Fri, 18 Feb 2022 10:59:13 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/one-mistake-keeping-mid-level-developers-stuck-in-a-loop/</guid>
-      <description>You look at the clock: it&amp;rsquo;s 5 PM.
-You&amp;rsquo;ve been sitting on a chair for the past ~8 hours&amp;hellip; Or worse: just endless, mind-numbing meetings all day. No wonder why you don&amp;rsquo;t feel like opening up a technical book or watching tutorials after work.
-Even so, you try to push yourself one more time because you want to keep growing in your career.
-You try to finish one exercise from the latest technical material you’ve invested in.</description>
+      <description>Are you stuck as a mid-level developer? Trying to keep practicing after work, but don&amp;#39;t feel like you&amp;#39;re learning anything? What if you knew the next steps for you to make the jump to Senior? Learn how to save time and energy by doing one thing differently today.</description>
     </item>
     
     <item>
@@ -202,10 +170,7 @@ You try to finish one exercise from the latest technical material you’ve inves
       <pubDate>Fri, 04 Feb 2022 11:31:00 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/senior-crash-course/</guid>
-      <description>Are you afraid you&amp;rsquo;ll be stuck forever as an intermediate developer? Do you feel like you&amp;rsquo;re an experienced developer&amp;hellip; But not enough to make the jump to Senior?
-Are you afraid you&amp;rsquo;ll be stuck forever as an intermediate developer?
-With so many years of experience, it&amp;rsquo;s gotta be enough to have some Senior-level skills to show for it, right?
-Well, not really. You still have tons of technical courses to finish before you even consider calling yourself a &amp;ldquo;mid-senior&amp;rdquo; developer.</description>
+      <description>You’ve got the coding skills, you’ve got the experience. But haven’t been promoted to Senior yet? Stop waiting. Take the next step in your career with the (FREE) Get to Senior Email Crash Course. Get started now!</description>
     </item>
     
     <item>
@@ -214,9 +179,7 @@ Well, not really. You still have tons of technical courses to finish before you 
       <pubDate>Sat, 11 Dec 2021 16:25:06 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/unhappy-software-developers-randy-paterson/</guid>
-      <description>Do you suffer from Slack notification anxiety? On-call schedules and deadlines giving you nightmares? Are your teammates nitpicking your code during code review?
-Instead of quitting your job out of frustration and having to go through another round of technical interviews, what if you knew how to have a great relationship with your work?
-Learn how to deal with imposter syndrome, unrealistic deadlines, and stop communicating passive-aggressively today! Communicate effectively with your team and finish the day feeling good about what you&amp;rsquo;ve accomplished.</description>
+      <description>Do you suffer from Slack notification anxiety? On-call schedules and deadlines giving you nightmares? Learn how to deal with conflict at work and in relationships with Dr. Randy Paterson, author of The Assertiveness Workbook.</description>
     </item>
     
     <item>
@@ -225,12 +188,7 @@ Learn how to deal with imposter syndrome, unrealistic deadlines, and stop commun
       <pubDate>Mon, 29 Nov 2021 10:07:55 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/</guid>
-      <description>Are you working on Ruby on Rails Applications that are constantly on fire, overwhelmed by technical debt?
-Instead of being a firefighter, what if you could be a happy programmer again and &amp;ldquo;Escape the tar pit&amp;rdquo;?
-Learn exactly how to measure tech debt and take the right steps to immediately improve code quality. Listen to our conversation with Ernesto Tagwerker (@etagwerker).
- 
- Apple Podcasts | Spotify
-About our guest Ernesto Tagwerker is the founder &amp;amp; CTO at FastRuby.</description>
+      <description>Are you working on Ruby on Rails Applications that are constantly on fire, overwhelmed by technical debt? Instead of being a firefighter, what if you could be a happy programmer again? Listen and learn exactly how to measure tech debt and take the right steps to immediately improve code quality!</description>
     </item>
     
     <item>
@@ -239,11 +197,7 @@ About our guest Ernesto Tagwerker is the founder &amp;amp; CTO at FastRuby.</des
       <pubDate>Sun, 28 Nov 2021 17:40:46 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/senior/</guid>
-      <description>Do you feel like you&amp;rsquo;re an experienced developer&amp;hellip; But not enough to make the jump to Senior?
-Are you afraid you&amp;rsquo;ll be stuck forever as an intermediate developer?
-With so many years of experience, it&amp;rsquo;s gotta be enough to have some Senior-level skills to show for it, right?
-Well, not really. You still have tons of technical courses to finish before you even consider calling yourself a &amp;ldquo;mid-senior&amp;rdquo; developer.
-But just thinking about all those technical courses and books on your to-do list is overwhelming.</description>
+      <description>Do you feel stuck in your Software Developer career, not sure what to do next? What if you were taking the next steps and building an amazing career for yourself? Take your career to the next level with Get to Senior!</description>
     </item>
     
     <item>
@@ -252,10 +206,7 @@ But just thinking about all those technical courses and books on your to-do list
       <pubDate>Sun, 28 Nov 2021 17:40:46 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/workshop/</guid>
-      <description>Have you been applying to jobs hoping to get your career to the next level, but getting rejected every time?
-Are you afraid you&amp;rsquo;ll be stuck forever as an intermediate developer?
-3 to 5 years of experience as a Ruby on Rails developer gotta be enough to eventually land a better job, right?
-It seems the only thing you can do is to just keep applying for more jobs. And hope for the best.</description>
+      <description>Get hands-on experience with designing and architecting production-grade Ruby applications in the Software Design Workshop. There is a limited number of seats. Get on the waitlist and save your spot now!</description>
     </item>
     
     <item>
@@ -277,9 +228,7 @@ In the meantime&amp;hellip; 😊 Here are some cool things we&amp;rsquo;ve creat
       <pubDate>Thu, 18 Nov 2021 21:55:55 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/hotwire-rails-chris-oliver/</guid>
-      <description>Chris Oliver is the founder of GoRails, JumpStart Rails, Hatchbox and RailsBytes. He is also one of the hosts of the Remote Ruby podcast.
-Chris showed us how to get started with Hotwire, how to inspect turbo streams. He also answered some questions from the audience, including how to migrate from Webpacker to jsbundling-rails, Websockets performance, and security.
-Do you want to know how Chris Oliver got so good at building products?</description>
+      <description>An introduction to Hotwire with Chris Oliver, from GoRails. Hotwire is the new way of making AJAX requests on Ruby on Rails. Learn how to build JavaScript-less Rails with turbo streams, Stimulus, and form_with.</description>
     </item>
     
     <item>
@@ -288,10 +237,7 @@ Do you want to know how Chris Oliver got so good at building products?</descript
       <pubDate>Thu, 18 Nov 2021 16:25:27 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-just-in-time-compiler-tenderjit/</guid>
-      <description>Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development.
-He joined us on this Open Source Thursdays session to work on a Just-in-time (JIT) compiler for Ruby that’s written in Ruby. With the additional tenderlove we all love 💎
-Get the slides for this session here 🖼️
-In this post summary, you&amp;rsquo;ll learn how Ruby’s virtual machine works, CPUs, Execution code, and more.</description>
+      <description>A class on Ruby Internals and TenderJIT. Aaron Patterson (tenderlove) joined us on an Open Source Thursdays Expert Guest session to teach you about compilers, interpreters, and how to contribute to TenderJIT.</description>
     </item>
     
     <item>
@@ -300,9 +246,7 @@ In this post summary, you&amp;rsquo;ll learn how Ruby’s virtual machine works,
       <pubDate>Tue, 16 Nov 2021 16:35:31 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/perceptual-learning-programming-deliberate-practice/</guid>
-      <description>This article is the second part of the Science of Expertise series. Before reading along, read The Science of Expertise: introduction to Perceptual Learning. the resources mentioned in this series is also found at the end.
-A Better Way to Practice Ruby: Deliberate Practice Perceptual Learning results are promising.
-Unfortunately, no research has been made for programming yet. In this article, you&amp;rsquo;ll learn what we apply from what&amp;rsquo;s been published regarding Perceptual Learning in several domains.</description>
+      <description>What does it mean to be an expert? How do humans develop experts skills? What is the difference between being an experienced developer and an expert developer? To answer these questions, let&amp;#39;s learn from the latest research on the science of expertise and perceptual learning, and PL techniques to help you become a Ruby expert.</description>
     </item>
     
     <item>
@@ -311,10 +255,7 @@ Unfortunately, no research has been made for programming yet. In this article, y
       <pubDate>Tue, 16 Nov 2021 16:21:38 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/perceptual-learning-introduction/</guid>
-      <description>How do you become an expert? Why some Ruby developers can&amp;rsquo;t explain what they know? Why some developers don&amp;rsquo;t develop expert skills? What does it mean to be a Ruby expert?
-To discuss these questions, we&amp;rsquo;ll explore Perceptual Learning (PL) research.
-PL is a natural learning process that complements traditional Education. It accelerates expertise by speeding pattern recognition, intuition and fluency on a given subject.
-Ever since I found out about Perceptual Learning in the book &amp;ldquo;Badass - Making users awesome&amp;rdquo;, from Kathy Sierra, I got really curious to learn more about the science behind Perceptual Learning.</description>
+      <description>What does it mean to be an expert? How do humans develop experts skills? What is the difference between being an experienced developer and an expert developer? To answer these questions, let&amp;#39;s learn from the latest research on the science of expertise and perceptual learning, and PL techniques to help you become a Ruby expert.</description>
     </item>
     
     <item>
@@ -323,10 +264,7 @@ Ever since I found out about Perceptual Learning in the book &amp;ldquo;Badass -
       <pubDate>Tue, 16 Nov 2021 13:47:31 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/build-a-developer-portfolio-get-stuck/</guid>
-      <description>&amp;ldquo;Can you help me build out my developer portfolio?&amp;rdquo;
- It&amp;rsquo;s the first question early-career developers ask when they book a mentoring call with me.
-They&amp;rsquo;ve been struggling to find their first developer job. They read an article or a friend tells them they should be focusing on building their tech portfolio. Or they just decided to follow generic advice on the internet.
-I&amp;rsquo;ve been mentoring people for many years, and the portfolio question is the first thing they ask me.</description>
+      <description>Have you spent months building a tech portfolio to get your first developer job, but not getting any results? That&amp;#39;s mainly because a portfolio is an endless project with no scope and no end-goal. It&amp;#39;s easy to get stuck forever. How about building trust instead?</description>
     </item>
     
     <item>
@@ -335,9 +273,7 @@ I&amp;rsquo;ve been mentoring people for many years, and the portfolio question 
       <pubDate>Tue, 02 Nov 2021 14:45:57 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</guid>
-      <description>Does it take forever to ship even small features on the codebase you&amp;rsquo;re working on? Is the code hard to understand and maintain? Are projects always running over budget? Are you constantly sacrificing code quality and not paying down technical debt?
-When you change one feature, does another completely unrelated part of your app stop working? New bugs appear, even though tests never break? 🥵
-Those are signs that you are suffering from working on a codebase with low code quality.</description>
+      <description>Taking ages to deliver small changes? Constantly sacrificing code quality? Is it possible to ever pay off tech debt? Yes, it is! Learn which Ruby code quality tools you can use to perform static code analysis and improve code quality. This post is a summary of Ernesto Tagwerker&amp;#39;s &amp;#39;Trapped in the Tar Pit?&amp;#39; talk.</description>
     </item>
     
     <item>
@@ -346,9 +282,7 @@ Those are signs that you are suffering from working on a codebase with low code 
       <pubDate>Fri, 29 Oct 2021 17:40:34 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-on-rails-courses-purchasing-power-parity/</guid>
-      <description>Are you looking for courses, training, and resources to improve your Ruby and Ruby on Rails skills, but you are not being paid in US dollars?
-Most Ruby and Ruby on Rails books and courses are priced in US dollars. When you can&amp;rsquo;t afford them just because the country you live in has an undervalued currency compared to the dollar, it makes it difficult to invest in your education.
-There are many free options you probably already know about, and you&amp;rsquo;re already using them.</description>
+      <description>Living in a country whose currency is undervalued, which makes it hard for you to afford a course priced in US dollars? Here&amp;#39;s a list of resources that offer discounts for Ruby and Rails developers who earn a local wage (outside of the US). The list includes one-time fee and monthly subscriptions.</description>
     </item>
     
     <item>
@@ -357,10 +291,7 @@ There are many free options you probably already know about, and you&amp;rsquo;r
       <pubDate>Sat, 23 Oct 2021 13:34:50 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/how-to-learn-programming-language-syntax/</guid>
-      <description>Are you having a hard time picking up the syntax of a new programming language, even though you know how to code?
-You&amp;rsquo;re new to Ruby, and people say it&amp;rsquo;s an easy language, but you find the syntax difficult to understand.
-You know a bit of Javascript, Python, Java, or any other language. But Ruby seems like alien technology to you.
-By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your knowledge of [INSERT PROGRAMMING LANGUAGE HERE] to Ruby.</description>
+      <description>Do you have a hard time learning the syntax of a new programming language, even though you know how to code? Here&amp;#39;s a quick knowledge transfer exercise to help you learn Ruby.</description>
     </item>
     
     <item>
@@ -369,10 +300,7 @@ By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your 
       <pubDate>Sat, 23 Oct 2021 13:29:30 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/</guid>
-      <description>You want to write smooth professional-looking code.
-You&amp;rsquo;re craving some squeaky-clean code. But all you have for lunch every day is a big bowl of legacy spaghetti code.
-You consider yourself a decent developer, but you&amp;rsquo;re never sure how to organize a project. How to name things. Where some piece of business logic should live.
-How can you become a Ruby on Rails expert if the code you read every day stinks?</description>
+      <description>You&amp;#39;re craving some squeaky-clean code, but all you have for lunch every day is a big bowl of legacy spaghetti code. Here&amp;#39;s one way to change that.</description>
     </item>
     
     <item>
@@ -381,11 +309,7 @@ How can you become a Ruby on Rails expert if the code you read every day stinks?
       <pubDate>Sat, 23 Oct 2021 13:25:26 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/new-job-new-codebase-how-to-get-started/</guid>
-      <description>One of my readers asked:
- How do you get started when you join a new company? How do you add features to a codebase that is massive, scary, and completely new to you?
- The first day at your new developer job is just like the first day at a new school. 🚸
-A sea of stranger&amp;rsquo;s faces watching your every move. Unfamiliar smells in the hallway.
-Every chair is uncomfortable and makes weird noises when you sit.</description>
+      <description>Are you joining a new company, and the codebase is massive and scary? Are you freaking out because you don&amp;#39;t even know where or how to get started? What if you could feel comfortable collaborating with your new team, and confidently navigate any codebase? Here is a list of strategies to help you!</description>
     </item>
     
     <item>
@@ -394,10 +318,7 @@ Every chair is uncomfortable and makes weird noises when you sit.</description>
       <pubDate>Sat, 23 Oct 2021 13:19:08 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/examples-successful-self-taught-developers/</guid>
-      <description>Let&amp;rsquo;s say you&amp;rsquo;re learning how to paint. When you look at the famous paintings at the museum, you might start asking yourself:
-&amp;ldquo;Will I ever be this good? Is this for me? Will I ever understand all of this?&amp;rdquo;
-If these questions sound familiar, it&amp;rsquo;s because you&amp;rsquo;re not alone. It&amp;rsquo;s not just you.
-Believe it or not, the same questions can be applied to coding. Some things, like painting and learning how to code, are hard.</description>
+      <description>Feel like coding is not for you? You&amp;#39;re not alone. To give you a boost of inspiration, here&amp;#39;s a list of a few successful Rails developers that come from unusual backgrounds.</description>
     </item>
     
     <item>
@@ -406,9 +327,7 @@ Believe it or not, the same questions can be applied to coding. Some things, lik
       <pubDate>Sat, 23 Oct 2021 13:16:47 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/github-readme-examples-and-template/</guid>
-      <description>You show your GitHub project to people but they don&amp;rsquo;t understand what the code is about. Why should you take time to write a good README if they can simply &amp;ldquo;read the code&amp;rdquo;?
-They won&amp;rsquo;t even look at your code if you don&amp;rsquo;t explain what&amp;rsquo;s in it for them. Why should anyone care about it?
-What about making them curious about your project? It saves them time, it shows you care about good communication and that by writing good docs you probably write good code as well.</description>
+      <description>Tips, examples and a template for writing simple yet useful Github READMEs for your projects.</description>
     </item>
     
     <item>
@@ -417,10 +336,7 @@ What about making them curious about your project? It saves them time, it shows 
       <pubDate>Sat, 23 Oct 2021 13:03:56 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/unstuck-guide-for-developers/</guid>
-      <description>When you get stuck, it’s really easy to block yourself from creatively solving your problem.
-You start asking &amp;ldquo;why am I so dumb?&amp;rdquo;, or thinking that you don’t have a programmer&amp;rsquo;s brain, or feeling that you’ll never understand anything.
-How is that helpful? It isn’t.
-The way we talk to each other (even to ourselves) impacts our performance. It’s not self-help BS. It’s how our brain works.</description>
+      <description>Feeling frustrated with everything you need to learn? Feel like things will never &amp;#39;click&amp;#39;? Try this surprisingly simple way to get unstuck as a developer.</description>
     </item>
     
     <item>
@@ -429,12 +345,7 @@ The way we talk to each other (even to ourselves) impacts our performance. It’
       <pubDate>Sat, 23 Oct 2021 12:57:15 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/first-ruby-dev-job-no-experience/</guid>
-      <description>You&amp;rsquo;re focusing on finding that first Ruby job. You&amp;rsquo;ve been practicing for months or years. You&amp;rsquo;ve been applying to entry-level jobs, even internships.
-You polish your resume. Tweak your portfolio. Attach your CV. Press Submit.
-Chirp, chirp, chirp 🦗
-Nothing happens.
-Worse: you do an amazing interview, people loved you. But then they say they are moving forward with someone else that has more experience.
-Welp, next time is going to be different.</description>
+      <description>Beep. Another rejection. You don&amp;#39;t have experience for an entry-level Ruby job. Worse: chirp, chirp, chirp. No replies at all. Are you tired of all of this? If you want to get real-world experience, apply this strategy to get different results.</description>
     </item>
     
     <item>
@@ -443,11 +354,7 @@ Welp, next time is going to be different.</description>
       <pubDate>Wed, 20 Oct 2021 11:50:02 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/rubyconf2021/</guid>
-      <description>Hi, nice seeing you here!
-Thanks for checking out Perceptual Learning == More Ruby experts? presented at RubyConf 2021.
-  
-You can find the slides and the resources mentioned in this talk below:
- Slides 🖼️ Resources mentioned in this talk 📖  The Science of Expertise series hexdevs team is working on some guides and exercises for practicing Ruby following the research principles shared here. A written format from this talk and new published articles can be found in the The Science of Expertise series ✍🏼</description>
+      <description>What does it mean to be an expert? How do humans develop experts skills? What is the difference between being an experienced developer and an expert developer? To answer these questions, let&amp;#39;s learn from the latest research on the science of expertise and perceptual learning, and PL techniques to help you become a Ruby expert.</description>
     </item>
     
     <item>
@@ -456,9 +363,7 @@ You can find the slides and the resources mentioned in this talk below:
       <pubDate>Tue, 21 Sep 2021 11:56:00 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-aaron-patterson-sep-30th/</guid>
-      <description>TenderJIT: A Pure Ruby JIT Compiler for Ruby Aaron Patterson (@tenderlove) joined our livestream as an expert guest on September 30th, 2021.
-Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing.
-Make sure to follow his Twitter account to keep up on all of his thoughtful insights and pearls of wisdom such as &amp;ldquo;It&amp;rsquo;s Always Friday Somewhere!</description>
+      <description>Let&amp;#39;s work on a JIT compiler for Ruby that’s written in Ruby! We’re going to start building a JIT for Ruby from the ground up. First, we’ll learn how Ruby’s virtual machine works, then talk about the CPU itself. Finally we’ll start building a JIT for Ruby in Ruby. This session happened on September 30th, 2021.</description>
     </item>
     
     <item>
@@ -467,10 +372,7 @@ Make sure to follow his Twitter account to keep up on all of his thoughtful insi
       <pubDate>Wed, 15 Sep 2021 15:48:13 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/confirm-subscription-expert-session/</guid>
-      <description>Now check your inbox! Check your inbox for an email to confirm your subscription. That&amp;rsquo;s the only way we can send you all the details and reminders for this event.
-The email is coming from &amp;ldquo;hexdevs&amp;rdquo;. If you can&amp;rsquo;t find it in your inbox, check your other folders and the spam folder.
-Still can&amp;rsquo;t find it? Send a message to team@hexdevs.com and we&amp;rsquo;ll fix it for you.
-See you in your inbox!</description>
+      <description>Confirm your Subscription to the Expert Session.</description>
     </item>
     
     <item>
@@ -479,10 +381,7 @@ See you in your inbox!</description>
       <pubDate>Mon, 16 Aug 2021 17:04:18 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-on-rails-open-source-contribution/</guid>
-      <description>Are you looking for an opportunity to get more experience as a Ruby on Rails developer? Make meaningful connections with the community? Learn the best practices on how to maintain a large codebase?
-What if you could get that experience by contributing to an open source project like Ruby on Rails?
-If that sounds scary, don&amp;rsquo;t worry! We can help you!
-By the end of this post, you&amp;rsquo;ll learn 5 ways to become a new Rails contributor, even if you are a beginner in Ruby.</description>
+      <description>This post is a summary of the Open Source Thursdays - Expert Session with Rafael França. Learn how to get started, how to fix a bug, navigate the Ruby on Rails codebase and contribute to Open Source projects as a beginner.</description>
     </item>
     
     <item>
@@ -491,11 +390,7 @@ By the end of this post, you&amp;rsquo;ll learn 5 ways to become a new Rails con
       <pubDate>Tue, 10 Aug 2021 16:03:34 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/confirm-your-subscription/</guid>
-      <description>Now check your inbox! Check your inbox for an email to confirm your subscription.
-The email is coming from &amp;ldquo;hexdevs&amp;rdquo;. If you can&amp;rsquo;t find it in your inbox, check your other tabs or the spam folder.
-Still can&amp;rsquo;t find it? Send a message to team@hexdevs.com and we&amp;rsquo;ll fix it for you.
-See you in your inbox!
--Stefanni &amp;amp; Thiago</description>
+      <description>Confirm Your Subscription</description>
     </item>
     
     <item>
@@ -504,9 +399,7 @@ See you in your inbox!
       <pubDate>Mon, 09 Aug 2021 17:40:46 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/newsletter/</guid>
-      <description>Join hundreds of Ruby developers who receive the hexdevs newsletter on their inboxes! You&amp;rsquo;ll receive our newsletter with exercises, research-based techniques and proven strategies to help you become an expert Ruby developer. It&amp;rsquo;s free!
-We can&amp;rsquo;t wait to send it to you! 📥
-  </description>
+      <description>Do you want to become an expert Ruby developer? Sign up for the hexdevs newsletter!</description>
     </item>
     
     <item>
@@ -515,12 +408,7 @@ We can&amp;rsquo;t wait to send it to you! 📥
       <pubDate>Thu, 29 Jul 2021 10:57:00 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/code-of-conduct/</guid>
-      <description>This is the hexdevs Code of Conduct In order to make sure this community can be home to everyone, we’ve put together a few guidelines.
-We expect members to&amp;hellip; Practice kindness towards themselves and other members.
-Behave in a professional manner.
-Make the hexdevs community a welcoming, supportive and encouraging environment.
-Cultivate compassion and practice unconditional positive regard as they are able and willing.
-To ensure all our members feel safe and comfortable… hexdevs cares about creating an open and welcoming community, and we are committed to making membership a respectful and harassment-free experience for everyone, regardless of gender, gender identity and expression, sex, sexual orientation, disability, neuro(a)typicality, physical appearance, body size, race, ethnicity, national origin, immigration status, age, political affiliation, or religion.</description>
+      <description>This is the hexdevs Code of Conduct. In order to make sure this community can be home to everyone, we’ve put together a few guidelines.</description>
     </item>
     
     <item>
@@ -529,9 +417,7 @@ To ensure all our members feel safe and comfortable… hexdevs cares about creat
       <pubDate>Sun, 25 Jul 2021 12:56:00 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-rafael-franca-aug-5th/</guid>
-      <description>Rafael França is a Rails Core team member and Principal Engineer at Shopify, and he is working to define the future of Ruby and Rails.
-Rafael explained how to get started with contributing to Ruby on Rails, fix a bug, navigate the Rails code base and contribute to open source projects as a beginner. He also answered questions from the community.
-Open Source Thursdays is a project from hexdevs to make Open Source contributions more inclusive.</description>
+      <description>Contribute to Ruby on Rails with Rafael França, Rails Core team member, on August 5th</description>
     </item>
     
     <item>
@@ -552,9 +438,7 @@ The Joy of Missing Out 😊 Here are some cool things we&amp;rsquo;ve created to
       <pubDate>Sat, 10 Jul 2021 18:37:16 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/why-no-one-reads-your-blog/</guid>
-      <description>You have a technical blog but there is only one problem: no one is reading what you write.
-Why?
-Think about it: readers aren&amp;rsquo;t going through their day waiting for your tech tutorials. They&amp;rsquo;re busy dealing with whatever is going on in their day, just like you! They are thinking of how they are going finish their work before Friday, how they are going to fix the bug in production&amp;hellip; you get the picture.</description>
+      <description>Why does no one read your blog? Do you want to know the answer? It&amp;#39;s going to hurt, but the truth it&amp;#39;s liberating!</description>
     </item>
     
     <item>
@@ -563,9 +447,7 @@ Think about it: readers aren&amp;rsquo;t going through their day waiting for you
       <pubDate>Tue, 29 Jun 2021 19:22:48 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/pry-debug-in-5-minutes/</guid>
-      <description>When you&amp;rsquo;re banging your head against the wall trying to fix a bug, the last thing you want is having to stop and learn how to use the debugging tool.
-You might even have added require &#39;pry&#39; on a Ruby file but quickly realized you couldn&amp;rsquo;t remember all the available commands.
-If only there was a way for you to quickly learn how to use Pry and focus on solving the problem&amp;hellip; Well, there is now!</description>
+      <description>Whether you&amp;#39;re new to Pry or not, there are so many commands to learn! Get Started with Pry in 5 minutes and save hours of work next time you have to debug your code.</description>
     </item>
     
     <item>
@@ -574,9 +456,7 @@ If only there was a way for you to quickly learn how to use Pry and focus on sol
       <pubDate>Thu, 17 Jun 2021 20:28:21 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/watch-party/</guid>
-      <description>All those amazing tech talks sitting on your Watch Later list. Sounds more like a Never Watch list, right? ⌛🤭🤷‍♀️ So many great tech talks to learn from but you simply can&amp;rsquo;t find the time to watch them.
-Plus, you get distracted and have to rewind the video several times. A 30 minutes talk easily turns into a 45 minutes one!
-What if you had a time every month to sit down and watch a great tech talk with friends?</description>
+      <description>Remember all those amazing tech talks sitting on your Watch Later list? Sounds more like a **Never Watch list**, right? ⌛🤭🤷‍♀️ So many great tech talks to learn from but you simply can&amp;#39;t find the time to watch them. Now you do!</description>
     </item>
     
     <item>
@@ -585,9 +465,7 @@ What if you had a time every month to sit down and watch a great tech talk with 
       <pubDate>Sat, 08 May 2021 12:56:00 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/open-source-thursdays-project/</guid>
-      <description>Did you always want to contribute to Open Source projects but can&amp;rsquo;t get past getting overwhelmed and feeling scared when looking at a big project just by yourself?
-Open Source Thursdays is one of our projects where we aim to contribute to Open Source projects by doing live stream sessions.
-The initial plan was to contribute to Ruby on Rails and to do everything live, with little or no preparation in advance.</description>
+      <description>Contributing to Ruby Open Source projects with hexdevs and Ruby Experts.</description>
     </item>
     
     <item>
@@ -596,9 +474,7 @@ The initial plan was to contribute to Ruby on Rails and to do everything live, w
       <pubDate>Mon, 26 Apr 2021 12:50:17 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/taking-the-leap-into-entrepreneurship-with-monica-lent/</guid>
-      <description>Monica Lent is a software engineer and entrepreneur. She decided to quit her job and bootstrap Affilimate full-time. She also created Blogging for Devs, a paid community to help developers grow their technical blogs with SEO.
-  Apple Podcasts | Spotify
-Show Notes  Monica Lent&amp;rsquo;s website Affilimate Blogging for Devs Monica&amp;rsquo;s Income Report Amy Hoy&amp;rsquo;s post about content marketing    Transcript Stefanni Brasil: [00:00:10] Our guest today is Monica Lent.</description>
+      <description>Building profitable online businesses as a developer with Monica Lent.</description>
     </item>
     
     <item>
@@ -607,9 +483,7 @@ Show Notes  Monica Lent&amp;rsquo;s website Affilimate Blogging for Devs Monica&
       <pubDate>Wed, 10 Mar 2021 22:00:00 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/unusual-tech-jobs/</guid>
-      <description>Brian David Hall is an expert in conversion optimization. He&amp;rsquo;s a software engineer by training, runs his own company, and is the host of the SaaS Experiments Podcast, where he talks to other experts in growth marketing. We talked about the unusual tech jobs he&amp;rsquo;s had that helped him learn other skills beyond coding.
-  Apple Podcasts | Spotify
-You can use your skills in other areas like Marketing and Sales to transition to a tech job instead of throwing away your current expertise.</description>
+      <description>Learning how to code on top of your existing skills will give you superpowers! Learn how to use your skills in other areas to land a developer job.</description>
     </item>
     
     <item>
@@ -618,8 +492,7 @@ You can use your skills in other areas like Marketing and Sales to transition to
       <pubDate>Tue, 16 Feb 2021 10:28:56 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/why-michael-lynch-left-his-job-at-google-to-become-a-solo-founder/</guid>
-      <description>Michael Lynch is a software developer and blogger. He used to work as a software engineer at Google, but he decided to quit and now he&amp;rsquo;s a solo founder, and blogs about his experience.
-Michael has recently launched the course Hit The Front Page of Hacker News Course. The course teaches everything he has learned about Hacker News after getting many of his original blog posts to hit the front page.</description>
+      <description>Learn why Michael Lynch decided to quit his job at Google to run his own online businesses, his Financial Independence goals and the experience of launching an online course.</description>
     </item>
     
     <item>
@@ -628,10 +501,7 @@ Michael has recently launched the course Hit The Front Page of Hacker News Cours
       <pubDate>Tue, 02 Feb 2021 09:04:04 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/grow-micro-saas-to-30k-per-month-delightchat-episode/</guid>
-      <description>We had a great time chatting with Preetam Nath and Sankalp Jonna, the co-founders of SuperLemon and DelightChat.
-They started a micro-SaaS in 2019. After about 14 months, they grew the monthly recurring revenue to $30,000. More than 20,000 merchants are using their product on the Shopify App Store, which is completely insane!
-DelightChat is a customer support tool for small and medium-sized e-commerces.
-The great thing about their story is that they&amp;rsquo;re not just building a business, but building a life on top of that business.</description>
+      <description>Learn how Preetam Nath and Sankalp Jonna, co-founders of DelightChat, built a Micro-SaaS on the Shopify App Store and grew it to 30K MRR and &#43;20K users in 14 months.</description>
     </item>
     
     <item>
@@ -649,10 +519,7 @@ The great thing about their story is that they&amp;rsquo;re not just building a 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-chris-oliver-oct-14th/</guid>
-      <description>Chris Oliver is the founder of GoRails, JumpStart Rails, Hatchbox and RailsBytes. He is also one of the hosts of the Remote Ruby podcast.
-Just Enough Hotwire with Chris Oliver Want to add some JavaScript sprinkles to your Rails app but don&amp;rsquo;t have the time to learn how to use Hotwire?
-Not finding Hotwire intuitive and it&amp;rsquo;s taking you time (that you don&amp;rsquo;t have) to understand it?
-How much of JS do you need to learn if you just want to write minimal code in JS?</description>
+      <description>Learn Just enough Hotwire for Rails Developers with Chris Oliver (GoRails)</description>
     </item>
     
   </channel>

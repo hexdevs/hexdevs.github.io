@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>workshop on hexdevs</title>
     <link>https://www.hexdevs.com/tags/workshop/</link>
     <description>Recent content in workshop on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Nov 2021 17:40:46 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +17,7 @@
       <pubDate>Sun, 28 Nov 2021 17:40:46 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/workshop/</guid>
-      <description>Have you been applying to jobs hoping to get your career to the next level, but getting rejected every time?
-Are you afraid you&amp;rsquo;ll be stuck forever as an intermediate developer?
-3 to 5 years of experience as a Ruby on Rails developer gotta be enough to eventually land a better job, right?
-It seems the only thing you can do is to just keep applying for more jobs. And hope for the best.</description>
+      <description>Get hands-on experience with designing and architecting production-grade Ruby applications in the Software Design Workshop. There is a limited number of seats. Get on the waitlist and save your spot now!</description>
     </item>
     
   </channel>

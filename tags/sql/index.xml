@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SQL on hexdevs</title>
     <link>https://www.hexdevs.com/tags/sql/</link>
     <description>Recent content in SQL on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 May 2022 15:48:22 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/sql/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +17,7 @@
       <pubDate>Mon, 09 May 2022 15:48:22 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/how-to-write-order-by-case-query-with-arel/</guid>
-      <description>You&amp;rsquo;re working on a feature and someone tells you that one of your models needs to be ordered based on some complicated rule. You realize you&amp;rsquo;ll need to write a complex order by query&amp;hellip;
-Here&amp;rsquo;s how it usually goes:
- You think to yourself: &amp;ldquo;Should I write an order by case when statement? Maybe I&amp;rsquo;ll just add a little bit of SQL&amp;hellip;&amp;quot; Two minutes later, you end up with a bunch of nested case when statements, subqueries, common table expressions, angry statements, shouting, and a whole lot of tears.</description>
+      <description>Do you need to write a complicated order by query on your Rails app? Here&amp;#39;s how you can write an Order By Case Statement using Arel and keep things clean and reusable.</description>
     </item>
     
   </channel>

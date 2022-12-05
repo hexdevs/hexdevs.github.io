@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>newsletter on hexdevs</title>
     <link>https://www.hexdevs.com/tags/newsletter/</link>
     <description>Recent content in newsletter on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Aug 2021 17:40:46 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +17,7 @@
       <pubDate>Mon, 09 Aug 2021 17:40:46 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/newsletter/</guid>
-      <description>Join hundreds of Ruby developers who receive the hexdevs newsletter on their inboxes! You&amp;rsquo;ll receive our newsletter with exercises, research-based techniques and proven strategies to help you become an expert Ruby developer. It&amp;rsquo;s free!
-We can&amp;rsquo;t wait to send it to you! 📥
-  </description>
+      <description>Do you want to become an expert Ruby developer? Sign up for the hexdevs newsletter!</description>
     </item>
     
   </channel>

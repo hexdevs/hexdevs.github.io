@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hotwire on hexdevs</title>
     <link>https://www.hexdevs.com/tags/hotwire/</link>
     <description>Recent content in Hotwire on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Nov 2021 21:55:55 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/hotwire/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +17,7 @@
       <pubDate>Thu, 18 Nov 2021 21:55:55 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/hotwire-rails-chris-oliver/</guid>
-      <description>Chris Oliver is the founder of GoRails, JumpStart Rails, Hatchbox and RailsBytes. He is also one of the hosts of the Remote Ruby podcast.
-Chris showed us how to get started with Hotwire, how to inspect turbo streams. He also answered some questions from the audience, including how to migrate from Webpacker to jsbundling-rails, Websockets performance, and security.
-Do you want to know how Chris Oliver got so good at building products?</description>
+      <description>An introduction to Hotwire with Chris Oliver, from GoRails. Hotwire is the new way of making AJAX requests on Ruby on Rails. Learn how to build JavaScript-less Rails with turbo streams, Stimulus, and form_with.</description>
     </item>
     
   </channel>

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>get to senior on hexdevs</title>
     <link>https://www.hexdevs.com/tags/get-to-senior/</link>
     <description>Recent content in get to senior on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jun 2022 18:06:22 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/get-to-senior/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +17,7 @@
       <pubDate>Thu, 02 Jun 2022 18:06:22 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/get-to-senior-developer-caroline-salib/</guid>
-      <description>&amp;ldquo;I had a huge list of the technical things I needed to learn for this new position and turns out none of them was missing for me to get to Senior. I need to do some leadership work, do more mentoring, and is a matter of time. But now I know what to do and I know what to focus on. And that was really surprising. I don&amp;rsquo;t need to spend hours studying programming&amp;rdquo; &amp;ndash; Caroline Salib.</description>
+      <description>What to do when you&amp;#39;ve been doing one technical course after the other, and still not making the jump to Senior? What are the non-obvious skills you need to be promoted to Senior? Listen to our conversation with Caroline Salib on how to identify the non-obvious skills to get promoted to Senior Software Developer -- and it&amp;#39;s not another technical course.</description>
     </item>
     
   </channel>

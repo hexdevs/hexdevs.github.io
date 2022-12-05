@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ruby on hexdevs</title>
     <link>https://www.hexdevs.com/tags/ruby/</link>
     <description>Recent content in ruby on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Nov 2022 13:21:46 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +17,7 @@
       <pubDate>Sat, 12 Nov 2022 13:21:46 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/thor-ruby-options-testing/</guid>
-      <description>Thor Ruby gem is a great tool to quickly build a CLI (Command-line interface) app.
-Although there are lots of tutorials for building a CLI with Thor from scratch, there aren&amp;rsquo;t a lot of them on how to test Thor, especially covering scenarios such as required options.
-Thor makes it easy to specify options and arguments for Thor commands. However, I didn&amp;rsquo;t find it easy to test them in the documentation.</description>
+      <description>There are lots of tutorials for building a CLI with Thor from scratch, but there aren&amp;#39;t a lot of them on how to test Thor, especially covering scenarios such as required options. Learn how to test Thor Ruby options.</description>
     </item>
     
     <item>
@@ -24,9 +26,7 @@ Thor makes it easy to specify options and arguments for Thor commands. However, 
       <pubDate>Wed, 19 Oct 2022 13:47:49 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/how-to-open-source-with-richard-schneeman-schneems/</guid>
-      <description>How to Open Source with Richard Schneeman What does lurking and flossing have to do with contributing to open source? It&amp;rsquo;s all about sustaining tiny habits.
- Be a lurker and start small. Read a PR, try to understand what’s going on. Leave a thumbs up 👍 if you like it. This is a very easy way to get started. And build a habit out of that. &amp;ndash; schneems
- How to Open Source: Learn the secrets of successful contributors</description>
+      <description>What does lurking and flossing have to do with contributing to open source? It&amp;#39;s all about sustaining tiny habits. Learn how to use tiny habits to go from coder to contributor.</description>
     </item>
     
     <item>
@@ -35,10 +35,7 @@ Thor makes it easy to specify options and arguments for Thor commands. However, 
       <pubDate>Thu, 08 Sep 2022 16:58:54 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/faker-ruby-vitor-oliveira-open-source-thursdays/</guid>
-      <description>How and when a new version of a Ruby gem is published to RubyGems? Do you know how Faker Ruby generates fake emails, fake phones, fake dates, and fake URLs?
-Did you ever wonder how a new release of a Ruby gem is published on RubyGems? Or are you interested in contributing to Open Source?
-If you said yes to any of these questions, then you&amp;rsquo;re in luck!
-Watch the recording of Open Source Thursdays and you&amp;rsquo;ll learn all about it.</description>
+      <description>How does the Faker Ruby gem work? How do you contribute to an Open Source Ruby project? Know exactly how by watching us do it live!</description>
     </item>
     
     <item>
@@ -47,9 +44,7 @@ Watch the recording of Open Source Thursdays and you&amp;rsquo;ll learn all abou
       <pubDate>Tue, 26 Apr 2022 16:21:30 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/debug-third-party-ruby-gem-with-pry/</guid>
-      <description>Are you trying to debug a Ruby gem but not sure how? Here&amp;rsquo;s a quick way to debug any Ruby Project using Pry and Git Bisect.
-When triaging some open issues on Faker, an open-source Ruby gem, I came across Issue #2482. I was able to reproduce the problem. Turns out the bug was already fixed by this PR, but version v2.20.0 was released before that.
-I thought this would be a great opportunity to show you how I debugged this issue so you can learn some new tricks.</description>
+      <description>A quick guide to help you debug a Third-Party Ruby Gem using `bundle open`, `pry`, and `git bisect`.</description>
     </item>
     
     <item>
@@ -58,9 +53,7 @@ I thought this would be a great opportunity to show you how I debugged this issu
       <pubDate>Wed, 13 Apr 2022 12:48:27 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/smart-ruby-developers-dont-ask-for-advice/</guid>
-      <description>If you could run a career quality tool to analyze your progress, would it say you’re moving in the right direction? What score would you get?
-Here’s the catch: how you think you’re doing and what your teammates think how you&amp;rsquo;re doing are not the same thing.
-Want to find out for sure whether you’re moving up the Engineering Ladder anytime soon or not? The only way is by asking for instructive feedback.</description>
+      <description>Want to find out for sure whether you’re moving up the Engineering Ladder anytime soon or not? Instead of asking for advice, ask for Instructive Feedback. Here&amp;#39;s how.</description>
     </item>
     
     <item>
@@ -69,9 +62,7 @@ Want to find out for sure whether you’re moving up the Engineering Ladder anyt
       <pubDate>Wed, 06 Apr 2022 13:11:25 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/</guid>
-      <description>Not sure how to implement a new Ruby on Rails feature? A proper model, controller, migration? Or how to write a test for the code you&amp;rsquo;re writing?
-What if you could easily access a massive library of full-blown Ruby on Rails Applications used in the wild and have them as a reference?
-real-world-rails gives you a list of (173 apps + 43 engines) = 216 Rails Applications you can learn from 💣</description>
+      <description>Have no idea how to implement a new Ruby on Rails feature? Or a Rails model? A migration? How to write a test? Here&amp;#39;s how to effectively use 200&#43; Ruby on Rails Applications as a reference for implementing the most common things you need as a Ruby developer.</description>
     </item>
     
     <item>
@@ -80,9 +71,7 @@ real-world-rails gives you a list of (173 apps + 43 engines) = 216 Rails Applica
       <pubDate>Tue, 22 Mar 2022 16:40:42 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-software-engineer-career-path-mina/</guid>
-      <description>Often as developers, we believe we are supposed to know everything. Just figure everything by ourselves. As long as we get faster and better at coding, our careers will progress smoothly.
-But if you ask around, you’ll notice that most people are feeling technically stuck, despite years of experience. If you ask for career advice, people will throw you an endless list of complex technical skills to master.
-That’s not what you’ll find here.</description>
+      <description>Have you ever reflected on your career goals as a Software Developer? How often do you talk with someone who’s doing the kind of work you want to be doing? Find out how Mina Slater created her own role by taking advantage of her theater management background and expanding the impact of her work.</description>
     </item>
     
     <item>
@@ -91,12 +80,7 @@ That’s not what you’ll find here.</description>
       <pubDate>Mon, 29 Nov 2021 10:07:55 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/</guid>
-      <description>Are you working on Ruby on Rails Applications that are constantly on fire, overwhelmed by technical debt?
-Instead of being a firefighter, what if you could be a happy programmer again and &amp;ldquo;Escape the tar pit&amp;rdquo;?
-Learn exactly how to measure tech debt and take the right steps to immediately improve code quality. Listen to our conversation with Ernesto Tagwerker (@etagwerker).
- 
- Apple Podcasts | Spotify
-About our guest Ernesto Tagwerker is the founder &amp;amp; CTO at FastRuby.</description>
+      <description>Are you working on Ruby on Rails Applications that are constantly on fire, overwhelmed by technical debt? Instead of being a firefighter, what if you could be a happy programmer again? Listen and learn exactly how to measure tech debt and take the right steps to immediately improve code quality!</description>
     </item>
     
     <item>
@@ -105,9 +89,7 @@ About our guest Ernesto Tagwerker is the founder &amp;amp; CTO at FastRuby.</des
       <pubDate>Thu, 18 Nov 2021 21:55:55 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/hotwire-rails-chris-oliver/</guid>
-      <description>Chris Oliver is the founder of GoRails, JumpStart Rails, Hatchbox and RailsBytes. He is also one of the hosts of the Remote Ruby podcast.
-Chris showed us how to get started with Hotwire, how to inspect turbo streams. He also answered some questions from the audience, including how to migrate from Webpacker to jsbundling-rails, Websockets performance, and security.
-Do you want to know how Chris Oliver got so good at building products?</description>
+      <description>An introduction to Hotwire with Chris Oliver, from GoRails. Hotwire is the new way of making AJAX requests on Ruby on Rails. Learn how to build JavaScript-less Rails with turbo streams, Stimulus, and form_with.</description>
     </item>
     
     <item>
@@ -116,10 +98,7 @@ Do you want to know how Chris Oliver got so good at building products?</descript
       <pubDate>Thu, 18 Nov 2021 16:25:27 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-just-in-time-compiler-tenderjit/</guid>
-      <description>Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development.
-He joined us on this Open Source Thursdays session to work on a Just-in-time (JIT) compiler for Ruby that’s written in Ruby. With the additional tenderlove we all love 💎
-Get the slides for this session here 🖼️
-In this post summary, you&amp;rsquo;ll learn how Ruby’s virtual machine works, CPUs, Execution code, and more.</description>
+      <description>A class on Ruby Internals and TenderJIT. Aaron Patterson (tenderlove) joined us on an Open Source Thursdays Expert Guest session to teach you about compilers, interpreters, and how to contribute to TenderJIT.</description>
     </item>
     
     <item>
@@ -128,9 +107,7 @@ In this post summary, you&amp;rsquo;ll learn how Ruby’s virtual machine works,
       <pubDate>Tue, 02 Nov 2021 14:45:57 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</guid>
-      <description>Does it take forever to ship even small features on the codebase you&amp;rsquo;re working on? Is the code hard to understand and maintain? Are projects always running over budget? Are you constantly sacrificing code quality and not paying down technical debt?
-When you change one feature, does another completely unrelated part of your app stop working? New bugs appear, even though tests never break? 🥵
-Those are signs that you are suffering from working on a codebase with low code quality.</description>
+      <description>Taking ages to deliver small changes? Constantly sacrificing code quality? Is it possible to ever pay off tech debt? Yes, it is! Learn which Ruby code quality tools you can use to perform static code analysis and improve code quality. This post is a summary of Ernesto Tagwerker&amp;#39;s &amp;#39;Trapped in the Tar Pit?&amp;#39; talk.</description>
     </item>
     
     <item>
@@ -139,9 +116,7 @@ Those are signs that you are suffering from working on a codebase with low code 
       <pubDate>Fri, 29 Oct 2021 17:40:34 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-on-rails-courses-purchasing-power-parity/</guid>
-      <description>Are you looking for courses, training, and resources to improve your Ruby and Ruby on Rails skills, but you are not being paid in US dollars?
-Most Ruby and Ruby on Rails books and courses are priced in US dollars. When you can&amp;rsquo;t afford them just because the country you live in has an undervalued currency compared to the dollar, it makes it difficult to invest in your education.
-There are many free options you probably already know about, and you&amp;rsquo;re already using them.</description>
+      <description>Living in a country whose currency is undervalued, which makes it hard for you to afford a course priced in US dollars? Here&amp;#39;s a list of resources that offer discounts for Ruby and Rails developers who earn a local wage (outside of the US). The list includes one-time fee and monthly subscriptions.</description>
     </item>
     
     <item>
@@ -150,10 +125,7 @@ There are many free options you probably already know about, and you&amp;rsquo;r
       <pubDate>Sat, 23 Oct 2021 13:34:50 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/how-to-learn-programming-language-syntax/</guid>
-      <description>Are you having a hard time picking up the syntax of a new programming language, even though you know how to code?
-You&amp;rsquo;re new to Ruby, and people say it&amp;rsquo;s an easy language, but you find the syntax difficult to understand.
-You know a bit of Javascript, Python, Java, or any other language. But Ruby seems like alien technology to you.
-By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your knowledge of [INSERT PROGRAMMING LANGUAGE HERE] to Ruby.</description>
+      <description>Do you have a hard time learning the syntax of a new programming language, even though you know how to code? Here&amp;#39;s a quick knowledge transfer exercise to help you learn Ruby.</description>
     </item>
     
     <item>
@@ -162,10 +134,7 @@ By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your 
       <pubDate>Sat, 23 Oct 2021 13:29:30 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/</guid>
-      <description>You want to write smooth professional-looking code.
-You&amp;rsquo;re craving some squeaky-clean code. But all you have for lunch every day is a big bowl of legacy spaghetti code.
-You consider yourself a decent developer, but you&amp;rsquo;re never sure how to organize a project. How to name things. Where some piece of business logic should live.
-How can you become a Ruby on Rails expert if the code you read every day stinks?</description>
+      <description>You&amp;#39;re craving some squeaky-clean code, but all you have for lunch every day is a big bowl of legacy spaghetti code. Here&amp;#39;s one way to change that.</description>
     </item>
     
     <item>
@@ -174,11 +143,7 @@ How can you become a Ruby on Rails expert if the code you read every day stinks?
       <pubDate>Sat, 23 Oct 2021 13:25:26 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/new-job-new-codebase-how-to-get-started/</guid>
-      <description>One of my readers asked:
- How do you get started when you join a new company? How do you add features to a codebase that is massive, scary, and completely new to you?
- The first day at your new developer job is just like the first day at a new school. 🚸
-A sea of stranger&amp;rsquo;s faces watching your every move. Unfamiliar smells in the hallway.
-Every chair is uncomfortable and makes weird noises when you sit.</description>
+      <description>Are you joining a new company, and the codebase is massive and scary? Are you freaking out because you don&amp;#39;t even know where or how to get started? What if you could feel comfortable collaborating with your new team, and confidently navigate any codebase? Here is a list of strategies to help you!</description>
     </item>
     
     <item>
@@ -187,9 +152,7 @@ Every chair is uncomfortable and makes weird noises when you sit.</description>
       <pubDate>Tue, 29 Jun 2021 19:22:48 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/pry-debug-in-5-minutes/</guid>
-      <description>When you&amp;rsquo;re banging your head against the wall trying to fix a bug, the last thing you want is having to stop and learn how to use the debugging tool.
-You might even have added require &#39;pry&#39; on a Ruby file but quickly realized you couldn&amp;rsquo;t remember all the available commands.
-If only there was a way for you to quickly learn how to use Pry and focus on solving the problem&amp;hellip; Well, there is now!</description>
+      <description>Whether you&amp;#39;re new to Pry or not, there are so many commands to learn! Get Started with Pry in 5 minutes and save hours of work next time you have to debug your code.</description>
     </item>
     
   </channel>

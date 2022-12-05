@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>deliberate practice on hexdevs</title>
     <link>https://www.hexdevs.com/tags/deliberate-practice/</link>
     <description>Recent content in deliberate practice on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 May 2022 16:03:10 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/deliberate-practice/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +17,7 @@
       <pubDate>Tue, 31 May 2022 16:03:10 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/books-level-up-junior-to-intermediate/</guid>
-      <description>Some weeks ago, one of our community members asked us the following question:
-&amp;ldquo;What books on Ruby would you recommend when trying to move from Junior to Intermediate Developer? I can understand basic Ruby and intermediate Rails code well. I get lost when looking up code in the gems&amp;hellip; I feel like they are a bit more advanced. Instead of looking for scattered content across the internet, it&amp;rsquo;d be nice to go through a Ruby book to have a more solid understanding of things!</description>
+      <description>Want to avoid going through lots of frustration when self-learning Ruby or any other programming skills? In this post, I&amp;#39;m going to share a few tools for your self-learning technical practice toolkit and get the most out of your continuous technical practice.</description>
     </item>
     
     <item>
@@ -23,9 +26,7 @@
       <pubDate>Tue, 16 Nov 2021 16:35:31 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/perceptual-learning-programming-deliberate-practice/</guid>
-      <description>This article is the second part of the Science of Expertise series. Before reading along, read The Science of Expertise: introduction to Perceptual Learning. the resources mentioned in this series is also found at the end.
-A Better Way to Practice Ruby: Deliberate Practice Perceptual Learning results are promising.
-Unfortunately, no research has been made for programming yet. In this article, you&amp;rsquo;ll learn what we apply from what&amp;rsquo;s been published regarding Perceptual Learning in several domains.</description>
+      <description>What does it mean to be an expert? How do humans develop experts skills? What is the difference between being an experienced developer and an expert developer? To answer these questions, let&amp;#39;s learn from the latest research on the science of expertise and perceptual learning, and PL techniques to help you become a Ruby expert.</description>
     </item>
     
     <item>
@@ -34,10 +35,7 @@ Unfortunately, no research has been made for programming yet. In this article, y
       <pubDate>Tue, 16 Nov 2021 16:21:38 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/perceptual-learning-introduction/</guid>
-      <description>How do you become an expert? Why some Ruby developers can&amp;rsquo;t explain what they know? Why some developers don&amp;rsquo;t develop expert skills? What does it mean to be a Ruby expert?
-To discuss these questions, we&amp;rsquo;ll explore Perceptual Learning (PL) research.
-PL is a natural learning process that complements traditional Education. It accelerates expertise by speeding pattern recognition, intuition and fluency on a given subject.
-Ever since I found out about Perceptual Learning in the book &amp;ldquo;Badass - Making users awesome&amp;rdquo;, from Kathy Sierra, I got really curious to learn more about the science behind Perceptual Learning.</description>
+      <description>What does it mean to be an expert? How do humans develop experts skills? What is the difference between being an experienced developer and an expert developer? To answer these questions, let&amp;#39;s learn from the latest research on the science of expertise and perceptual learning, and PL techniques to help you become a Ruby expert.</description>
     </item>
     
   </channel>

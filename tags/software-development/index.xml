@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>software development on hexdevs</title>
     <link>https://www.hexdevs.com/tags/software-development/</link>
     <description>Recent content in software development on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Nov 2022 14:44:02 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/software-development/index.xml" rel="self" type="application/rss+xml" />
@@ -13,11 +17,7 @@
       <pubDate>Sun, 27 Nov 2022 14:44:02 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/building-technical-wealth-legacy-code-m-scott-ford/</guid>
-      <description>Listen to and watch our conversation with M. Scott Ford and learn how to build technical wealth, enjoy working with legacy code, tools, and strategies to remove dead code, and how thrive in a world of makers as a mender.
- 
- Apple Podcasts | Spotify
-   
-About our guest M. Scott Ford is the Co-Founder &amp;amp; Chief Code Whisperer of Corgibytes, where he has quietly led a software maintenance revolution for the past decade.</description>
+      <description>Are you working on Ruby on Rails Applications that are constantly on fire, overwhelmed by technical debt? What if you were building Technical Wealth instead? Learn which tools &amp;amp; strategies to work with legacy code effectively, remove dead code, and leave tech debt behind.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@ About our guest M. Scott Ford is the Co-Founder &amp;amp; Chief Code Whisperer o
       <pubDate>Thu, 02 Jun 2022 18:06:22 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/get-to-senior-developer-caroline-salib/</guid>
-      <description>&amp;ldquo;I had a huge list of the technical things I needed to learn for this new position and turns out none of them was missing for me to get to Senior. I need to do some leadership work, do more mentoring, and is a matter of time. But now I know what to do and I know what to focus on. And that was really surprising. I don&amp;rsquo;t need to spend hours studying programming&amp;rdquo; &amp;ndash; Caroline Salib.</description>
+      <description>What to do when you&amp;#39;ve been doing one technical course after the other, and still not making the jump to Senior? What are the non-obvious skills you need to be promoted to Senior? Listen to our conversation with Caroline Salib on how to identify the non-obvious skills to get promoted to Senior Software Developer -- and it&amp;#39;s not another technical course.</description>
     </item>
     
     <item>
@@ -35,9 +35,7 @@ About our guest M. Scott Ford is the Co-Founder &amp;amp; Chief Code Whisperer o
       <pubDate>Wed, 13 Apr 2022 12:48:27 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/smart-ruby-developers-dont-ask-for-advice/</guid>
-      <description>If you could run a career quality tool to analyze your progress, would it say you’re moving in the right direction? What score would you get?
-Here’s the catch: how you think you’re doing and what your teammates think how you&amp;rsquo;re doing are not the same thing.
-Want to find out for sure whether you’re moving up the Engineering Ladder anytime soon or not? The only way is by asking for instructive feedback.</description>
+      <description>Want to find out for sure whether you’re moving up the Engineering Ladder anytime soon or not? Instead of asking for advice, ask for Instructive Feedback. Here&amp;#39;s how.</description>
     </item>
     
     <item>
@@ -46,9 +44,7 @@ Want to find out for sure whether you’re moving up the Engineering Ladder anyt
       <pubDate>Tue, 22 Mar 2022 16:40:42 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-software-engineer-career-path-mina/</guid>
-      <description>Often as developers, we believe we are supposed to know everything. Just figure everything by ourselves. As long as we get faster and better at coding, our careers will progress smoothly.
-But if you ask around, you’ll notice that most people are feeling technically stuck, despite years of experience. If you ask for career advice, people will throw you an endless list of complex technical skills to master.
-That’s not what you’ll find here.</description>
+      <description>Have you ever reflected on your career goals as a Software Developer? How often do you talk with someone who’s doing the kind of work you want to be doing? Find out how Mina Slater created her own role by taking advantage of her theater management background and expanding the impact of her work.</description>
     </item>
     
     <item>
@@ -57,10 +53,7 @@ That’s not what you’ll find here.</description>
       <pubDate>Fri, 18 Feb 2022 10:59:13 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/one-mistake-keeping-mid-level-developers-stuck-in-a-loop/</guid>
-      <description>You look at the clock: it&amp;rsquo;s 5 PM.
-You&amp;rsquo;ve been sitting on a chair for the past ~8 hours&amp;hellip; Or worse: just endless, mind-numbing meetings all day. No wonder why you don&amp;rsquo;t feel like opening up a technical book or watching tutorials after work.
-Even so, you try to push yourself one more time because you want to keep growing in your career.
-You try to finish one exercise from the latest technical material you’ve invested in.</description>
+      <description>Are you stuck as a mid-level developer? Trying to keep practicing after work, but don&amp;#39;t feel like you&amp;#39;re learning anything? What if you knew the next steps for you to make the jump to Senior? Learn how to save time and energy by doing one thing differently today.</description>
     </item>
     
     <item>
@@ -69,9 +62,7 @@ You try to finish one exercise from the latest technical material you’ve inves
       <pubDate>Sat, 11 Dec 2021 16:25:06 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/unhappy-software-developers-randy-paterson/</guid>
-      <description>Do you suffer from Slack notification anxiety? On-call schedules and deadlines giving you nightmares? Are your teammates nitpicking your code during code review?
-Instead of quitting your job out of frustration and having to go through another round of technical interviews, what if you knew how to have a great relationship with your work?
-Learn how to deal with imposter syndrome, unrealistic deadlines, and stop communicating passive-aggressively today! Communicate effectively with your team and finish the day feeling good about what you&amp;rsquo;ve accomplished.</description>
+      <description>Do you suffer from Slack notification anxiety? On-call schedules and deadlines giving you nightmares? Learn how to deal with conflict at work and in relationships with Dr. Randy Paterson, author of The Assertiveness Workbook.</description>
     </item>
     
   </channel>

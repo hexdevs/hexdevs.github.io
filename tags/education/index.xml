@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>education on hexdevs</title>
     <link>https://www.hexdevs.com/tags/education/</link>
     <description>Recent content in education on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Oct 2021 17:40:34 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/education/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +17,7 @@
       <pubDate>Fri, 29 Oct 2021 17:40:34 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-on-rails-courses-purchasing-power-parity/</guid>
-      <description>Are you looking for courses, training, and resources to improve your Ruby and Ruby on Rails skills, but you are not being paid in US dollars?
-Most Ruby and Ruby on Rails books and courses are priced in US dollars. When you can&amp;rsquo;t afford them just because the country you live in has an undervalued currency compared to the dollar, it makes it difficult to invest in your education.
-There are many free options you probably already know about, and you&amp;rsquo;re already using them.</description>
+      <description>Living in a country whose currency is undervalued, which makes it hard for you to afford a course priced in US dollars? Here&amp;#39;s a list of resources that offer discounts for Ruby and Rails developers who earn a local wage (outside of the US). The list includes one-time fee and monthly subscriptions.</description>
     </item>
     
   </channel>

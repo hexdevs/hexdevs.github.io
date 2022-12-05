@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>RubyConf 2021 on hexdevs</title>
     <link>https://www.hexdevs.com/tags/rubyconf-2021/</link>
     <description>Recent content in RubyConf 2021 on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Oct 2021 11:50:02 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/rubyconf-2021/index.xml" rel="self" type="application/rss+xml" />
@@ -13,11 +17,7 @@
       <pubDate>Wed, 20 Oct 2021 11:50:02 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/rubyconf2021/</guid>
-      <description>Hi, nice seeing you here!
-Thanks for checking out Perceptual Learning == More Ruby experts? presented at RubyConf 2021.
-  
-You can find the slides and the resources mentioned in this talk below:
- Slides 🖼️ Resources mentioned in this talk 📖  The Science of Expertise series hexdevs team is working on some guides and exercises for practicing Ruby following the research principles shared here. A written format from this talk and new published articles can be found in the The Science of Expertise series ✍🏼</description>
+      <description>What does it mean to be an expert? How do humans develop experts skills? What is the difference between being an experienced developer and an expert developer? To answer these questions, let&amp;#39;s learn from the latest research on the science of expertise and perceptual learning, and PL techniques to help you become a Ruby expert.</description>
     </item>
     
   </channel>

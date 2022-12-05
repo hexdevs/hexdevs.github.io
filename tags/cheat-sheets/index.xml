@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>cheat sheets on hexdevs</title>
     <link>https://www.hexdevs.com/tags/cheat-sheets/</link>
     <description>Recent content in cheat sheets on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Jun 2021 19:22:48 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/cheat-sheets/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +17,7 @@
       <pubDate>Tue, 29 Jun 2021 19:22:48 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/pry-debug-in-5-minutes/</guid>
-      <description>When you&amp;rsquo;re banging your head against the wall trying to fix a bug, the last thing you want is having to stop and learn how to use the debugging tool.
-You might even have added require &#39;pry&#39; on a Ruby file but quickly realized you couldn&amp;rsquo;t remember all the available commands.
-If only there was a way for you to quickly learn how to use Pry and focus on solving the problem&amp;hellip; Well, there is now!</description>
+      <description>Whether you&amp;#39;re new to Pry or not, there are so many commands to learn! Get Started with Pry in 5 minutes and save hours of work next time you have to debug your code.</description>
     </item>
     
   </channel>

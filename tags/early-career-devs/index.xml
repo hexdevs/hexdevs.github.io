@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>early career devs on hexdevs</title>
     <link>https://www.hexdevs.com/tags/early-career-devs/</link>
     <description>Recent content in early career devs on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 May 2022 16:03:10 -0700</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/early-career-devs/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +17,7 @@
       <pubDate>Tue, 31 May 2022 16:03:10 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/books-level-up-junior-to-intermediate/</guid>
-      <description>Some weeks ago, one of our community members asked us the following question:
-&amp;ldquo;What books on Ruby would you recommend when trying to move from Junior to Intermediate Developer? I can understand basic Ruby and intermediate Rails code well. I get lost when looking up code in the gems&amp;hellip; I feel like they are a bit more advanced. Instead of looking for scattered content across the internet, it&amp;rsquo;d be nice to go through a Ruby book to have a more solid understanding of things!</description>
+      <description>Want to avoid going through lots of frustration when self-learning Ruby or any other programming skills? In this post, I&amp;#39;m going to share a few tools for your self-learning technical practice toolkit and get the most out of your continuous technical practice.</description>
     </item>
     
     <item>
@@ -23,10 +26,7 @@
       <pubDate>Tue, 16 Nov 2021 13:47:31 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/build-a-developer-portfolio-get-stuck/</guid>
-      <description>&amp;ldquo;Can you help me build out my developer portfolio?&amp;rdquo;
- It&amp;rsquo;s the first question early-career developers ask when they book a mentoring call with me.
-They&amp;rsquo;ve been struggling to find their first developer job. They read an article or a friend tells them they should be focusing on building their tech portfolio. Or they just decided to follow generic advice on the internet.
-I&amp;rsquo;ve been mentoring people for many years, and the portfolio question is the first thing they ask me.</description>
+      <description>Have you spent months building a tech portfolio to get your first developer job, but not getting any results? That&amp;#39;s mainly because a portfolio is an endless project with no scope and no end-goal. It&amp;#39;s easy to get stuck forever. How about building trust instead?</description>
     </item>
     
     <item>
@@ -35,10 +35,7 @@ I&amp;rsquo;ve been mentoring people for many years, and the portfolio question 
       <pubDate>Sat, 23 Oct 2021 13:19:08 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/examples-successful-self-taught-developers/</guid>
-      <description>Let&amp;rsquo;s say you&amp;rsquo;re learning how to paint. When you look at the famous paintings at the museum, you might start asking yourself:
-&amp;ldquo;Will I ever be this good? Is this for me? Will I ever understand all of this?&amp;rdquo;
-If these questions sound familiar, it&amp;rsquo;s because you&amp;rsquo;re not alone. It&amp;rsquo;s not just you.
-Believe it or not, the same questions can be applied to coding. Some things, like painting and learning how to code, are hard.</description>
+      <description>Feel like coding is not for you? You&amp;#39;re not alone. To give you a boost of inspiration, here&amp;#39;s a list of a few successful Rails developers that come from unusual backgrounds.</description>
     </item>
     
     <item>
@@ -47,9 +44,7 @@ Believe it or not, the same questions can be applied to coding. Some things, lik
       <pubDate>Sat, 23 Oct 2021 13:16:47 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/github-readme-examples-and-template/</guid>
-      <description>You show your GitHub project to people but they don&amp;rsquo;t understand what the code is about. Why should you take time to write a good README if they can simply &amp;ldquo;read the code&amp;rdquo;?
-They won&amp;rsquo;t even look at your code if you don&amp;rsquo;t explain what&amp;rsquo;s in it for them. Why should anyone care about it?
-What about making them curious about your project? It saves them time, it shows you care about good communication and that by writing good docs you probably write good code as well.</description>
+      <description>Tips, examples and a template for writing simple yet useful Github READMEs for your projects.</description>
     </item>
     
     <item>
@@ -58,10 +53,7 @@ What about making them curious about your project? It saves them time, it shows 
       <pubDate>Sat, 23 Oct 2021 13:03:56 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/unstuck-guide-for-developers/</guid>
-      <description>When you get stuck, it’s really easy to block yourself from creatively solving your problem.
-You start asking &amp;ldquo;why am I so dumb?&amp;rdquo;, or thinking that you don’t have a programmer&amp;rsquo;s brain, or feeling that you’ll never understand anything.
-How is that helpful? It isn’t.
-The way we talk to each other (even to ourselves) impacts our performance. It’s not self-help BS. It’s how our brain works.</description>
+      <description>Feeling frustrated with everything you need to learn? Feel like things will never &amp;#39;click&amp;#39;? Try this surprisingly simple way to get unstuck as a developer.</description>
     </item>
     
     <item>
@@ -70,12 +62,7 @@ The way we talk to each other (even to ourselves) impacts our performance. It’
       <pubDate>Sat, 23 Oct 2021 12:57:15 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/first-ruby-dev-job-no-experience/</guid>
-      <description>You&amp;rsquo;re focusing on finding that first Ruby job. You&amp;rsquo;ve been practicing for months or years. You&amp;rsquo;ve been applying to entry-level jobs, even internships.
-You polish your resume. Tweak your portfolio. Attach your CV. Press Submit.
-Chirp, chirp, chirp 🦗
-Nothing happens.
-Worse: you do an amazing interview, people loved you. But then they say they are moving forward with someone else that has more experience.
-Welp, next time is going to be different.</description>
+      <description>Beep. Another rejection. You don&amp;#39;t have experience for an entry-level Ruby job. Worse: chirp, chirp, chirp. No replies at all. Are you tired of all of this? If you want to get real-world experience, apply this strategy to get different results.</description>
     </item>
     
   </channel>

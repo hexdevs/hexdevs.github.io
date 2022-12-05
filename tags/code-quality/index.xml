@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>code quality on hexdevs</title>
     <link>https://www.hexdevs.com/tags/code-quality/</link>
     <description>Recent content in code quality on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Nov 2022 14:44:02 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/code-quality/index.xml" rel="self" type="application/rss+xml" />
@@ -13,11 +17,7 @@
       <pubDate>Sun, 27 Nov 2022 14:44:02 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/building-technical-wealth-legacy-code-m-scott-ford/</guid>
-      <description>Listen to and watch our conversation with M. Scott Ford and learn how to build technical wealth, enjoy working with legacy code, tools, and strategies to remove dead code, and how thrive in a world of makers as a mender.
- 
- Apple Podcasts | Spotify
-   
-About our guest M. Scott Ford is the Co-Founder &amp;amp; Chief Code Whisperer of Corgibytes, where he has quietly led a software maintenance revolution for the past decade.</description>
+      <description>Are you working on Ruby on Rails Applications that are constantly on fire, overwhelmed by technical debt? What if you were building Technical Wealth instead? Learn which tools &amp;amp; strategies to work with legacy code effectively, remove dead code, and leave tech debt behind.</description>
     </item>
     
     <item>
@@ -26,12 +26,7 @@ About our guest M. Scott Ford is the Co-Founder &amp;amp; Chief Code Whisperer o
       <pubDate>Mon, 29 Nov 2021 10:07:55 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/</guid>
-      <description>Are you working on Ruby on Rails Applications that are constantly on fire, overwhelmed by technical debt?
-Instead of being a firefighter, what if you could be a happy programmer again and &amp;ldquo;Escape the tar pit&amp;rdquo;?
-Learn exactly how to measure tech debt and take the right steps to immediately improve code quality. Listen to our conversation with Ernesto Tagwerker (@etagwerker).
- 
- Apple Podcasts | Spotify
-About our guest Ernesto Tagwerker is the founder &amp;amp; CTO at FastRuby.</description>
+      <description>Are you working on Ruby on Rails Applications that are constantly on fire, overwhelmed by technical debt? Instead of being a firefighter, what if you could be a happy programmer again? Listen and learn exactly how to measure tech debt and take the right steps to immediately improve code quality!</description>
     </item>
     
     <item>
@@ -40,9 +35,7 @@ About our guest Ernesto Tagwerker is the founder &amp;amp; CTO at FastRuby.</des
       <pubDate>Tue, 02 Nov 2021 14:45:57 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</guid>
-      <description>Does it take forever to ship even small features on the codebase you&amp;rsquo;re working on? Is the code hard to understand and maintain? Are projects always running over budget? Are you constantly sacrificing code quality and not paying down technical debt?
-When you change one feature, does another completely unrelated part of your app stop working? New bugs appear, even though tests never break? 🥵
-Those are signs that you are suffering from working on a codebase with low code quality.</description>
+      <description>Taking ages to deliver small changes? Constantly sacrificing code quality? Is it possible to ever pay off tech debt? Yes, it is! Learn which Ruby code quality tools you can use to perform static code analysis and improve code quality. This post is a summary of Ernesto Tagwerker&amp;#39;s &amp;#39;Trapped in the Tar Pit?&amp;#39; talk.</description>
     </item>
     
   </channel>

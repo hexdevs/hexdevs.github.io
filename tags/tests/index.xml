@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>tests on hexdevs</title>
     <link>https://www.hexdevs.com/tags/tests/</link>
     <description>Recent content in tests on hexdevs</description>
+    <image>
+      <url>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</url>
+      <link>https://www.hexdevs.com/images/opengraph/hexdevs_logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Nov 2022 13:21:46 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/tests/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +17,7 @@
       <pubDate>Sat, 12 Nov 2022 13:21:46 -0800</pubDate>
       
       <guid>https://www.hexdevs.com/posts/thor-ruby-options-testing/</guid>
-      <description>Thor Ruby gem is a great tool to quickly build a CLI (Command-line interface) app.
-Although there are lots of tutorials for building a CLI with Thor from scratch, there aren&amp;rsquo;t a lot of them on how to test Thor, especially covering scenarios such as required options.
-Thor makes it easy to specify options and arguments for Thor commands. However, I didn&amp;rsquo;t find it easy to test them in the documentation.</description>
+      <description>There are lots of tutorials for building a CLI with Thor from scratch, but there aren&amp;#39;t a lot of them on how to test Thor, especially covering scenarios such as required options. Learn how to test Thor Ruby options.</description>
     </item>
     
     <item>
@@ -24,9 +26,7 @@ Thor makes it easy to specify options and arguments for Thor commands. However, 
       <pubDate>Thu, 06 Oct 2022 07:09:32 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/posts/rails-jbuilder-json-api/</guid>
-      <description>For rspec-rails users, when testing a controller action that uses Jbuilder as a serializer, and you want to test that the response includes exactly what you expect from the Jbuilder serializer, you need to enable render_views in your specs.
-That&amp;rsquo;s because in RSpec, rendering the content of view templates is disabled by default.
-But when using Jbuilder, you do want to render views because that&amp;rsquo;s how Jbuilder serializes the response. And that&amp;rsquo;s what render_views does: it enables view rendering for controllers specs.</description>
+      <description>Want to write a Rails API controller test and make sure it includes exactly what your Jbuilder serializer returns? You need to enable `render_views`. Learn why in this post.</description>
     </item>
     
   </channel>
