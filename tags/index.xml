@@ -6,7 +6,34 @@
     <description>Recent content in Tags on hexdevs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Nov 2022 13:21:46 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Nov 2022 14:44:02 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>code quality</title>
+      <link>https://www.hexdevs.com/tags/code-quality/</link>
+      <pubDate>Sun, 27 Nov 2022 14:44:02 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/code-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>https://www.hexdevs.com/tags/podcast/</link>
+      <pubDate>Sun, 27 Nov 2022 14:44:02 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software development</title>
+      <link>https://www.hexdevs.com/tags/software-development/</link>
+      <pubDate>Sun, 27 Nov 2022 14:44:02 -0800</pubDate>
+      
+      <guid>https://www.hexdevs.com/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>rspec</title>
       <link>https://www.hexdevs.com/tags/rspec/</link>
@@ -103,24 +130,6 @@
       <pubDate>Thu, 02 Jun 2022 18:06:22 -0700</pubDate>
       
       <guid>https://www.hexdevs.com/tags/get-to-senior/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>podcast</title>
-      <link>https://www.hexdevs.com/tags/podcast/</link>
-      <pubDate>Thu, 02 Jun 2022 18:06:22 -0700</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>software development</title>
-      <link>https://www.hexdevs.com/tags/software-development/</link>
-      <pubDate>Thu, 02 Jun 2022 18:06:22 -0700</pubDate>
-      
-      <guid>https://www.hexdevs.com/tags/software-development/</guid>
       <description></description>
     </item>
     
