@@ -3,27 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.hexdevs.com/posts/removing-dead-code/</loc>
+    <lastmod>2023-02-01T20:58:22-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/best-practices/</loc>
+    <lastmod>2023-02-01T20:58:22-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/code-quality/</loc>
+    <lastmod>2023-02-01T20:58:22-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/</loc>
+    <lastmod>2023-02-01T20:58:22-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/posts/</loc>
+    <lastmod>2023-02-01T20:58:22-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/ruby/</loc>
+    <lastmod>2023-02-01T20:58:22-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
+    <lastmod>2023-02-01T20:58:22-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/software-design/</loc>
+    <lastmod>2023-02-01T20:58:22-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexdevs.com/tags/</loc>
+    <lastmod>2023-02-01T20:58:22-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.hexdevs.com/posts/building-technical-wealth-legacy-code-m-scott-ford/</loc>
     <lastmod>2022-12-04T16:40:14-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/tags/code-quality/</loc>
-    <lastmod>2022-12-12T15:25:34-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/</loc>
-    <lastmod>2022-12-12T15:25:34-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/tags/podcast/</loc>
-    <lastmod>2022-12-12T15:25:34-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/</loc>
     <lastmod>2022-12-12T15:25:34-08:00</lastmod>
   </url>
   
@@ -33,18 +63,8 @@
   </url>
   
   <url>
-    <loc>https://www.hexdevs.com/tags/</loc>
-    <lastmod>2022-12-12T15:25:34-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.hexdevs.com/tags/rspec/</loc>
     <lastmod>2022-11-28T17:35:06-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/ruby/</loc>
-    <lastmod>2022-12-12T15:25:34-08:00</lastmod>
   </url>
   
   <url>
@@ -70,11 +90,6 @@
   <url>
     <loc>https://www.hexdevs.com/tags/open-source/</loc>
     <lastmod>2022-10-19T21:57:38-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
-    <lastmod>2022-12-12T15:25:34-08:00</lastmod>
   </url>
   
   <url>
@@ -175,16 +190,6 @@
   <url>
     <loc>https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/</loc>
     <lastmod>2022-04-12T10:35:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/best-practices/</loc>
-    <lastmod>2022-12-12T15:25:34-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/software-design/</loc>
-    <lastmod>2022-12-12T15:25:34-08:00</lastmod>
   </url>
   
   <url>
@@ -299,7 +304,7 @@
   
   <url>
     <loc>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</loc>
-    <lastmod>2022-11-27T15:02:32-08:00</lastmod>
+    <lastmod>2023-02-01T20:58:22-08:00</lastmod>
   </url>
   
   <url>
