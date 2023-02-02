@@ -13,10 +13,10 @@
     <lastBuildDate>Fri, 27 Jan 2023 13:56:58 -0800</lastBuildDate><atom:link href="https://www.hexdevs.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>4 Strategies To Remove Dead Code from your Ruby App</title>
-      <link>https://www.hexdevs.com/posts/removing-dead-code/</link>
+      <link>https://www.hexdevs.com/posts/how-to-remove-dead-code-ruby/</link>
       <pubDate>Fri, 27 Jan 2023 13:56:58 -0800</pubDate>
       
-      <guid>https://www.hexdevs.com/posts/removing-dead-code/</guid>
+      <guid>https://www.hexdevs.com/posts/how-to-remove-dead-code-ruby/</guid>
       <description>How much does it cost you to carry dead code? How do you find and remove zombie Ruby code? Use these 4 strategies to kill out all the dead code in your Ruby application.</description>
     </item>
     
