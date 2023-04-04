@@ -1,509 +1,310 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://www.hexdevs.com/posts/fixing-ruby-thread-safety-bugs-with-nate-berkopec/</loc>
+    <lastmod>2023-04-03T22:32:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.hexdevs.com/</loc>
+    <lastmod>2023-04-03T22:32:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.hexdevs.com/tags/open-source/</loc>
+    <lastmod>2023-04-03T22:32:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.hexdevs.com/posts/</loc>
+    <lastmod>2023-04-03T22:32:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.hexdevs.com/tags/ruby/</loc>
+    <lastmod>2023-04-03T22:32:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
+    <lastmod>2023-04-03T22:32:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.hexdevs.com/tags/software-development/</loc>
+    <lastmod>2023-04-03T22:32:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.hexdevs.com/tags/</loc>
+    <lastmod>2023-04-03T22:32:56-07:00</lastmod>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/how-to-remove-dead-code-ruby/</loc>
     <lastmod>2023-02-01T21:04:53-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/best-practices/</loc>
     <lastmod>2023-02-01T21:04:53-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/code-quality/</loc>
     <lastmod>2023-02-01T21:04:53-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/</loc>
-    <lastmod>2023-02-01T21:04:53-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/posts/</loc>
-    <lastmod>2023-02-01T21:04:53-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/ruby/</loc>
-    <lastmod>2023-02-01T21:04:53-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
-    <lastmod>2023-02-01T21:04:53-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/software-design/</loc>
     <lastmod>2023-02-01T21:04:53-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/</loc>
-    <lastmod>2023-02-01T21:04:53-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/building-technical-wealth-legacy-code-m-scott-ford/</loc>
     <lastmod>2022-12-04T16:40:14-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/podcast/</loc>
     <lastmod>2022-12-12T15:25:34-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/software-development/</loc>
-    <lastmod>2022-12-12T15:25:34-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/rspec/</loc>
     <lastmod>2022-11-28T17:35:06-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/thor-ruby-options-testing/</loc>
     <lastmod>2022-11-28T17:35:06-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/tests/</loc>
     <lastmod>2022-11-28T17:35:06-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/thor/</loc>
     <lastmod>2022-11-28T17:35:06-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/how-to-open-source-with-richard-schneeman-schneems/</loc>
     <lastmod>2022-10-19T21:57:38-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexdevs.com/tags/open-source/</loc>
-    <lastmod>2022-10-19T21:57:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/rails-jbuilder-json-api/</loc>
     <lastmod>2022-10-10T12:44:48-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/jbuilder/</loc>
     <lastmod>2022-10-10T12:44:48-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/expert-sessions/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/faker-ruby-vitor-oliveira-open-source-thursdays/</loc>
     <lastmod>2022-09-25T16:40:44-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/open-source-thursdays/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/contribute-ruby-on-rails-guide/</loc>
     <lastmod>2022-06-22T15:14:26-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/career/</loc>
     <lastmod>2022-12-12T15:25:34-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/get-to-senior/</loc>
     <lastmod>2022-06-06T12:59:34-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/get-to-senior-developer-caroline-salib/</loc>
     <lastmod>2022-06-06T12:59:34-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/deliberate-practice/</loc>
     <lastmod>2022-06-06T12:58:01-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/early-career-devs/</loc>
     <lastmod>2022-06-06T12:58:01-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/perceptual-learning/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/books-level-up-junior-to-intermediate/</loc>
     <lastmod>2022-06-06T12:58:01-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/boss/</loc>
     <lastmod>2022-05-16T18:35:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/how-to-write-order-by-case-query-with-arel/</loc>
     <lastmod>2022-05-09T15:56:25-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/sql/</loc>
     <lastmod>2022-05-09T15:56:25-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/debug-third-party-ruby-gem-with-pry/</loc>
     <lastmod>2022-05-04T13:21:58-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/guides/</loc>
     <lastmod>2022-05-04T13:21:58-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/smart-ruby-developers-dont-ask-for-advice/</loc>
     <lastmod>2022-04-13T18:51:01-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/</loc>
     <lastmod>2022-04-12T10:35:24-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/career-development/</loc>
     <lastmod>2022-04-28T16:58:19-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/expert-guest-sessions/expert-sessions-with-fabiano-beselga-april-20/</loc>
     <lastmod>2022-04-28T16:58:19-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/expert-guest-sessions/</loc>
     <lastmod>2022-04-28T16:58:19-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/ruby-software-engineer-career-path-mina/</loc>
     <lastmod>2022-05-23T14:18:33-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/public-speaking/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/public-speaking-tips-for-software-developers/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/meetups/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/technical-talks/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/one-mistake-keeping-mid-level-developers-stuck-in-a-loop/</loc>
     <lastmod>2022-02-21T17:20:02-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/senior-crash-course/</loc>
     <lastmod>2022-06-21T12:51:17-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/unhappy-software-developers-randy-paterson/</loc>
     <lastmod>2022-12-12T15:25:34-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/</loc>
     <lastmod>2022-12-12T15:25:34-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/senior/</loc>
     <lastmod>2022-08-29T14:13:30-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/workshop/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/workshop/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/hotwire/</loc>
     <lastmod>2022-03-25T10:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/hotwire-rails-chris-oliver/</loc>
     <lastmod>2022-03-25T10:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/ruby-just-in-time-compiler-tenderjit/</loc>
     <lastmod>2022-03-25T10:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/science-of-expertise/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/perceptual-learning-programming-deliberate-practice/</loc>
     <lastmod>2021-11-30T19:11:14-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/perceptual-learning-introduction/</loc>
     <lastmod>2021-11-30T19:11:14-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/build-a-developer-portfolio-get-stuck/</loc>
     <lastmod>2022-03-07T10:44:25-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/code-quality-ruby-on-rails/</loc>
     <lastmod>2023-02-01T20:58:22-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/ruby-on-rails-courses-purchasing-power-parity/</loc>
     <lastmod>2022-03-04T12:42:42-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/education/</loc>
     <lastmod>2022-03-04T12:42:42-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/how-to-learn-programming-language-syntax/</loc>
     <lastmod>2021-10-23T13:39:53-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/</loc>
     <lastmod>2021-11-30T19:11:14-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/new-job-new-codebase-how-to-get-started/</loc>
     <lastmod>2021-12-17T18:11:38-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/examples-successful-self-taught-developers/</loc>
     <lastmod>2021-10-23T13:39:53-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/documentation/</loc>
     <lastmod>2021-10-23T13:39:53-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/github-readme-examples-and-template/</loc>
     <lastmod>2021-10-23T13:39:53-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/problem-solving/</loc>
     <lastmod>2021-12-17T18:11:38-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/unstuck-guide-for-developers/</loc>
     <lastmod>2021-12-17T18:11:38-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/first-ruby-dev-job-no-experience/</loc>
     <lastmod>2021-11-30T19:11:14-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/rubyconf2021/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/rubyconf-2021/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/open-source-thursdays/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-aaron-patterson-sep-30th/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/confirm-subscription-expert-session/</loc>
     <lastmod>2021-10-27T12:45:05-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/ruby-on-rails-open-source-contribution/</loc>
     <lastmod>2022-06-22T15:14:26-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/confirm-your-subscription/</loc>
     <lastmod>2021-09-21T14:31:59-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/newsletter/</loc>
     <lastmod>2022-01-31T17:25:49-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/newsletter/</loc>
     <lastmod>2022-01-31T17:25:49-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/code-of-conduct/</loc>
     <lastmod>2022-04-30T14:03:32-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/code-of-conduct/</loc>
     <lastmod>2022-04-30T14:03:32-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-rafael-franca-aug-5th/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/thank-you/</loc>
     <lastmod>2021-11-30T19:05:16-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/blogging/</loc>
     <lastmod>2022-05-23T14:18:33-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/why-no-one-reads-your-blog/</loc>
     <lastmod>2022-05-23T14:18:33-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/cheat-sheets/</loc>
     <lastmod>2022-04-30T14:00:57-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/pry-debug-in-5-minutes/</loc>
     <lastmod>2022-04-30T14:00:57-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/watch-party/</loc>
     <lastmod>2021-11-29T12:02:29-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/tech-talks/</loc>
     <lastmod>2021-11-29T12:02:29-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/watch-party/</loc>
     <lastmod>2021-11-29T12:02:29-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/open-source-thursdays-project/</loc>
     <lastmod>2022-06-22T15:14:26-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/tags/hexdevs/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/taking-the-leap-into-entrepreneurship-with-monica-lent/</loc>
     <lastmod>2021-07-25T16:30:03-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/unusual-tech-jobs/</loc>
     <lastmod>2022-04-30T14:01:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/why-michael-lynch-left-his-job-at-google-to-become-a-solo-founder/</loc>
     <lastmod>2021-07-25T16:30:03-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/posts/grow-micro-saas-to-30k-per-month-delightchat-episode/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/about/</loc>
     <lastmod>2022-11-27T15:24:05-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hexdevs.com/open-source-thursdays/expert-sessions-with-chris-oliver-oct-14th/</loc>
     <lastmod>2022-11-02T09:02:04-07:00</lastmod>
   </url>
-  
 </urlset>
