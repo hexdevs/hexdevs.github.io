@@ -2,29 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.hexdevs.com/posts/fixing-ruby-thread-safety-bugs-with-nate-berkopec/</loc>
-    <lastmod>2023-04-04T08:04:57-07:00</lastmod>
+    <loc>https://www.hexdevs.com/posts/git-checkout-upstream-branch-locally/</loc>
+    <lastmod>2023-08-21T21:06:50-06:00</lastmod>
+  </url><url>
+    <loc>https://www.hexdevs.com/tags/git/</loc>
+    <lastmod>2023-08-21T21:06:50-06:00</lastmod>
   </url><url>
     <loc>https://www.hexdevs.com/</loc>
-    <lastmod>2023-04-04T08:04:57-07:00</lastmod>
+    <lastmod>2023-08-21T21:06:50-06:00</lastmod>
   </url><url>
     <loc>https://www.hexdevs.com/tags/open-source/</loc>
-    <lastmod>2023-04-04T08:04:57-07:00</lastmod>
+    <lastmod>2023-08-21T21:06:50-06:00</lastmod>
   </url><url>
     <loc>https://www.hexdevs.com/posts/</loc>
-    <lastmod>2023-04-04T08:04:57-07:00</lastmod>
-  </url><url>
-    <loc>https://www.hexdevs.com/tags/ruby/</loc>
-    <lastmod>2023-04-04T08:04:57-07:00</lastmod>
-  </url><url>
-    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
-    <lastmod>2023-04-04T08:04:57-07:00</lastmod>
-  </url><url>
-    <loc>https://www.hexdevs.com/tags/software-development/</loc>
-    <lastmod>2023-04-04T08:04:57-07:00</lastmod>
+    <lastmod>2023-08-21T21:06:50-06:00</lastmod>
   </url><url>
     <loc>https://www.hexdevs.com/tags/</loc>
-    <lastmod>2023-04-04T08:04:57-07:00</lastmod>
+    <lastmod>2023-08-21T21:06:50-06:00</lastmod>
+  </url><url>
+    <loc>https://www.hexdevs.com/posts/fixing-ruby-thread-safety-bugs-with-nate-berkopec/</loc>
+    <lastmod>2023-04-04T08:11:20-07:00</lastmod>
+  </url><url>
+    <loc>https://www.hexdevs.com/tags/ruby/</loc>
+    <lastmod>2023-04-04T08:11:20-07:00</lastmod>
+  </url><url>
+    <loc>https://www.hexdevs.com/tags/ruby-on-rails/</loc>
+    <lastmod>2023-04-04T08:11:20-07:00</lastmod>
+  </url><url>
+    <loc>https://www.hexdevs.com/tags/software-development/</loc>
+    <lastmod>2023-04-04T08:11:20-07:00</lastmod>
   </url><url>
     <loc>https://www.hexdevs.com/posts/how-to-remove-dead-code-ruby/</loc>
     <lastmod>2023-02-01T21:04:53-08:00</lastmod>
